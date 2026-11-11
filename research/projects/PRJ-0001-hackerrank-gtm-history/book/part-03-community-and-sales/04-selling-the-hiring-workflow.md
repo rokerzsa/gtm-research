@@ -1,40 +1,41 @@
-# Chapter 04 — Becoming part of the employer's hiring process
+# Selling a workflow into an employer account
 
-A company did not have to recruit from HackerRank's community to need its software. It might already have more applicants than its engineers could interview. For that employer, the job was to sort through existing candidates without consuming so much engineering time.
+The community route begins with attracting programmers. Another route begins inside an employer that already has applicants and needs help deciding whom to interview. For that buyer, the important question is how assessment improves the process its recruiters and engineers already operate.
 
-This created a second route to value alongside contests and candidate discovery: make the employer's own hiring process work better. Selling that product required understanding where the test belonged, who would use the results and how it connected to the tools recruiters already used.
+A useful test can open the relationship. Making its results usable across the hiring team is a larger task. This chapter follows that move from a single screening problem toward a connected workflow, where repeated use and expansion become possible but implementation matters more.
 
-## An existing applicant pool could be enough
+## Enter through an existing bottleneck
 
-VMware's case illustrates this use. Its event recruiting team already generated applicants through campaigns. The bottleneck came later, when engineers screened them by phone. According to a HackerRank-hosted case study, peer recommendations led the team to try HackerRank, adopting it in October 2013. Challenges on VMware's career site then replaced much of the initial phone screening. [1](#note-1)
+VMware's vendor-published case follows this route. Peer recommendations brought the product to its attention, and the employer used programming challenges in its own applicant process to address screening before further interviews. The sequence connects discovery to a particular job for the product: help the team decide where to spend interview time. [1](#note-1)
 
-The case reports improvements in screening time and coverage. Those are vendor-published customer claims, rather than independent measurements. The more important point for understanding the business is the workflow: VMware brought applicants; HackerRank helped evaluate them. The reported route to trying the software was peer feedback. Neither requires assuming the developer community acquired this customer.
+This route is strategically different from selling access to a developer audience. The customer supplies candidate flow. The offer can therefore be valuable even if the community never generated the employer lead.
 
-The buyer's problem also helps explain recurring use. If screening is part of hiring throughout the year, software that supports it can be useful repeatedly. That fits the annual seat model described by HackerRank's sales director in chapter 02. It is a reason such a model could make sense, not a measurement of renewals or a claim that every employer had steady hiring demand.
+## Integration changes adoption work
 
-## Fit into software the recruiter already uses
+An applicant tracking system stores candidate information and hiring stages. A recruiter working in that system needs assessment activity to fit the same process, rather than become a separate task to manage elsewhere. HackerRank's integration announcements and recruiting-software partner Jobvite's description explain that connection. [2](#note-2)
 
-Recruiters often manage applications in an applicant tracking system: software that stores candidates, interview stages and feedback. Asking them to move information between that system and a separate assessment tool creates extra work.
+The plausible benefit is less switching and information transfer. The trade-off is dependence on an employer's configuration, process and integration maintenance. Integration can support continued use; it does not by itself prove higher retention or close a sale.
 
-In March 2016, HackerRank announced integrations with Greenhouse, Jobvite, Taleo, SmartRecruiters and Jazz. The stated workflow let recruiters send assessments, track completion and see reports from their existing systems. A Jobvite partner page independently describes launching a code challenge and returning scores and report links to the candidate profile. That page is live and undated, so it corroborates the workflow at inspection rather than independently fixing its original launch date. [2](#note-2)
+## From initial use to a wider account relationship
 
-This was a different kind of product development from adding another programming puzzle. It addressed the buyer's operating environment. A recruiter could keep working in the familiar system while an engineer received evidence of coding ability. That could reduce the effort of adopting the product and help it remain in use. The sources do not isolate how much the integrations improved sales or retention.
+Once a team has adopted the workflow, the supplier can become useful in more of its work. That might mean handling additional applicants, serving another team or connecting the initial assessment to live interviewing. Each possibility extends something already in use, but each still needs a reason for the employer to spend more or keep paying.
 
-## Sell to employers beyond software companies
+| Possible expansion | Reason it could create value |
+|---|---|
+| More candidate activity | Use the existing process for more hiring. |
+| More teams or roles | Reuse an adopted supplier and workflow. |
+| More of the hiring process | Connect screening and live evaluation. |
+| Adjacent skills work | Apply assessment beyond an immediate hire. |
 
-The hiring problem extended beyond businesses whose main product was software. Banks, retailers and other employers also needed programmers. By its February 2018 funding announcement, HackerRank described customers across those industries and said it would invest in enterprise growth, its developer community and data science. [3](#note-3)
+Historical selling descriptions make these plausible expansion paths. Public evidence does not isolate how far adoption spread, how usage translated into revenue, or whether a new product brought incremental spending rather than being bundled. The selected customer cases also cannot establish representative performance. [1](#note-1) [3](#note-3)
 
-The significance is the changing buyer context. A contest aimed at programmers could remain useful, while winning a large employer's business also required fitting into established recruiting processes. The investment priorities put community development and enterprise selling alongside each other, rather than presenting one as a substitute for the other.
+## Broader segments require a broader commercial proposition
 
-A larger company can also have several recruiting teams and engineering groups. That creates a possible path from initial use to a wider account. The annual seats and account-expansion objective described in 2014 fit this possibility. But a possible expansion route is not a verified record of what drove later revenue. The public customer totals also use inconsistent definitions, so they cannot safely tell us the precise pace of paid-account growth.
+Banks, retailers and other employers also hire programmers. The company's 2018 enterprise-investment plans and reported cross-industry customers show an ambition beyond software-product companies. Such buyers may need the product to fit a larger operating environment; a coding contest alone would not describe that purchase fully. [3](#note-3)
 
-## What this stage teaches
+The relevant strategic choice was whether to remain a narrow tool for a single hiring task or become useful across a larger process. Broader coverage can create more reasons to use the supplier and more complexity to implement. Actual acquisition, renewal and expansion effects remain unisolated.
 
-The early product helped answer, “Can this applicant code?” Selling it more widely also meant answering, “How will our team use it without disrupting the rest of hiring?” The VMware workflow and recruiting-system integrations make that second question concrete.
-
-The case suggests that reaching more employers can require work around the core capability: familiar interfaces, usable reports and a commercial relationship suited to a team. This applies when customers have an existing process the product must enter. It would be less relevant to a product whose value comes from replacing that process altogether.
-
-HackerRank's community and its employer software could reinforce each other while doing different jobs. The next stage asks how the employer business adapted as hiring became more remote, its customers grew larger and the skills being assessed continued to change.
+A broader workflow therefore changes both sides of the relationship: it creates more potential value for the employer and more responsibility for the supplier. The question becomes whether the company can deliver that value repeatedly as buyers and hiring conditions change. Wider enterprise selling, remote hiring and later pressure to protect existing customers put that question into focus in the [next chapter](../part-04-later-shifts/05-scale-and-remote-hiring.md).
 
 ## Notes and sources
 

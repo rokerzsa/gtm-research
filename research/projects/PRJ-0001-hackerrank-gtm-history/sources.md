@@ -1366,3 +1366,108 @@ The canonical Fortune India page was accessible and inspected. Its AMP variant r
 **Lineage / scope:** Founder interview within multi-company feature, RC-0003 P5 historical interpretation challenge.  
 **Limits:** Founder states community emphasis while describing employer tools; not evidence of channel revenue shares, payer identity or synchronized pivot dates.  
 **Review:** RT-0005; qualified founder account, no independent performance verification.
+
+## Source record — PRJ-0001:SRC-0064
+
+**Version / status:** v1 / active.  
+**Title:** [Chakra commercial page](https://www.hackerrank.com/chakra)  
+**Publication / access:** Live 11 November 2026; chakra.sh redirects here; full page, offer/CTA/FAQ.  
+**Lineage:** Vendor positioning and workflow; not independent efficacy.  
+**Contract / limits:** RC-0004-v1; No verified conversion, paid accounts, realized price or claim-validity measurement.  
+**Review:** RT-0006 qualified for major strategic use; access/outcome limitations retained.
+
+## Source record — PRJ-0001:SRC-0065
+
+**Version / status:** v1 / active.  
+**Title:** [HackerRank homepage](https://www.hackerrank.com/)  
+**Publication / access:** Live 11 November 2026; full page, products and next-generation hiring sections.  
+**Lineage:** Current company positioning, not an independent outcome account.  
+**Contract / limits:** RC-0004-v1; Prominence is not proof Screen retired or a measured revenue pivot.  
+**Review:** RT-0006 qualified for major strategic use; access/outcome limitations retained.
+
+## Source record — PRJ-0001:SRC-0066
+
+**Version / status:** v1 / active.  
+**Title:** [Introduction to Chakra](https://support.hackerrank.com/articles/6908366644-introduction-to-chakra)  
+**Publication / access:** Live, last-updated relative date; inspected 11 November 2026; full support article, setup/invitation/hands-on/report features.  
+**Lineage:** First-party operating documentation.  
+**Contract / limits:** RC-0004-v1; Operational scope is an offer, not segment traction or independently verified unbiased scoring.  
+**Review:** RT-0006 qualified for major strategic use; access/outcome limitations retained.
+
+## Source record — PRJ-0001:SRC-0067
+
+**Version / status:** v1 / active.  
+**Title:** [How Chakra scores an interview](https://www.hackerrank.com/blog/how-chakra-scores-an-interview/)  
+**Publication / access:** 24 July 2026; full post, creator/interviewer/reporter and scoring sections.  
+**Lineage:** First-party explanation of scoring design.  
+**Contract / limits:** RC-0004-v1; Vendor assurance does not establish calibration, predictive validity or error-free evaluation.  
+**Review:** RT-0006 qualified for major strategic use; access/outcome limitations retained.
+
+## Source record — PRJ-0001:SRC-0068
+
+**Version / status:** v1 / active.  
+**Title:** [TechCrunch report](https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/)  
+**Publication / access:** 5 October 2026; full article inspected; narrow use only.  
+**Lineage:** Reported launch milestone; founder-sourced information.  
+**Contract / limits:** RC-0004-v1; Not a customer-performance audit.  
+**Review:** RT-0006 qualified for major strategic use; access/outcome limitations retained.
+
+## Source record — PRJ-0001:SRC-0069
+
+**Version / access:** v1; live page inspected 11 November 2026; full candidate guide, criteria and final report sections.  
+**Title:** [Candidate evaluation in Chakra](https://candidatesupport.hackerrank.com/articles/3077231667-evaluation-in-chakra)  
+**Lineage / contract:** Company instructions for candidates; RC-0004.  
+**Limits:** Documentation does not validate accuracy or prove fully autonomous hiring decisions.  
+**Review:** RT-0006 challenge/adjudication; high statement confidence, commercial outcomes qualified.
+
+## Source record — PRJ-0001:SRC-0070
+
+**Version / access:** v1; live page inspected 11 November 2026; full setup article, plan/review and try-interviewer steps.  
+**Title:** [Create an AI interviewer](https://support.hackerrank.com/articles/8041423965-set-up-an-ai-interview)  
+**Lineage / contract:** Company implementation documentation; RC-0004.  
+**Limits:** Setup steps do not measure activation, conversion or time savings.  
+**Review:** RT-0006 challenge/adjudication; high statement confidence, commercial outcomes qualified.
+
+## Source record — PRJ-0001:SRC-0071
+
+**Version / access:** v1; live page inspected 11 November 2026; full support notice, upcoming assist and retiring features.  
+**Title:** [Interview experience upgrade](https://support.hackerrank.com/articles/3861187518-interview-just-got-a-major-upgrade)  
+**Lineage / contract:** Live company change/roadmap documentation; RC-0004.  
+**Limits:** Do not present planned assistance as already shipped or generalize Interview-specific changes to all products.  
+**Review:** RT-0006 challenge/adjudication; high statement confidence, commercial outcomes qualified.
+
+## Source record — PRJ-0001:SRC-0072
+
+**Version / access:** v1; live page inspected 11 November 2026; full notice, April 2026 Engage section.  
+**Title:** [Deprecations and experience changes](https://support.hackerrank.com/articles/9867323057-january-2026-deprecations-and-experience-changes)  
+**Lineage / contract:** Dated operational deprecation record; RC-0004.  
+**Limits:** Retiring a feature is not retiring Engage; old sourcing promises require date qualification.  
+**Review:** RT-0006 challenge/adjudication; high statement confidence, commercial outcomes qualified.
+
+## Source record — PRJ-0001:SRC-0073
+
+**Version / access:** v1; live page inspected 11 November 2026; full FAQ, plan paragraph.  
+**Title:** [Available subscription plans FAQ](https://www.hackerrank.com/frequently-asked-questions/which-subscription-plans-are-available)  
+**Lineage / contract:** Current first-party commercial description; RC-0004.  
+**Limits:** Offer packaging, not realized prices, customer mix or cross-sell proof.  
+**Review:** RT-0006 challenge/adjudication; high statement confidence, commercial outcomes qualified.
+
+## Source record — PRJ-0001:SRC-0074
+
+**Version / access:** v1; live page inspected 11 November 2026; full page, skills/learning and demo sections.  
+**Title:** [SkillUp current product page](https://www.hackerrank.com/products/skillup/)  
+**Lineage / contract:** Current first-party offer; RC-0004.  
+**Limits:** No independent skills validity, product revenue or retention effect established.  
+**Review:** RT-0006 challenge/adjudication; high statement confidence, commercial outcomes qualified.
+
+## Source record — PRJ-0001:SRC-0075
+
+**Version / access:** v1; live page inspected 11 November 2026; full page, event creation/promotion and demo sections.  
+**Title:** [Engage current product page](https://www.hackerrank.com/products/engage/)  
+**Lineage / contract:** Current first-party offer; some wording must be read alongside SRC-0072; RC-0004.  
+**Limits:** Not evidence of paid employer acquisition; deprecated sourcing is not assumed active.  
+**Review:** RT-0006 challenge/adjudication; high statement confidence, commercial outcomes qualified.
+
+### SRC-0051 v2 access addendum — 11 November 2026
+
+Direct pricing remains cookie-blocked. A substantive current indexed extract now exposes annual plans, usage allowances and inclusion of Chakra alongside Screen/Interview. Treat this as indexed-only at inspection, not a recovered full page. No duplicate source draw; CLM-0138. No numeric prices required for the revised argument.

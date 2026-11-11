@@ -1,72 +1,47 @@
-# Chapter 02 — From a useful test to a business employers would pay for
+# First customers and commercial-model choices
 
-InterviewStreet's move toward employers changed the question the founders had to answer. A student might pay to prepare for an interview. A company could pay to avoid spending its engineers' time interviewing people who could not do the job. The second problem connected the product to an employer's recurring hiring work—and to a different budget.
+Changing the product and customer gave InterviewStreet a proposition to test: help an employer evaluate applicants before committing engineers' time to interviews. The next challenge was commercial. The founders needed access to hiring teams, opportunities to demonstrate the product and evidence that someone would pay for the work it performed.
 
-That did not make selling straightforward. The founders still had to reach someone responsible for hiring, show that an online programming test could fit into an existing process, and find a workable way to charge. Their early customer stories reveal those steps more clearly than they establish a definitive first sale.
+The early relationships help explain how those pieces developed. They also leave a historical uncertainty: the available accounts do not establish one verified first-paying-customer event. We can still examine what each relationship contributed and how the purchases differed without forcing them into a single origin story.
 
-## Finding a problem with a buyer
+## First relationships tested more than willingness to pay
 
-An employer hiring programmers faces two different tasks: finding people who might be suitable, then deciding whether those people can do the work. InterviewStreet's early testing product addressed the second task. An employer sent applicants a programming challenge; the software evaluated their code, helping the hiring team decide whom to interview.
+The employer value proposition was screening applicants before spending engineers' time on interviews. A demo could show whether that workflow made sense; practical use could reveal whether it fitted the employer's process; a payment would test a further part of the business. [1](#note-1)
 
-In Vivek Ravisankar's later account, the value was the time saved before those interviews. Instead of asking engineers to spend hours discovering basic gaps in candidates' skills, an employer could screen applicants first. This was a concrete reason for a company to consider paying. It also gave the founders a way to explain the product in terms of the customer's work, rather than simply demonstrating a clever programming tool. [1](#note-1)
+The reported WisdomTap relationship supplied introductions in place of payment. That could put an unfamiliar product in front of employers, making the relationship useful before it generated cash. Flipkart's early use supplied a different test: its campus-hiring process gave InterviewStreet an opportunity to demonstrate applicant screening in practice. These accounts describe access and use, respectively; neither label alone settles who first paid. [2](#note-2) [3](#note-3)
 
-This is a stronger account of the change than “students would not pay, so the founders sold to companies.” The buyer, workflow and reason to spend had changed together. It remains a reconstruction informed by founder accounts, rather than proof that every early employer bought for exactly the same reason.
+Vivek Ravisankar's retrospective account names BankBazaar as the first cheque. Other accounts call Flipkart the first client. The distinction matters because a client relationship and a cash receipt can mark different events. The source comparison is retained in the notes; there is no complete transaction chronology that resolves the first actual payer. [1](#note-1) [4](#note-4)
 
-## The first useful relationship did not necessarily bring cash
+The distinction explains what the company was learning. An introduction tested access to a buyer; practical use tested whether the workflow helped; payment tested whether an employer would spend money on that help. Treating all three as one customer milestone would hide how the commercial proposition developed.
 
-One early encounter shows how much the founders were still learning about value. Hari Karunanidhi recalled approaching WisdomTap with an employer testing product after selling practice tests to students. The founders considered relatively small per-candidate prices; the prospective customer suggested the product could command more. Yet the relationship reportedly became an exchange for introductions rather than an immediate cash sale.
+## What was the employer paying for?
 
-The introduction led to a demonstration for Flipkart, the Indian online retailer. Hari's account then places him alongside Flipkart's team using the test during campus recruitment. That sequence matters: a conversation about price led to access to another employer, and then to a place in an actual hiring process. It is a story about finding an opening into the market, even where the first relationship did not produce payment. [2](#note-2)
+Reaching an employer did not settle the commercial model. A team with enough applicants might pay to test them. A team struggling to find suitable people might value access to programmers or a hiring outcome. A recurring software subscription asked for a different commitment again: the product had to remain useful across ongoing work. These purchases place value—and some of the risk—in different parts of hiring.
 
-There is also a near-contemporary record of what Flipkart was doing with the product. InterviewStreet's own 2011 case study described online tests in campus hiring. As a vendor's case study, it is evidence of the company's claimed customer workflow, with an obvious incentive to present it favourably. It does not establish an invoice or independently measured savings. [3](#note-3)
-
-## What can we say about the first paying customer?
-
-Vivek's 2014 interview names BankBazaar as the first company to send a cheque. He describes reaching the company through a friend who worked there. It is the clearest inspected account explicitly about an early employer payment. It is still a founder's recollection: the public sources examined do not provide the cheque, a dated invoice, or buyer-side confirmation. [1](#note-1)
-
-Other histories call Flipkart the first client or corporate client. These accounts need not all describe the same event. A first demonstration, first working customer and first cash payment can belong to different relationships. The sources also disagree about dates, however, so that distinction cannot by itself settle the chronology. The careful conclusion is that Flipkart was an early employer user, WisdomTap is described as an early referral relationship, and BankBazaar is the founder-reported first cash payer. Who actually paid first remains unverified. [4](#note-4)
-
-The routes into these accounts are more informative than an honorary “first customer” title. They describe people introducing the founders to other people, demonstrations, feedback and practical hiring work. A later report says word of mouth brought five more paying clients, but does not name them. We cannot turn that sentence into a verified roster or calculate how fast referrals converted into revenue. Nor does this evidence establish that the developer community brought in those employer accounts. [4](#note-4)
-
-The lesson at this stage is specific: a relationship could be commercially useful before it generated cash, because it helped the founders reach and learn from another buyer. That makes referral value worth understanding; it does not make a free user equivalent to a paying customer.
-
-## Deciding what employers were buying
-
-As the offering developed, InterviewStreet could sell help with more than screening applicants an employer already knew. Coding contests could also bring programmers to an employer's attention. Access to a pool of programmers, a sponsored contest and software for testing existing applicants solved related hiring problems, but they were different purchases.
-
-A 2013 Forbes excerpt preserved by Y Combinator describes database subscriptions, per-hire fees and sponsored CodeSprints. A separate contemporary interview describes recruiter-seat pricing. Those reports point to several ways of earning money around technical hiring. They do not establish that all customers used every model or that each model replaced the last. [5](#note-5)
-
-The distinction changes how we should read the price history:
-
-| What the employer was buying | Charging basis described in the sources | What this tells us |
+| Purchase | Why an employer might choose it | Commercial implication and trade-off |
 |---|---|---|
-| Testing a set of applicants | Early pay-per-invite offer; later monthly plans with allowances | Usage could be part of the purchase. An advertised allowance is not evidence it was consumed. |
-| Access to programmers or a hiring outcome | Database subscription, per-hire fee, sponsored contest | The company also explored earning money from finding talent, beyond assessing supplied applicants. |
-| Software used by a hiring team | Recruiter or engineer seats; annual subscriptions described in 2014 | The commercial relationship could be organised around the people using the tool within an employer. |
+| Tests for supplied applicants | Evaluate candidates already in its process | Usage can follow hiring volume, so demand depends partly on that volume. |
+| Access to programmers or a hiring outcome | Reach people it has not found itself | Value depends on relevant talent and successful matching, not only test functionality. |
+| A sponsored contest | Meet/attract programmers around a specific employer proposition | Requires participation and an effective bridge from event to employer relationship. |
+| A recruiting-team software subscription | Support recurring hiring work | Can create ongoing use, while requiring adoption, support and a reason to renew. |
 
-A seat means permission for one member of the employer's team to use the software; an invitation or candidate allowance measures how much testing the employer can conduct. Billing can combine those units. Comparing a seat subscription with a fee for a successful hire would therefore tell us little about whether the same product became more expensive. [5](#note-5) [6](#note-6)
+The early archived offer, 2013 reporting and later sales descriptions document these different units. They do not establish that all operated equally, that one replaced another, or that a higher quoted amount meant a higher price for the same product. [5](#note-5) [6](#note-6)
 
-Public entry plans also existed. Late-2014 reporting describes a starting price of $199 per user per month; a 2015 account describes a $199 monthly offer covering 25 candidates and CodePair access. These descriptions help show how the product was packaged, but they are not a reliable price index: the date, unit and included features differ, and neither account shows what a particular customer actually paid. [7](#note-7)
+A fee tied to a hire and a fee for software access allocate value and risk differently. The former depends on an outcome; the latter depends on customers finding recurring use. That is an economic interpretation of the units, not a verified account of the company's margins or management's preference.
 
-## Selling into more of the hiring process
+## Moving from founder conversations to account development
 
-CodePair added a live interview workflow alongside automated screening. In a live coding interview, the interviewer and candidate can work in a shared coding environment while talking, rather than relying on a test completed beforehand.
+Founders initially had to demonstrate value and learn what employers would buy. By September 2014, a sales-director interview described selling annual access by seat—access for a user—and an objective of expanding employer accounts. The purchase was therefore being presented as access for recurring work, with a selling effort that continued beyond winning the first user. This documents the commercial approach, not its realized renewal or expansion performance. [6](#note-6)
 
-A public demonstration was already visible in November 2013, before the February 2014 commercial announcement. The Hacker News discussion offers a small, concrete example of product feedback meeting distribution: a commenter objected to having to provide an email address just to try the product, and Vivek replied that the requirement had been removed. The thread shows the team reducing a barrier to trying the tool. It does not show that the change produced subscriptions. [8](#note-8)
+Public entry offers and more involved employer selling could coexist. They serve different evaluation needs: a small team may be able to try a tool directly, while a wider account may require more people and processes to adopt it. The historical plan reports help establish offers, not the proportion of business won through each route. [7](#note-7)
 
-By September 2014, sales director Darin Medeiros described annual subscriptions based on recruiter or engineer seats, with a sales objective of acquiring customers and increasing existing account spending. This is a useful shift in perspective from a founder securing an early trial: the commercial task now included developing an ongoing account. It is a contemporary description of the selling model and objective, not evidence of the amount of expansion achieved. [6](#note-6)
+The public demonstration of CodePair, the live-interview offer, shows a smaller change within buyer evaluation. After feedback, trying the product was made easier. Reducing the effort needed to inspect a product could help a prospective user understand it, although the record does not show a resulting subscription increase. [8](#note-8)
 
-An interpretation follows from the product workflow. A company using both screening and live interviews could have more reasons to keep the software in its hiring process than one running a single test. But the inspected records do not measure whether CodePair increased retention or account spending. Broader use, negotiated packaging and customer growth could each have played a role; the evidence does not isolate their contribution.
+## The commercial question that follows
 
-## What the early monetization story teaches
+These early offers established more than one possible business around developer skills. Testing applicants depended on useful evaluation; selling access to programmers also depended on attracting relevant people. Following the unit being purchased explains that difference more clearly than comparing headline prices alone.
 
-The first useful lesson is to follow the customer's work all the way to the reason for payment. InterviewStreet's employer story becomes understandable when we see the hiring team sending tests and deciding whom engineers should interview. “Selling assessments” is too abstract to explain the value. The founders' time-saving explanation supplies a reason to buy, although it does not verify the savings for every customer.
-
-Second, distinguish what an early relationship contributes. Feedback, an introduction, actual use and cash are different forms of progress. WisdomTap, Flipkart and BankBazaar make that distinction visible. Collapsing them into one first-customer milestone hides the work involved in getting the business started.
-
-Third, choose a charging unit that matches what is being sold—and track each offer separately. The early business explored software access, testing volume, talent access and hiring outcomes. That variety is evidence of commercial exploration. It is insufficient evidence that one particular model caused growth or was ultimately superior.
-
-The public record supports an early business built through employer relationships and several monetization approaches. It gives us much less certainty about the order of cash receipts, the size of early revenue, or the share of paying accounts acquired through the community. Those limits leave a more useful story than a confident but unsupported progression from first customer to inevitable scale.
+The second route raises the next question. If programmers participate in practice and contests, what does that make possible for an employer—and how does the employer become a paying customer? The [community chapter](../part-03-community-and-sales/03-community-and-employer-discovery.md) follows those connections separately.
 
 ## Notes and sources
 

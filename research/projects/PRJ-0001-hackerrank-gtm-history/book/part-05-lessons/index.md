@@ -1,7 +1,5 @@
-# Part V — What the history teaches
+# Bringing the case together
 
-The final chapter brings the company's changes together. It distinguishes the business mechanisms the case makes visible from the outcomes public evidence cannot establish.
+The preceding chapters followed changes in the customer, offer, commercial relationship and work of evaluation. [Strategic conclusions and limits](07-lessons-and-limits.md) returns to the introduction's central question and explains what those changes establish together.
 
-[Book contents](../index.md)
-
-1. [A business built by changing what the test was for](07-lessons-and-limits.md)
+The lessons are conditional: developer participation, broader workflow coverage and automated evaluation matter through the particular value and demands they create for customers. The closing discussion separates that understanding from commercial outcomes the public record cannot establish.

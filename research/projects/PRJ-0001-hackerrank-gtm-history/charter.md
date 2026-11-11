@@ -142,3 +142,7 @@ Select main-story details by whether they change understanding of a decision, cu
 ## 18. Completion and dependency amendment — DEC-0006
 
 Explicitly approved 11 November 2026 with [end-to-end plan v1](plans/end-to-end-completion-v1.md) and [RC-0003-v1](contracts/RC-0003-end-to-end-completion.md). Supersedes the blanket rule that any critical historical unknown prevents closure: a reviewed unknown may receive an explicit qualified disposition after substantive recovery/disconfirmation attempts, impact assessment and accurate book treatment. Unperformed required work/review, unsupported certainty, hidden contradiction or invalid deliverables still block completion. P3–P5 may proceed from reviewed P1/P2 handoffs without labeling uncertain historical facts verified. Existing source caps remain; later phases have no assigned numeric cap. Per-chapter human approval is not required; investigator reviews and final audit remain mandatory.
+
+## 19. Requested strategy-led revision — DEC-0008
+
+11 November 2026. User explicitly requested applying the updated skill to this study, with one complete GTM chapter and deeper current-pivot analysis including Chakra. Prior subject/cutoff, general reader, no personalization, free/public access, hard-limit history and allowed qualified unknowns remain. The direct request covers in-scope research/restructuring under RC-0004, with internal reviews and review-ready delivery; user acceptance of edition 2.0 is pending. Prior edition 1.0 approval is preserved, not transferred as approval of new findings.

@@ -5,9 +5,9 @@
 ## Version context
 
 **Book identity:** PRJ-0001 / HackerRank: A Historical GTM Case Study  
-**Current edition:** `1.0`  
+**Current edition:** `2.0`  
 **Authoritative evidence:** [Source register](../sources.md) · [Claim register](../claims.md) · [Red-team review](../reviews/RT-0001-community-to-employer-causality.md)  
-**Completion status:** Edition 1.0 complete with qualifications under DEC-0006; chapter reviews and final audit recorded in final-review-and-completion.md. Earlier draft entries below remain historical.
+**Current status:** Edition 2.0 ready for user review with qualifications under DEC-0008; edition 1.0 completion/approval remains historical. New reviews and dossier are separate from the prior final-review-and-completion.md.
 
 ## Material revision entries
 
@@ -75,3 +75,23 @@
 ### REV-0007 — Complete narrative and closing synthesis
 
 11 November 2026 / DEC-0006 / RC-0003. Preserved v0.6 snapshot, completed chapter 07 after the prior chapters' reviews, and revised chapter 06 for the final-source counterfinding. Seven narrative chapters in five parts; cutoff explicit. Finalization retains GAP-0001/0002 and RT-0001–0005 verdicts, no historical certainty upgrade. Chapter and whole-book validation recorded outside published docs in final-review-and-completion.md and journal.
+
+### REV-0008 — Complete GTM and strategic pivot analysis
+
+11 November 2026 / RC-0004 / DEC-0008. Preserved edition 1.0 under book-archive/edition-1.0. Added one canonical whole-company GTM chapter and reworked seven deeper chapters around strategic decisions, mechanisms and trade-offs, retaining stable deep-dive paths. Chakra analysis includes launch/availability, before/after proposition, trial/sales and bundle implications, employer decision boundary, alternatives and future signals. Current portfolio includes Engage deprecation and planned Chakra Assist. SRC-0064–0075 / CLM-0125–0140, RT-0006. Four reviews in edition-2.0-strategy-review.md; final validation/delivery in edition-2.0-review-dossier.md. User acceptance pending, no factual uncertainty upgrade or publication implied.
+
+### REV-0009 — Connected introduction, chapters and reading path
+
+11 November 2026 / DEC-0009. Preserved edition 2.0 outside publication. Edition 2.1 adds a substantive introduction and a cumulative book argument, revises all chapter handoffs, puts Chakra workflow before strategic interpretation, and integrates the conclusion. Three meaningful reading sections replace six part stops in the sidebar; old URLs preserved. Generic skill guidance/templates/specification conform. No company research or SRC/CLM/RT confidence changes. Same-investigator review and validation, including the pre-existing typecheck limitation, recorded in reviews/edition-2.1-coherence-review.md. User acceptance pending; no commit/push/publication.
+
+### REV-0010 — Clarified complete GTM relationship and evolution
+
+11 November 2026, direct user request following the overview review. Edition 2.1 archived. Edition 2.2 distinguishes discovery/choice/adoption from expansion, explains commercial evolution, and consolidates repeated measurement gaps. Generic skill guidance/template and specification conform. Introduction and deeper chapters unchanged; no new evidence or confidence upgrades. Build and link checks passed; review in reviews/edition-2.2-gtm-overview-review.md. Acceptance pending.
+
+### REV-0011 — Reader dependencies and early-product explanation
+
+11 November 2026, direct user instruction. Edition 2.2 archived. Edition 2.3 establishes identities and concrete workflows, keeps product evolution together and makes uncertainty proportional. Skill gains task-based loading and consolidated authoring/comprehension guidance. Existing note section unchanged; no new research or certainty. Review in reviews/edition-2.3-authoring-review.md; build passed. User acceptance pending.
+
+### REV-0012 — Reader-comprehension pass across remaining chapters
+
+11 November 2026, direct user request. Archived edition 2.3. Edition 2.4 clarifies six later chapters using existing evidence: customer relationships, event participation/consent, integrations, selling terms, market milestones and Chakra workflow. Introduction, canonical GTM overview and origins retained. Notes/qualifications unchanged; no new research or certainty. Review in reviews/edition-2.4-whole-book-reader-review.md. Build and links pass; acceptance pending.

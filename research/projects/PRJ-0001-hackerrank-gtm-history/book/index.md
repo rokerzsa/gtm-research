@@ -1,32 +1,29 @@
-# HackerRank: A Historical GTM Case Study
+# HackerRank: GTM strategy, evolution and current bets
 
-HackerRank helps employers evaluate programmers and gives developers a place to practise and demonstrate their skills. This book traces how that business grew from InterviewStreet, an early interview-practice service, and how its products and ways of reaching customers changed.
+Hiring a programmer involves more than finding someone who can produce a correct answer. An employer has to decide whom to invite, how to judge their ability, and whether the evidence is strong enough to justify the next interview or a job offer. Recruiters organize that process; engineers contribute time and judgment; candidates have to demonstrate what they can do. A product that changes one part of this work can also change what the others need to do.
 
-HackerRank's early history brings those different needs together. A job candidate wants to demonstrate ability. An employer needs to decide whom to interview and hire. InterviewStreet, the business that preceded the HackerRank brand, explored interview practice, programming tests, and coding contests as ways to address those problems.
+HackerRank sits inside that relationship. Developers use its community to practise and demonstrate skills. Employers buy tools for assessment and interviewing, alongside other offers around candidate engagement and employee development. These activities are connected, but understanding the business requires more than observing that the company has both developers and employers on its platform.
 
-This book follows how the products, customers and routes to market developed, and what can be learned from those changes. It explains how the products worked before examining their role in growth.
+The central question of this book is **how HackerRank changed the work it offered, the customers it served and the way it earned their business—and what AI changes about that system now**. Its early move from candidate interview practice toward employer assessment changed both the reason to pay and the way the service could be delivered. Later, community participation, recruiting software and a broader hiring workflow created different possibilities for reaching and serving employers. Chakra raises the question again: what changes when software conducts more of an evaluation, rather than simply providing tools for people to use?
 
-This case study follows the journey from reported origins around 2009 through the product and strategic changes visible by November 11, 2026. Early payment and customer milestones remain uncertain, as does the community's contribution to paying employer acquisition. Detailed evidence comparisons appear in the chapter notes.
+## What this case is intended to explain
 
-## Read the case study
+This is a study of how a business takes a useful capability to market. Here, “go-to-market,” or GTM, means the connected work of choosing a customer and offer, reaching that customer, helping them evaluate and adopt it, earning revenue, and remaining useful enough to retain or expand the relationship.
 
-1. **Part I — Origins and product iterations** — [Part overview](part-01-origins/index.md)
-   - [How InterviewStreet became HackerRank](part-01-origins/01-first-products-and-hackerrank-launch.md)
+The purpose is to understand the choices behind that system. Why does a particular customer have a reason to pay? How does the product fit their actual work? What must the company do to sell and deliver it? When the offer changes, which commercial problems does that solve, and which new ones does it create?
 
-2. **Part II — First customers and early monetization** — [Part overview](part-02-first-customers/index.md)
-   - [From a useful test to a business employers would pay for](part-02-first-customers/02-first-customers-and-monetization.md)
+An interested founder or general reader should be able to follow the case without prior knowledge of HackerRank or technical hiring. By the end, the aim is to distinguish a product launch from a strategic change, a growing audience from a working acquisition channel, and a plausible commercial opportunity from a demonstrated result. The lessons come from HackerRank's circumstances and include the limits on transferring them elsewhere.
 
-3. **Part III — Community and employer growth** — [Part overview](part-03-community-and-sales/index.md)
-   - [Why programmers came, and how employers could participate](part-03-community-and-sales/03-community-and-employer-discovery.md)
-   - [Becoming part of the employer's hiring process](part-03-community-and-sales/04-selling-the-hiring-workflow.md)
+## How the argument develops
 
-4. **Part IV — Scale, remote hiring and AI** — [Part overview](part-04-later-shifts/index.md)
-   - [Growth, remote hiring and a harder market](part-04-later-shifts/05-scale-and-remote-hiring.md)
-   - [When AI changes the skill being assessed](part-04-later-shifts/06-the-ai-transition.md)
+We begin with [HackerRank's complete GTM system](part-00-gtm-system/00-full-gtm-system.md). This gives a map of the business: who receives value, who pays, how an employer can become a customer, and what makes continued use possible. The chapters that follow examine how that system took shape and where it is changing.
 
-5. **Part V — Lessons and limits** — [Part overview](part-05-lessons/index.md)
-   - [A business built by changing what the test was for](part-05-lessons/07-lessons-and-limits.md)
+**Finding a business around the hiring problem.** The [early product choices](part-01-origins/01-first-products-and-hackerrank-launch.md) explain the move from helping candidates prepare to helping employers evaluate. The [first-customer and monetization chapter](part-02-first-customers/02-first-customers-and-monetization.md) then asks how that proposition reached buyers and what they were being asked to purchase. Together, they establish the difference between solving a problem and building a commercial relationship around it.
 
-Edition 1.0 · Research cutoff: November 11, 2026.
+**Building a repeatable employer relationship.** The [community chapter](part-03-community-and-sales/03-community-and-employer-discovery.md) examines what developer participation adds to the employer offer. The [workflow chapter](part-03-community-and-sales/04-selling-the-hiring-workflow.md) follows another route: an employer already has applicants and needs a better process for evaluating them. Reading the two together explains why the community and the software business can reinforce each other without forming one automatic funnel.
 
-This is a completed public-source historical study with documented limits, including unresolved early payment and growth-attribution questions. Source notes distinguish company claims, retrospective accounts, observed product offers and supported interpretation.
+**Adapting the offer as the work changes.** The [market-pressure chapter](part-04-later-shifts/05-scale-and-remote-hiring.md) considers wider enterprise use, remote hiring and the later priority of protecting existing customers. The [Chakra chapter](part-04-later-shifts/06-the-ai-transition.md) then examines the current evaluation workflow, its commercial implications, alternatives and adjacent bets. The question is whether these changes deepen the existing business, extend it into different work, or could eventually change its model more substantially.
+
+The [closing chapter](part-05-lessons/07-lessons-and-limits.md) brings these choices together and draws a few conditional lessons. It returns to what the case can establish, what remains uncertain, and what evidence would change the interpretation.
+
+The study runs from early InterviewStreet experiments through November 11, 2026. Public evidence is uneven: the identity of the first actual payer, the contribution of individual channels, much commercial performance and independent validation of AI evaluation remain unresolved. Those limits appear where they affect the explanation; detailed source comparisons sit in chapter notes.

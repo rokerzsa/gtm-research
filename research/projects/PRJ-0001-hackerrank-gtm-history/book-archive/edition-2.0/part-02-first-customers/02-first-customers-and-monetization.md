@@ -1,0 +1,68 @@
+# First customers and commercial-model choices
+
+InterviewStreet's early monetization is best understood by separating **access to a buyer, product use and payment**, then identifying the work each price was attached to. This reveals commercial choices that a single first-customer story or price timeline would hide.
+
+[Complete company GTM system](../part-00-gtm-system/00-full-gtm-system.md)
+
+## First relationships tested more than willingness to pay
+
+The employer value proposition was screening applicants before spending engineers' time on interviews. A demo could show whether that workflow made sense; practical use could reveal whether it fitted the employer's process; a payment would test a further part of the business. [1](#note-1)
+
+WisdomTap's reported exchange for introductions, Flipkart's early workflow use and BankBazaar's founder-recalled cheque represent those different forms of progress. A relationship could create learning and distribution value without cash. That makes it useful, but does not make it a paying account. [2](#note-2) [3](#note-3)
+
+The first actual employer payer remains unverified. Contemporary client labels and later payment recollections do not supply a complete transaction chronology; the five additional reported word-of-mouth payers remain unnamed in inspected evidence. [4](#note-4)
+
+The strategic lesson is a distinction rather than a tactic to copy: introductions, usage and cash test different assumptions. A founder needs to know which assumption each milestone addresses.
+
+## Different offers imply different economic bets
+
+| Purchase | Why an employer might choose it | Commercial implication and trade-off |
+|---|---|---|
+| Tests for supplied applicants | Evaluate candidates already in its process | Usage can follow hiring volume, so demand depends partly on that volume. |
+| Access to programmers or a hiring outcome | Reach people it has not found itself | Value depends on relevant talent and successful matching, not only test functionality. |
+| A sponsored contest | Meet/attract programmers around a specific employer proposition | Requires participation and an effective bridge from event to employer relationship. |
+| A recruiting-team software subscription | Support recurring hiring work | Can create ongoing use, while requiring adoption, support and a reason to renew. |
+
+The early archived offer, 2013 reporting and later sales descriptions document these different units. They do not establish that all operated equally, that one replaced another, or that a higher quoted amount meant a higher price for the same product. [5](#note-5) [6](#note-6)
+
+A fee tied to a hire and a fee for software access allocate value and risk differently. The former depends on an outcome; the latter depends on customers finding recurring use. That is an economic interpretation of the units, not a verified account of the company's margins or management's preference.
+
+## Moving from founder conversations to account development
+
+Founders initially had to demonstrate value and learn what employers would buy. The later annual-seat and account-expansion description is evidence of a selling model oriented toward an ongoing employer relationship. It does not measure how well that model performed. [6](#note-6)
+
+Public entry offers and more involved employer selling could coexist. They serve different evaluation needs: a small team may be able to try a tool directly, while a wider account may require more people and processes to adopt it. The historical plan reports help establish offers, not the proportion of business won through each route. [7](#note-7)
+
+The CodePair demonstration also shows attention to evaluation friction: trying the product was made easier after feedback. It is a concrete product/distribution adjustment, not proof that removing a signup step caused subscriptions. [8](#note-8)
+
+## How to read later monetization changes
+
+Follow the unit, included workflow, customer and billing period before comparing prices. Then ask whether the customer actually paid, continued using it and expanded. List prices and undefined customer totals cannot answer all three.
+
+This matters to current Chakra analysis: a new workflow can be placed inside an existing plan rather than become an independently disclosed business. The overview and [Chakra chapter](../part-04-later-shifts/06-the-ai-transition.md) examine current packaging separately from this early history.
+
+## Notes and sources
+
+### Note 1 {#note-1}
+**1. Founder account of employer value and the first cheque.** [Mixergy's 2014 interview with Vivek Ravisankar](https://mixergy.com/interviews/vivek-ravisankar-hackerrank-interview/) contains the hiring-time explanation, friend connection and BankBazaar recollection. The transcript has inaudible sections and expresses uncertainty about the amount. It supplies neither an exact payment date nor a transaction record; we therefore do not use the amount as a verified price.
+
+### Note 2 {#note-2}
+**2. Price discovery and introductions.** [Fortune India's 2018 Hari profile](https://www.fortuneindia.com/technology/harishankaran-karunanidhi-coders-unlimited/101184) recounts student tests, discussion with WisdomTap, the referral exchange and Flipkart demonstration/use. [People Matters' 2018 interview](https://www.peoplematters.in/article/ai-and-emerging-tech/how-hackerrank-uses-coding-challenges-to-find-great-developers-18297) labels WisdomTap the first customer while explicitly describing introductions instead of payment. Both depend on the same cofounder's recollections, so they are not independent buyer corroboration.
+
+### Note 3 {#note-3}
+**3. Early Flipkart workflow.** [InterviewStreet's Flipkart case study](https://www.hackerrank.com/blog/case-study-how-flipkart-saves-100-days-in-campus-hiring/) describes campus screening and early customer status. It is vendor-authored; its claimed savings are not treated here as an independent measurement.
+
+### Note 4 {#note-4}
+**4. Client labels, dates and unnamed payers.** [Economic Times in August 2011](https://economictimes.indiatimes.com/tech/ites/interview-street-first-indian-company-to-be-chosen-for-an-incubation-programme-at-y-combinator/articleshow/9715324.cms?from=mdr) calls Flipkart the first client. [BusinessToday in 2016](https://www.businesstoday.in/magazine/features/story/hackerrank-helping-cos-hire-coding-champions-via-online-tests-62623-2016-05-14) places the first corporate-client milestone in February 2011 and reports five further word-of-mouth payers. An accessible [Bangalore Mirror indexed excerpt](https://bangaloremirror.indiatimes.com/vivek-ravisankarharishankaran-karunanidhi-ibm/articleshow/46574280.cms) instead says 2010; the full page was unavailable. None resolves the first cash receipt. The absence of a public invoice is not proof that an account did not pay.
+
+### Note 5 {#note-5}
+**5. Several offers, several units.** The [December 2010 archived Recruit buying page](https://web.archive.org/web/20101216014010id_/http://interviewstreet.com/recruit/buy) advertised invite-based pricing. The [2013 Forbes excerpt preserved by YC](https://www.ycombinator.com/blog/interviewstreet-yc-s11-in-forbes-magazine-the-prince-of-programming-contests-helps-top-coders-worldwide-get-the-best-jobs) and [September 2013 TechCircle interview](https://www.techcircle.in/2013/09/13/technical-recruiting-platform-interviewstreet-looking-to-triple-client-base-in-fy14-to-raise-20m-next-year/) describe additional units. Their similarly sized quoted monthly prices refer to differently described purchases; we do not merge them into one plan.
+
+### Note 6 {#note-6}
+**6. The sales model and the limits of customer counts.** [ERE's September 2014 sales-director interview](https://www.ere.net/articles/startup-spotlight-hackerrank-helps-employers-engineer-their-technical-recruiting-process) is the contemporary source for annual seat selling and the account-expansion objective. Its customer count cannot safely be plotted alongside TechCircle's larger 2013 client figure or the total in [Recruit Holdings' July 2015 announcement](https://oldrelease.recruit-holdings.com/news_data/release/pdf/20150714_02.pdf): the records do not establish a shared definition or paying status. The [live subscription agreement](https://www.hackerrank.com/work/tos) distinguishes trials, seats, allowances and orders, but its self-stated 2014 update date is not proof that the wording was unchanged from 2014; it is not an executed customer contract.
+
+### Note 7 {#note-7}
+**7. Reported entry plans.** [New Indian Express's November 2014 feature](https://www.newindianexpress.com/education/edex/2014/Nov/10/find-the-right-coder-in-the-right-place-680626.html) and [Gadgets 360's 2015 article, recovered through AMP](https://www.gadgets360.com/internet/features/how-competitive-coding-platforms-are-changing-the-tech-hiring-landscape-732965/amp) describe the offers cited above. Differences in allowances and bundles do not establish a universal change affecting every customer.
+
+### Note 8 {#note-8}
+**8. Demonstration versus commercial announcement.** The [20 November 2013 Hacker News thread](https://news.ycombinator.com/item?id=6770132) provides the dated public demo and founder replies. [February 2014 commercial coverage](https://techcrunch.com/2014/02/06/hackerrank-launches-codepair-to-improve-technical-interviews/) is a later milestone; it should not be read as proof of first-ever availability.
