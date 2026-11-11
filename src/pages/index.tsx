@@ -38,6 +38,25 @@ export default function Home(): JSX.Element {
               Read the case study
             </Link>
           </div>
+          <div className={styles.library}>
+            <div>
+              <p className={styles.kicker}>Company research</p>
+              <Heading as="h2" className={styles.bookTitle}>
+                RedyHire: earning trust in automated hiring
+              </Heading>
+              <p className={styles.bookDescription}>
+                How assessment software reached early customers through
+                relationships, confronted the challenge of unfamiliar buyers,
+                and expanded its promise toward coordinating hiring.
+              </p>
+            </div>
+            <Link
+              className="button button--primary button--lg"
+              to="/docs/projects/PRJ-0002-redyhire-gtm-history/book/"
+            >
+              Read the case study
+            </Link>
+          </div>
         </section>
       </main>
     </Layout>
