@@ -6,9 +6,14 @@ const project = 'PRJ-0001-hackerrank-gtm-history';
 const book = `projects/${project}/book`;
 const doc = (path: string) => `${book}/${path.replace(/\/\d+-([^/]+)$/, '/$1')}`;
 
-// Keep future books discoverable while giving this book its intended reading order.
+const redyHireBook = 'projects/PRJ-0002-redyhire-gtm-history/book';
+const redyHireDoc = (path: string) =>
+  `${redyHireBook}/${path.replace(/\/\d+-([^/]+)$/, '/$1')}`;
+
+// Keep future books discoverable while giving curated books their reading order.
 const otherProjects = readdirSync(join(__dirname, 'research/projects'), {withFileTypes: true})
-  .filter((entry) => entry.isDirectory() && entry.name !== project &&
+  .filter((entry) => entry.isDirectory() &&
+    ![project, 'PRJ-0002-redyhire-gtm-history'].includes(entry.name) &&
     existsSync(join(__dirname, 'research/projects', entry.name, 'book/index.md')))
   .sort((a, b) => a.name.localeCompare(b.name));
 
@@ -48,6 +53,19 @@ const sidebars: SidebarsConfig = {
           ],
         },
         doc('part-05-lessons/07-lessons-and-limits'),
+      ],
+    },
+    {
+      type: 'category',
+      label: 'RedyHire',
+      link: {type: 'doc', id: redyHireDoc('index')},
+      items: [
+        redyHireDoc('part-01-the-case/01-the-commercial-system'),
+        redyHireDoc('part-01-the-case/02-before-the-first-year'),
+        redyHireDoc('part-01-the-case/03-transferring-trust'),
+        redyHireDoc('part-01-the-case/04-from-evaluation-to-orchestration'),
+        redyHireDoc('part-01-the-case/05-lessons-and-limits'),
+        redyHireDoc('part-01-the-case/06-evidence-notes'),
       ],
     },
     ...otherProjects.map((entry) => ({
