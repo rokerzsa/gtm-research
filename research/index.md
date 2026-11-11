@@ -7,6 +7,7 @@
 ## Research projects
 
 - [PRJ-0001 — HackerRank GTM History and Transferable Lessons](projects/PRJ-0001-hackerrank-gtm-history/index.md)
+- [PRJ-0002 — RedyHire Historical GTM](projects/PRJ-0002-redyhire-gtm-history/index.md) — book provisionally approved by the user; material historical/commercial unknowns remain qualified.
 
 ## Reusable semantic knowledge
 
