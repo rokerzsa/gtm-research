@@ -4,8 +4,11 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config: Config = {
   title: 'GTM Research Library',
   tagline: 'A working library for go-to-market research',
-  url: 'https://example.com',
-  baseUrl: '/',
+  url: 'https://rokerzsa.github.io',
+  baseUrl: '/gtm-research/',
+  trailingSlash: true,
+  organizationName: 'rokerzsa',
+  projectName: 'gtm-research',
   onBrokenLinks: 'throw',
   markdown: {
     hooks: {
