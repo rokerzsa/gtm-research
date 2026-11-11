@@ -119,14 +119,12 @@ Stop at the approved source ceiling. Do not use paid access or conduct outreach.
 
 **Next authorized action:** Verify and record the investigation start gate before any source investigation.
 
-## C. Proposed P2 dependency amendment and immediate detailed plan
+## C. P2 authorization and end-to-end continuation
 
-**Status:** Proposed only; no P2 execution or source allocation is authorized.
+P2.1-v1 / RC-0002-v1 and open-GAP handoff approved by DEC-0005; start gate verified in Journal Entry 36. P2 source usage 12/25 at the end-to-end start; its existing cap remains binding.
 
-P1.1 has consumed the approved 25-source ceiling but remains blocked/incomplete with critical GAP-0001 open. Because P2 directly covers first employer payers and early monetization, this project proposes an explicit dependency handoff: allow P2.1 to use the complete P1.1 evidence record while carrying GAP-0001 forward as open, without marking P1 complete. This is a material amendment to the approved P2 dependency and requires explicit human approval.
+[End-to-end completion plan v1](plans/end-to-end-completion-v1.md) and [RC-0003-v1](contracts/RC-0003-end-to-end-completion.md), including the explicit completion/dependency amendment, approved by DEC-0006. This authorizes the remaining P3–P5 sequence, investigator reviews, chapter finalization and final audit without per-chapter approval. Charter Section 18 governs reviewed unknown dispositions. No paid access/outreach; no numeric cap assigned to P3–P5, but actual source usage is measured. No project completion is claimed at authorization.
 
-- [P2.1 detailed plan v1](plans/P2.1-first-customers-and-monetization.md) — proposed; 25-source ceiling proposed, public/free sources only.
-- [Attached RC-0002-v1](contracts/RC-0002-p2-first-customers-and-monetization.md) — proposed; not executable.
-- [Approval proposal](proposals/P2.1-plan-and-contract.md) — requests approval of the dependency handoff, P2.1-v1, RC-0002-v1, and proposed budget together.
+## D. Final execution disposition
 
-If approval is received, record the decision and P2 budget, update current status, validate all references, then verify the investigation start gate. If approval is not received, P2 remains unstarted and the existing high-level dependency remains unchanged.
+11 November 2026: P1–P5 complete with qualifications under DEC-0006, with reviewed unknowns preserved. See [phase dossiers](phase-completion-dossiers.md) and [final audit](final-review-and-completion.md). No further phase approval or required investigation is pending for this approved scope.

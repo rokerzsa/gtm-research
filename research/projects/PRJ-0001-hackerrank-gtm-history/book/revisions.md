@@ -5,9 +5,9 @@
 ## Version context
 
 **Book identity:** PRJ-0001 / HackerRank: A Historical GTM Case Study  
-**Current draft version:** `v0.4`  
+**Current edition:** `1.0`  
 **Authoritative evidence:** [Source register](../sources.md) · [Claim register](../claims.md) · [Red-team review](../reviews/RT-0001-community-to-employer-causality.md)  
-**Approval status:** Charter v1 and high-level plan v1 approved; P1-v1 approved by PRJ-0001:DEC-0003. Book remains a draft and no completion audit has passed.
+**Completion status:** Edition 1.0 complete with qualifications under DEC-0006; chapter reviews and final audit recorded in final-review-and-completion.md. Earlier draft entries below remain historical.
 
 ## Material revision entries
 
@@ -52,7 +52,7 @@
 
 ## Open propagation/approval issues
 
-- P1.1 remains blocked/incomplete because GAP-0001 is critical/open and community-to-paid-employer attribution remains unresolved after the approved 25-source ceiling.
+- DEC-0006 authorizes qualified completion with reviewed historical unknowns; the earlier blocked P1 assessment is preserved. GAP-0001/0002 remain open as factual limitations, with explicit final dispositions.
 - P1.1 has no source balance under RC-0001-v1.1. DEC-0005 approves the P2.1 handoff, plan, RC-0002 and separate 25-source ceiling. Current P2 use is 12/25; no further approval is pending within that scope.
 
 ### REV-0004 — First customers and early monetization
@@ -63,3 +63,15 @@
 **Prior version:** Complete [book v0.3 snapshot](../book-archive/v0.3/index.md) retained outside the Docusaurus include selection. Chapter 01 remains unchanged; its February 2014 announcement wording is not a first-ever CodePair availability claim. Chapter 02 adds the November 2013 demonstration boundary.  
 **Review:** General-reader workflow and buyer explanation, causal interpretations, source-note links and unnecessary-detail pass completed. RT-0002 retains unresolved first payer and community-paid-acquisition disputes. GAP-0001 remains critical/open; neither phase nor project is declared complete.  
 **Structure:** Adds the already-approved P2 contribution; no charter scope change. Validation recorded in Journal Entry 40.
+
+### REV-0005 — Community and employer workflows
+
+11 November 2026 / DEC-0006 / RC-0003. Added chapters 03–04 and Part III from SRC-0038–0043/0045–0046 and existing records; RT-0003. Book v0.4 snapshot retained outside published selection. Conditional lessons distinguish community participation/candidate access from employer acquisition and workflow integration. Chapters reviewed in chapter-review-log.md; phase/project completion not inferred from prose. Full build/link checks follow later chapter additions.
+
+### REV-0006 — Later evolution through the 2026 cutoff
+
+11 November 2026 / RC-0003 / DEC-0006. Added chapters 05–06 from SRC-0044/0047–0061 with RT-0004 qualifications. Preserved v0.5 outside published selection. Includes wider sales/implementation work, remote-market opportunity, reported downturn and changing AI assessment task, without numerical current prices or efficacy claims. Editorial/evidence passes recorded before writing the end chapter. No final project completion yet.
+
+### REV-0007 — Complete narrative and closing synthesis
+
+11 November 2026 / DEC-0006 / RC-0003. Preserved v0.6 snapshot, completed chapter 07 after the prior chapters' reviews, and revised chapter 06 for the final-source counterfinding. Seven narrative chapters in five parts; cutoff explicit. Finalization retains GAP-0001/0002 and RT-0001–0005 verdicts, no historical certainty upgrade. Chapter and whole-book validation recorded outside published docs in final-review-and-completion.md and journal.

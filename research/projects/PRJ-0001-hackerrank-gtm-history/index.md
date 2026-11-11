@@ -1,38 +1,24 @@
 # HackerRank GTM History and Transferable Lessons
 
-**Project ID:** PRJ-0001  
-**Charter status:** Approved v1 (decision recorded as PRJ-0001:DEC-0001)
+**Project:** PRJ-0001 · **Status:** Complete with qualifications · **Cutoff:** 11 November 2026.
 
-## Project navigation
+## Read the book
 
-- [Approved charter v1](charter.md)
-- [Approved plan v1 and P1-v1](plan.md)
-- [Project decisions](decisions.md)
-- [Approved P1 contract RC-0001-v1](contracts/RC-0001-p1-origins-v1.md)
-- [P1.1 continuation contract RC-0001-v1.1](contracts/RC-0001-p1-origins-v1.1.md)
-- [Approved P2.1 plan](plans/P2.1-first-customers-and-monetization.md) · [Approved RC-0002](contracts/RC-0002-p2-first-customers-and-monetization.md) · [Approval proposal](proposals/P2.1-plan-and-contract.md)
-- [P1/P2 budget ledger](budget-ledger.md)
-- [Source register](sources.md)
-- [Claim register](claims.md)
-- [Investigation journal](journal.md)
-- [Research gaps](gaps.md)
-- [Active checkpoint](active-state.md)
-- [Record ID ledger](record-ids.md)
-- [Pre-charter discovery brief](../../intake/hackerrank-discovery-brief.md)
+[HackerRank: A Historical GTM Case Study — edition 1.0](book/index.md): seven reviewed chapters in five parts, from early InterviewStreet experiments through the 2026 product direction and closing lessons. Research controls and evidence records are excluded from Docusaurus publication.
 
-## Reusable concepts
+## Completion and review
 
-- [K-000001 — Developer Community as Talent Supply and Employer Funnel](../../knowledge/K-000001-developer-community-as-talent-supply.md) (provisional; causal effect pending)
-- [K-000002 — Early Candidate-Prep Product to Employer Assessment Pivot](../../knowledge/K-000002-candidate-prep-to-employer-assessment-pivot.md) (provisional; pivot trigger and timing unresolved)
+- [Final charter-level audit and completion dossier](final-review-and-completion.md)
+- [Phase completion dossiers](phase-completion-dossiers.md) and [reviewed P1/P2 handoff](p1-p2-reviewed-handoff.md)
+- [Chapter editorial/evidence reviews](reviews/chapter-review-log.md)
+- [RT-0001](reviews/RT-0001-community-to-employer-causality.md), [RT-0002](reviews/RT-0002-first-payers-and-commercial-model.md), [RT-0003](reviews/RT-0003-community-and-enterprise-growth.md), [RT-0004](reviews/RT-0004-later-growth-and-ai-transition.md), [RT-0005](reviews/RT-0005-whole-case-and-lessons.md)
+- [Deep closing learning checkpoint](checkpoints/P3-P5-learning-checkpoint.md)
 
-## Research book
+## Authoritative records
 
-The evidence-linked draft book is [HackerRank: A Historical GTM Case Study](book/index.md), currently v0.4. It explains the business journey in plain language, with detailed evidence comparisons in numbered notes. Prior drafts are preserved outside the Docusaurus content selection in [v0.1](book-archive/v0.1/index.md) and [v0.2](book-archive/v0.2/chapter-01.md). Evidence and operational records remain outside the reader-facing book.
+- [Charter and completion amendment](charter.md), [phase plan](plan.md), [approved end-to-end plan](plans/end-to-end-completion-v1.md), [RC-0003](contracts/RC-0003-end-to-end-completion.md), [decisions](decisions.md)
+- [Sources](sources.md), [claims](claims.md), [historical unknowns](gaps.md), [budget](budget-ledger.md), [journal](journal.md), [ID ledger](record-ids.md), [active checkpoint](active-state.md)
+- [Earlier P1 assessment](p1.1-completion-assessment.md) and [earlier P2 checkpoint assessment](p2.1-evidence-assessment.md), preserved as historical states
+- [K-000001](../../knowledge/K-000001-developer-community-as-talent-supply.md) and [K-000002](../../knowledge/K-000002-candidate-prep-to-employer-assessment-pivot.md), provisional causal aspects retained
 
-## Current phase state
-
-P1.1 continuation is **blocked/incomplete**: 25/25 P1 sources used; critical GAP-0001 remains open; RT-0001 v2 leaves community-to-paid-employer causality unresolved. P2.1's dependency handoff, plan, contract and 25-source allocation are approved by DEC-0005. The start gate passed in Journal Entry 36. P2 is in progress at 12/25 sources; P1.1 remains incomplete.
-
-- [P2 evidence assessment](p2.1-evidence-assessment.md)
-- [P2 independent review](reviews/RT-0002-first-payers-and-commercial-model.md)
-- [P2 deep learning checkpoint](checkpoints/P2.1-learning-checkpoint.md)
+Reviewed unknowns include first actual payer, comparable account measures, channel/revenue attribution and current AI outcomes. Completion records the work performed under DEC-0006; it does not establish missing historical facts. Work is on work/next-updates; no merge or deployment is part of this research completion.

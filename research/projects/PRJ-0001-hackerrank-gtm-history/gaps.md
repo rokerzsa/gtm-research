@@ -88,3 +88,15 @@ SRC-0026–0037 / CLM-0079–0096 distinguish commercial units, reported custome
 The new records support a qualified account of multiple early offers and annual seat selling as described by a contemporary executive. They do not verify account-level prices, revenue, expansion performance or community-caused paid growth. CodePair's November 2013 public demonstration qualifies first-ever launch wording, not the later announcement milestone. The live agreement's self-stated date is not an independently verified historical snapshot.
 
 **Disposition:** Critical/open, not evidence-exhausted. P2 12/25 used, 13 remaining; no extra approval needed within the existing scope and balance. Revisit on dated buyer-side orders/receipts, early account acquisition records, defined paid-account cohorts or accessible historical pricing snapshots. P1 remains incomplete at its separate ceiling. Chapter 02 teaches only the bounded supported story.
+
+## DEC-0006 reviewed disposition — 11 November 2026
+
+GAP-0001 remains open as a historical uncertainty register. [Reviewed handoff](p1-p2-reviewed-handoff.md) applies the explicitly approved completion amendment: the unresolved payment/date/channel facts are documented qualified outcomes rather than automatic blockers to later phases. RT-0001/0002/0003 do not verify the first payer or community-caused paid acquisition. VMware supplies reported peer-led adoption, not a first-customer transaction. Reopen affected conclusions if dated buyer or attribution records emerge. No evidence-exhaustion or complete historical certainty claimed.
+
+## PRJ-0001:GAP-0002 — Later commercial attribution and AI validation
+
+**Status:** Open historical/performance unknown, reviewed qualified disposition under DEC-0006; not hidden or declared factually resolved.  
+**Criticality / impact:** Material to any claim that remote/AI product changes caused sustained revenue or that automated scores reliably predict job performance. Such strong claims are excluded from the final book.  
+**Evidence / review:** SRC-0044/0047–0062, CLM-0105/0108–0123, RT-0004/0005. First-party releases/documentation and selected cases establish offers and reports, not representative outcomes.  
+**Avenues attempted:** Buyer-domain searches, contemporary reporting, operational support docs, independent older-model research abstract, reported restructuring and current commercial offers. Procurement/academy document recovery failed. No paid access/outreach.  
+**Disposition:** Book finalizes with qualified workflow/stated-strategy account; no common paid-account series, quantified channel effect, regional contribution or independent AI validation. New buyer transactions, common financial cohorts or validation studies trigger selective reassessment. Additional generic profiles have low expected value; no exhaustive-web or budget-exhaustion claim.

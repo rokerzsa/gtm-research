@@ -55,3 +55,14 @@
 - **Dependency amendment:** P2.1 may proceed from the recorded P1.1 evidence handoff while GAP-0001 stays critical/open. P1 remains blocked/incomplete; its source ceiling is not extended and its dossier is not converted to success.
 - **Execution condition:** Persist the approved plan/contract/budget and verify the investigation start gate before inspecting new sources. Current baseline: SRC-0025 / CLM-0078, 25 P1 sources, zero P2 sources.
 - **Writing preferences:** Continue the revised company-story approach and case-derived lessons; no user-business comparison is requested.
+
+## PRJ-0001:DEC-0006 — End-to-end completion authorization
+
+11 November 2026. Exact user answer to the combined approval question: “Approve the full plan, contract and amendment”. Approves end-to-end-completion-v1.md and RC-0003-v1, P3–P5 execution with no numeric cap but measured source usage, public/free only, no outreach or paid access, existing P1/P2 caps unchanged. Approves the explicit dependency handoff and charter completion amendment allowing final completion with reviewed, documented historical unknowns after substantive attempts and impact disposition. Does not establish historical facts or authorize skipping reviews. Per-chapter human approval is not required. No unrequested merge/deployment.
+
+## PRJ-0001:DEC-0007 — User approval of all completed phases
+
+**Date:** 11 November 2026.  
+**Exact user statement:** “Approve all phases in the research”.  
+**Scope:** All phases P1–P5 of the current HackerRank study, their reviewed qualified dispositions, and the completed seven-chapter edition 1.0. Records the user's approval following the completion report; prior execution authority remains DEC-0001–0006.  
+**Evidence boundary:** GAP-0001/0002 and qualified/unresolved review verdicts remain as documented; approval does not establish missing historical facts. No new research scope, spending, outreach, merge or publication is inferred.
