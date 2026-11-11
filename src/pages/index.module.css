@@ -1,0 +1,85 @@
+.main {
+  display: flex;
+  min-height: calc(100vh - 60px);
+  align-items: center;
+  padding: 5rem 0;
+  background:
+    radial-gradient(circle at 82% 20%, rgb(215 164 74 / 13%), transparent 25rem),
+    linear-gradient(130deg, #f7f4ec 0%, #fbfaf6 56%, #edf3ef 100%);
+}
+
+.eyebrow {
+  margin: 0 0 1rem;
+  color: #28675c;
+  font-size: 0.76rem;
+  font-weight: 750;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.title {
+  max-width: 720px;
+  margin: 0;
+  color: #193d38;
+  font-size: clamp(2.8rem, 7vw, 5.5rem);
+  letter-spacing: -0.05em;
+  line-height: 1;
+}
+
+.subtitle {
+  max-width: 620px;
+  margin: 1.5rem 0 0;
+  color: #52665f;
+  font-size: 1.15rem;
+  line-height: 1.75;
+}
+
+.library {
+  display: flex;
+  max-width: 760px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-top: 3rem;
+  padding: 1.5rem;
+  border: 1px solid rgb(40 103 92 / 16%);
+  border-radius: 1rem;
+  background: rgb(255 255 255 / 78%);
+  box-shadow: 0 18px 50px rgb(25 61 56 / 7%);
+}
+
+.kicker {
+  margin: 0 0 0.5rem;
+  color: #28675c;
+  font-size: 0.72rem;
+  font-weight: 750;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.bookTitle {
+  margin: 0;
+  color: #193d38;
+  font-size: 1.45rem;
+}
+
+.bookDescription {
+  max-width: 510px;
+  margin: 0.6rem 0 0;
+  color: #52665f;
+  line-height: 1.65;
+}
+
+@media screen and (max-width: 600px) {
+  .main {
+    min-height: calc(100vh - 56px);
+    padding: 4rem 0;
+  }
+
+  .library {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 1.5rem;
+    margin-top: 2.25rem;
+  }
+}

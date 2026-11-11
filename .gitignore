@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+
+# Docusaurus build output
+/.docusaurus
+/build
+
+# local environment and logs
+.env
+.env.*
+!.env.example
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
