@@ -1,89 +1,117 @@
-# Chapter 06 — When AI changes the skill being assessed
+# Chakra and the shift from testing code to evaluating work
 
-An online programming test is useful only if the result tells an employer something meaningful about the candidate. AI complicated that promise. A tool that can produce code can help someone complete a task without showing how much they understand. The same tool can also be part of the work a programmer is expected to do on the job.
+Earlier chapters showed how HackerRank could help an employer turn applicant assessment into a repeatable hiring process. That proposition depends on the evidence the assessment produces. If AI helps a candidate generate code, the employer must consider what a finished answer reveals—and what it still needs to learn about the person behind it.
 
-For HackerRank, this created two related questions. How could an employer trust what happened during an assessment? And if programmers increasingly worked with AI, what should the assessment ask them to demonstrate?
+Chakra addresses that problem by conducting more of the initial evaluation in software and returning evidence for the employer to review. To judge the strategic change, we first need to understand that work: what the buyer configures, what the candidate does, and how the hiring team uses the result. Only then can we assess how the offer differs from a test or a human-led interview, and what it might change commercially.
 
-## Protect the meaning of a result
+## How an employer and candidate use Chakra
 
-In June 2023, HackerRank announced AI-powered plagiarism detection, describing signals of suspicious behaviour and external-tool use. This addressed the first question: help the employer interpret whether a submission followed the assessment's rules. The announcement establishes the company's offer; it does not independently establish detection accuracy or eliminate the possibility of mistakes. [1](#note-1)
+The employer starts by generating and refining an interview plan for a role, including the areas it wants to evaluate. The setup guide also lets the employer try the interviewer before inviting candidates. That gives the buyer something concrete to inspect: how an interview configured for its needs actually behaves. [3](#note-3)
 
-The underlying concern was more than hypothetical. A 2022 research abstract describes an older code-generation model succeeding on selected HackerRank problems while showing signs of memorization. That is a narrow study of particular tasks, not a test of today's assessment system. It illustrates why obtaining a correct answer and demonstrating an individual's ability can come apart. [2](#note-2)
+The employer then invites candidates. The operating guide describes hands-on questions and reports; the resulting evaluation goes to the hiring team for review. Candidate-facing instructions make the decision boundary explicit: the employer decides the next steps. Software can conduct the interaction while people retain responsibility for what follows. [4](#note-4)
 
-A credible product response therefore needs to address what the result means, not merely produce another score. Employers still have to understand the assessment conditions and decide what evidence to use in a hiring decision.
+The company also explains separate planning, interview and reporting functions, with scores linked to interview evidence. That is relevant to buyer trust because a reviewer needs to inspect why an evaluation was produced. It is an explanation of design, not independent proof that the judgments are accurate or predict job performance. [5](#note-5)
 
-## Extend from hiring into developing existing staff
+## From supplying a test to conducting more of the evaluation
 
-AI also created a reason for employers to reconsider skills inside their own teams. HackerRank's March 2024 launch of SkillUp described assessing current proficiency and building learning plans toward target roles. Engage, launched alongside it, applied related capabilities to employer-branded events and attracting developer interest. [3](#note-3)
+| Dimension | Earlier emphasis | Chakra-era emphasis | Interpretation |
+|---|---|---|---|
+| Employer problem | Screen applicants before scarce engineer interview time | Gather a richer initial evaluation while reducing dependence on a person conducting each interaction | More hiring work is being offered as a product. |
+| Evidence of ability | Test results and a human-led coding conversation | Work, explanation and, where allowed, interaction with AI | The promise moves toward interpreting performance, not only marking an answer. |
+| Delivery | Assessment software operated by the employer; live interviewer uses a shared tool | Software conducts the initial interview; employer reviews its output | Automating an interview is distinct from automating the hiring decision. |
+| Commercial route | Subscription software, employer selling and account expansion | Trial/demo access, with indexed pricing showing Chakra alongside existing tools | A possible strengthening of the platform offer, not proven standalone economics. |
+| Scope | Technical hiring at the core | Documentation also describes nontechnical interviews | Broader eligibility does not establish demand or a new successful segment. |
 
-The two offers extended familiar parts of the company's business. Skills assessment could help an employer develop existing staff; event-based engagement could help it reach potential hires. The user and buying context could differ from a recruiting team purchasing a screening test. That opened additional commercial possibilities, but the sources do not establish either product's share of revenue or whether it reduced dependence on hiring demand.
+AI-led interviews appeared in the 2025 showcase; October 2026 reporting places general availability after beta. This dates the move from an earlier demonstration and limited-use stage toward a generally available offer, without treating the first announcement as proof of broad adoption. [1](#note-1)
 
-This is an extension of the company's stated ambition, rather than a clean abandonment of recruiting. The later product materials continue to present screening and interviews alongside the newer offers.
+The change is therefore in both the promise to the buyer and the evaluation work the product performs. In strategic terms, it is a repositioning and workflow expansion on the current evidence. It could become a deeper business-model change, but that would require evidence about billing, customer migration and revenue. A new product name alone cannot establish it.
 
-## Assess work with AI, not only work without it
+## Why this response—and what were the alternatives?
 
-At AI Day in March 2025, HackerRank showcased proctoring, AI-led interviews and other assistance across recruiting and learning. The recap specified a gradual rollout, an important distinction from assuming every showcased capability was immediately available to every customer. [4](#note-4)
+If AI can produce a plausible code answer, correctness alone becomes a weaker basis for judging the person. One response is stronger enforcement: restrict assistance and look for rule violations. Another is a human-led work exercise with AI allowed. A third is to automate an interaction that probes the candidate's understanding and use of tools.
 
-By the Fall 2026 release, the company was describing interviews in which a candidate works in an existing code repository with AI. A repository is a collection of a project's files and code: the candidate has to understand and change something already built, rather than simply answer an isolated puzzle. The advertised task includes planning, making changes, testing and explaining the result. [5](#note-5)
+HackerRank is pursuing more than one response. Its current portfolio retains assessment and live interviewing alongside Chakra. That matters strategically: it can serve employers with different comfort levels rather than require a single universal interview policy. Its own public argument for assessing AI-assisted work provides the rationale; the relative commercial success of those options is not known. [2](#note-2)
 
-Chakra's support documentation makes the intended evaluation more concrete. Its reports separate the solution, the follow-up explanation and how the candidate works with the AI assistant. The latter includes framing the task, directing the tool and reviewing its output. Those are descriptions of the product's process; they are not independent proof that its scores predict performance at work. [6](#note-6)
+The opportunity is to remain useful when the meaning of a coding result changes. The risk is that the supplier takes on a more demanding promise. A buyer evaluating a test can ask whether it measures the task intended; a buyer evaluating an automated interviewer must also assess the quality of questioning, interpretation and the resulting report.
 
-The commercial promise is changing with the task. An employer is being offered evidence about how a person uses powerful tools and exercises judgment, alongside whether the final code works. HackerRank's June 2026 argument against relying solely on stricter prohibitions makes that change in emphasis explicit. [7](#note-7)
+## How it can reach and expand an employer account
 
-This does not mean all AI use became acceptable in every test. An employer can prohibit outside help in one assessment and deliberately allow it in another. Integrity checks and AI-enabled work can coexist if the rules and the skill being evaluated are clear. Treating them as one universal policy would hide that distinction.
+Chakra's commercial page offers trial and demo routes. That gives a prospective buyer ways to experience the new proposition and a selling team a product around which to organize evaluation. The page's positioning contrasts hands-on work with conversation alone; that comparison is the vendor's claim, not an independent ranking of interview products. [6](#note-6)
 
-## An additional buyer: AI laboratories
+The strongest commercial counterpoint to a “new business replaces the old” story is the packaging. Current indexed pricing lists Chakra with Screen and Interview. Together with the continued portfolio, this supports an account-level possibility: introduce a different evaluation workflow to an employer already using the platform. It does not establish that cross-sell happened, that all accounts received identical terms, or that Chakra has an independently disclosed price/revenue stream. [7](#note-7)
 
-The live HackerRank Bench offer extends the story beyond employers assessing people. It offers AI laboratories engineering tasks, evaluation environments and data, with experts paid to create tasks. The customer could now be developing a model rather than hiring a programmer. [9](#note-9)
+The buyer evaluation may nevertheless be more demanding. Hiring teams can compare the automated interaction with human interviews, review candidate responses and decide which roles are suitable. Engineers may scrutinize work quality; recruiting operations may need the process to fit their systems. Those are plausible buying and implementation implications, rather than a documented universal sales process.
 
-This is a further use for assessment expertise and developer relationships. It remains an advertised business direction: the inspected page does not independently establish paying lab customers or revenue. Its stated distinction between community data and confidential customer data is also a company statement, not an audited finding.
+## The new offer also changes what the buyer must trust
 
-## A new offer is not yet a proven business result
+**Throughput versus trust.** Automated interaction could reduce scheduling and interviewer effort. But if employers repeatedly re-check reports, some work moves into review rather than disappearing. Evidence of actual total time saved would matter more than a count of interviews conducted.
 
-The current indexed pricing page presents several employer tiers and enterprise pricing, with AI-related capabilities. Direct access to the page was blocked by its cookie requirement, so this study does not rely on numerical current prices. It is evidence of commercial packaging, not what any named customer actually bought. [8](#note-8)
+**Standardization versus useful adaptation.** A common plan can support comparisons, while follow-up questions can explore individual responses. The buyer still needs confidence that this variation produces a useful comparison. Standardized instructions do not by themselves establish fair or valid outcomes.
 
-The same boundary applies to the wider AI transition. Dated releases and support instructions establish a developed product direction more clearly than a passing slogan would. They do not establish independent scoring validity, broad customer adoption or incremental revenue. Those remain consequential unknowns at the research cutoff of November 11, 2026.
+**A differentiated offer versus platform overlap.** Chakra can make the platform more relevant, but customers still need to understand when to use it, a test or a live interview. Overlapping offers can support choice and expansion; they can also create uncertainty about the recommended workflow.
 
-## What this stage teaches
+**A richer task versus participation cost.** Working in a realistic environment may provide more evidence, while asking more from a candidate. Acceptance, completion and accessibility across candidate groups would be important tests. The study does not independently establish those outcomes.
 
-A business built around evaluating a skill must revisit the evaluation when the work itself changes. The case makes that problem tangible: the employer may need evidence about both independent understanding and effective use of AI. More enforcement alone cannot answer which of those abilities the job requires.
+The commercial outcome depends on how employers and candidates experience these trade-offs. Faster buyer adoption, completed interviews, useful reports and repeat use would help test the promise. No inspected buyer-owned cohort, payment record or independent validation establishes those outcomes.
 
-The lesson is conditional. Redesigning an assessment can make the product's promise more relevant, but relevance still has to be demonstrated in use. The evidence here supports a strategic and product response to changing work; it does not establish that the response has already solved the commercial or measurement problem.
+## Where the broader portfolio is heading
 
-## Notes and sources
+The portfolio also leaves room for both automated interaction and assistance to a human interviewer. That distinction matters to the choices available to an employer, without establishing which approach it will prefer. An Interview change notice describes Chakra Assist as **coming soon** for human interviewers; it is not treated here as already delivered. A human-plus-AI route would broaden the possible workflow rather than force every interview to be conducted by an agent. [8](#note-8)
+
+Chakra is not the only direction in the portfolio. SkillUp extends skills work into existing employment, Engage supports employer events and relationships, and Bench addresses evaluation/data work for AI labs. Those directions matter to the book's central question because they change the work offered or the buyer served, rather than simply adding another hiring feature:
+
+| Direction | What changes commercially | What would demonstrate the strategic result |
+|---|---|---|
+| SkillUp | Skills work for existing employees can involve stakeholders beyond hiring | Evidence of adoption, renewals and incremental spending in those accounts. |
+| Engage | Employer events and relationships extend the attraction side | Evidence that the offer creates valuable candidate relationships and paying demand. |
+| Bench | AI labs become a buyer for evaluation/data work | Buyer-side use and commercial evidence, not benchmark claims alone. |
+
+One retraction is important: Engage's candidate-sourcing feature was deprecated effective April 22, 2026. Event promotion remains described. An older promise of candidate rediscovery cannot simply be carried forward as today's capability. This is a selective narrowing of an offer, not proof that the whole product failed. [9](#note-9)
+
+These directions share some assessment expertise and developer relationships, but not necessarily a buyer or budget. Their presence does not establish a single successful diversification strategy. The [complete GTM chapter](../part-00-gtm-system/00-full-gtm-system.md) connects them without assuming all customers buy every offer.
+
+## A conditional view of where this could lead
+
+If employers trust the output and incorporate it into decisions, Chakra could move HackerRank further from supplying tests toward delivering a repeatable evaluation service. If that trust remains limited, assistance for human interviewers could be a more acceptable path. Both could coexist by role or customer.
+
+The discriminating evidence is concrete: completion and acceptance by candidates; report use and re-checking by employers; actual time/cost and hiring-quality outcomes; repeat usage and expansion; and how billing relates to those workflows. Those signals would help distinguish a useful product extension from a successful larger pivot. They are not established by a launch announcement, portfolio placement or vendor claim alone.
+
+Seen alongside the earlier chapters, Chakra returns the company to a familiar strategic choice in a new form: how much work should the product perform for the customer, and what must the customer trust it to do? The early move toward employer tests, the expansion into hiring workflows and the current automated evaluation offer give different answers. The [closing chapter](../part-05-lessons/07-lessons-and-limits.md) brings those choices together and examines what can be learned from them.
+
+## Sources and notes
 
 ### Note 1 {#note-1}
 
-[June 2023 integrity announcement](https://www.hackerrank.com/blog/hackerrank-launches-ai-powered-plagiarism-detection/). Detection and fairness claims are the vendor's; no independent validation is inferred.
+[AI Day 2025 recap](https://www.hackerrank.com/blog/hackerranks-ai-day-2025-product-launch-recap/); [October report](https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/).
 
 ### Note 2 {#note-2}
 
-[Karmakar and colleagues' 2022 research abstract](https://arxiv.org/abs/2212.02684). Only the abstract was inspected. Its selected Python problems and older model do not test 2026 products or establish that every coding assessment is ineffective.
+[June 2026 company perspective](https://www.hackerrank.com/blog/the-new-cheating-problem-and-why-the-answer-isnt-a-stricter-test/) and [current homepage](https://www.hackerrank.com/). They supply stated rationale and observed positioning, not measured causal effects.
 
 ### Note 3 {#note-3}
 
-[March 2024 SkillUp and Engage announcement](https://www.hackerrank.com/blog/hackerrank-launches-two-new-products/). Product design and stated rationale are separated from realized outcomes. Selected customer endorsements are not treated as independent validation.
+[Create an interviewer](https://support.hackerrank.com/articles/8041423965-set-up-an-ai-interview), live documentation at the cutoff. A documented try/setup step is not an activation-rate measurement.
 
 ### Note 4 {#note-4}
 
-[AI Day 2025 recap](https://www.hackerrank.com/blog/hackerranks-ai-day-2025-product-launch-recap/), including its rollout statement. Later live documentation can clarify a workflow but cannot prove that all of it was available on the showcase date.
+[Product introduction](https://support.hackerrank.com/articles/6908366644-introduction-to-chakra) and [candidate evaluation guide](https://candidatesupport.hackerrank.com/articles/3077231667-evaluation-in-chakra). Live scope and operating boundaries do not establish performance across roles.
 
 ### Note 5 {#note-5}
 
-[Fall 2026 release](https://www.hackerrank.com/release/fall-2026), inspected November 11, 2026. Some items are described as rolling out; the release is not a usage or outcome audit.
+[July scoring explanation](https://www.hackerrank.com/blog/how-chakra-scores-an-interview/). Later hands-on report documentation describes additional evidence; the July account is not assumed to exhaust every later scoring method.
 
 ### Note 6 {#note-6}
 
-[Chakra hands-on report documentation](https://support.hackerrank.com/articles/8145205695). Operational detail corroborates the stated evaluation design while leaving predictive accuracy and customer results unverified.
+[Chakra offer](https://www.hackerrank.com/chakra), reached from chakra.sh. Trial/demo, workflow and differentiation claims are first-party; no named customer-performance assertion from the page is independently adopted here.
 
 ### Note 7 {#note-7}
 
-[June 2026 company perspective](https://www.hackerrank.com/blog/the-new-cheating-problem-and-why-the-answer-isnt-a-stricter-test/). This is an interested strategic argument; its position is not presented as an independently proven universal answer.
+[Pricing](https://www.hackerrank.com/work/pricing), substantive indexed text after blocked direct access, and [plan FAQ](https://www.hackerrank.com/frequently-asked-questions/which-subscription-plans-are-available). Coexistence of offers is stronger evidence than any claim of actual cross-sell.
 
 ### Note 8 {#note-8}
 
-[Employer pricing page](https://www.hackerrank.com/work/pricing), inspected through substantive indexed text after direct cookie-blocked access. Plans and features can change; no current numerical price or implied historical continuity is asserted.
+[Interview upgrade notice](https://support.hackerrank.com/articles/3861187518-interview-just-got-a-major-upgrade), checked November 11, 2026. Its planned/available labels are retained; release wording is not a guarantee of every account's access.
 
 ### Note 9 {#note-9}
 
-[HackerRank Bench](https://www.hackerrank.com/bench), live at the research cutoff; exact launch date unverified. No model rankings, third-party statistics or commercial results on the page are treated as independently validated.
+[Deprecation notice](https://support.hackerrank.com/articles/9867323057-january-2026-deprecations-and-experience-changes), [SkillUp](https://www.hackerrank.com/products/skillup/), [Engage](https://www.hackerrank.com/products/engage/), [Bench](https://www.hackerrank.com/bench). Current operational restrictions take precedence over an older broad launch promise. Financial results and efficacy remain unknown.

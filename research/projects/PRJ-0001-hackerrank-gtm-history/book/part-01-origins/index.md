@@ -1,9 +1,7 @@
-# Part I — Origins and product iterations
+# Finding a business around the hiring problem
 
-The early business explored two sides of hiring: helping candidates prepare and helping employers assess applicants. Coding contests and the HackerRank community then expanded what programming exercises could do, from evaluating known applicants to helping people demonstrate their skills.
+The business starts with a choice about whose problem to solve. Candidate practice and employer assessment both concern programming skill, but they create different work for the supplier and different reasons to pay. The first chapter examines that choice; the second follows the attempt to turn it into a commercial relationship.
 
-This part explains those products, the changes in customer and payment model, and the routes through which early employers reportedly arrived. It also distinguishes candidate hiring activity from evidence that the community brought in paying customers.
+Read [Changing the problem, buyer and delivery model](01-first-products-and-hackerrank-launch.md), then [First customers and commercial-model choices](../part-02-first-customers/02-first-customers-and-monetization.md). Together, they explain why a more repeatable product still needed access to buyers, practical adoption and a workable purchase.
 
-[Book contents](../index.md)
-
-1. [How InterviewStreet became HackerRank](01-first-products-and-hackerrank-launch.md)
+With that foundation, the next section asks how developer participation and employer software could support a continuing business.

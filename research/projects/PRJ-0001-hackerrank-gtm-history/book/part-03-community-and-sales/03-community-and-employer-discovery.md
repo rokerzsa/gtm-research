@@ -1,40 +1,44 @@
-# Chapter 03 — Why programmers came, and how employers could participate
+# Community value versus employer acquisition
 
-A programming contest needs people who want to compete. A recruiting business needs employers willing to buy. HackerRank brought those groups into contact, but the reasons each group participated were different.
+The commercial choices in the previous chapter included helping employers reach programmers, as well as testing applicants already in their process. The first offer depends on something the second does not necessarily need: a reason for developers to participate before a particular employer asks them to apply.
 
-For a programmer, the immediate attraction could be a problem worth solving, a chance to improve, a ranking or a prize. An employer wanted to meet capable people or assess applicants. The community could make those encounters possible without requiring every participant to be looking for a job.
+Practice and contests create such possibilities. To understand their role in HackerRank's business, we need to follow two decisions: why a programmer takes part, and why an employer buys. The connection between them can create value even when the community is not what introduced the employer to HackerRank.
 
-## Give developers a reason to participate
+## The two problems the design had to solve
 
-The early CodeSprint story, covered in chapter 01, made hiring opportunities visible through programming challenges. The broader community added a reason to return even between job searches: programming itself. A developer could practise, compete and compare performance with other people.
+Programmers need a reason to participate: practice, competition, a useful problem, recognition or an opportunity. Employers need a reason to engage: access to relevant people, a branded recruiting activity or evidence of skills. An event creates a possible meeting point, but the purchase and participation decisions remain different.
 
-CodeStorm's surviving event page makes that combination unusually clear. It invited students and working programmers across countries to compete, learn and win prizes, with an optional connection to sponsors. The employer connection was part of the offer, alongside reasons to participate for their own sake. The page is an advertised event, not a measurement of how often developers returned or found jobs. [1](#note-1)
+The event design makes the relationship concrete. CodeStorm offered learning and prizes, with an optional connection to sponsors. Booking.com's CodeSprint rules also provided for an employer connection through participant consent. A programmer could therefore join the activity for its own value and separately agree to contact related to hiring. Participation and access to that participant were not the same decision. [1](#note-1) [2](#note-2)
 
-This distinction matters to the business model. Requiring every interaction to be a job application would serve a narrower, more occasional need. A practice and competition site could have value before the participant wanted to apply anywhere. That is a plausible advantage of the design, rather than proof that it caused the community's reported growth.
+The strategic advantage of participation beyond job searches is potential continuity of developer relationships. The trade-off is that participation and hiring intent need not coincide. An employer still needs relevance, willingness and a way to make contact.
 
-## Turn participation into a specific employer encounter
+## Who brought the audience—and who brought the buyer?
 
-An employer-branded contest gave the connection a more concrete form. In 2018, Booking.com's all-women CodeSprint invited participants to solve graded challenges, with prizes that included a trip to a further hackathon in Amsterdam. Prize eligibility required consent to share information with Booking.com. [2](#note-2)
+Morgan Stanley's campus instructions describe participants arriving through college relationships and ambassadors to a HackerRank-hosted event. In that case, the platform's role cannot simply be equated with supplying the entire audience. [3](#note-3)
 
-The sequence was understandable to both sides: a participant entered a programming event; the employer attached its name, people and opportunities to it; willing participants could share information. A contest could therefore help an employer meet people outside a conventional application process. The event terms establish the proposed arrangement, not how many participants were hired or how much Booking.com paid.
+This yields three distinct questions:
 
-A different case shows why “HackerRank event” does not necessarily mean “HackerRank supplied the audience.” Morgan Stanley's 2015 codeathon instructions directed students to registration through campus ambassadors and college relationship contacts. Selected participants could be assessed for internships or full-time positions. HackerRank provided the platform, while the instructions describe employer and college relationships bringing people into the event. [3](#note-3)
+- Did HackerRank provide the event/evaluation infrastructure?
+- Did its community contribute relevant participants?
+- Did the community cause the employer to discover and purchase HackerRank?
 
-These were related but distinct uses. One could expose an employer to a broader programming audience; another could make the employer's existing campus recruiting more effective. Their outward appearance—a coding contest on HackerRank—does not tell us which distribution route produced the participants, let alone how HackerRank acquired the employer.
+Evidence for the first does not automatically answer the next two. A salesperson could win an employer by offering community access; an employer already familiar with the community could initiate contact. Both routes are plausible, with different acquisition economics.
 
-## The community had a commercial offer
+## Turning participation into an employer offer
 
-In an April 2015 interview, Hari described companies paying to conduct contests on the community platform. He also explained the team's interest in sourcing: assessing people and approaching employers with suitable candidates. That account places a commercial bridge between developer activity and employer needs. It would be misleading to describe the community as having no connection to monetization. [4](#note-4)
+Co-founder Harishankaran Karunanidhi, also known as Hari, described fees for companies conducting community contests in a 2015 interview. The commercial offer joined an employer's interest in reaching programmers with an activity programmers could choose to enter. That supplies a reason an employer might pay, while leaving the actual contribution to revenue and the origin of employer leads unmeasured. [4](#note-4)
 
-It would be equally misleading to assume the bridge proves that a large developer audience automatically generated employer sales. An employer could buy a contest after being approached by the founders or a salesperson. The community might make the offer more valuable without being the route through which the buyer discovered HackerRank. Conversely, a recruiter who knew the community might initiate contact. The inspected evidence does not establish the relative contribution of those routes.
+The alternative was to sell evaluation software for applicants an employer already had. That avoids depending on the community to originate every candidate relationship, while offering a different kind of value. The community and employer software can reinforce one another without sharing one acquisition mechanism.
 
-The useful distinction is between **what makes an offer valuable** and **what brings a buyer to purchase it**. A pool of programmers can strengthen a recruiting offer. Reaching and persuading employers remains commercial work of its own.
+## What the community explains—and what it leaves open
 
-## What this stage teaches
+Look for where a buyer first encountered the offer, the reason it evaluated it, the purchase made and subsequent usage. Candidate attendance or hiring outcomes can establish the usefulness of an employer event without establishing how HackerRank acquired that employer.
 
-HackerRank's community story is more than a large user count. It shows a design problem: give developers an activity worth doing, then create specific, understandable ways for interested employers and participants to meet. Practice, prizes, consent to share information and employer-branded events made those connections concrete.
+The current Engage offer continues the event/engagement route, but its older candidate-sourcing feature was deprecated in 2026. The [current-strategy chapter](../part-04-later-shifts/06-the-ai-transition.md) covers that change. It is a reminder to inspect the current mechanism rather than carry every historical promise forward.
 
-The limit is just as consequential. These mechanisms show how a community could support a business, not how much revenue it caused. To answer that second question, we would need records connecting employer discovery, purchase and subsequent spending. The case supports the existence of several bridges between the two sides; it does not establish a single automatic growth engine.
+The community could therefore add value to an employer offer through participation and potential candidate relationships. The inspected event designs and company accounts support those connections; they do not provide a complete participation-to-hire record or establish how much paid growth originated in the community.
+
+That leaves an important route to examine on its own. An employer can already have applicants and buy HackerRank to improve the decisions it makes about them. In that case, the commercial task is less about supplying an audience and more about fitting a working hiring process. The [next chapter](04-selling-the-hiring-workflow.md) follows that relationship from a screening need toward recurring use.
 
 ## Notes and sources
 

@@ -4,12 +4,12 @@ Single-writer issuance. Counters are set to zero only before allocation. Issued 
 
 | Kind | Prefix | Last issued number |
 |---|---|---:|
-| Source | SRC | 63 |
-| Claim | CLM | 124 |
-| Research contract | RC | 3 |
-| Red-team review | RT | 5 |
+| Source | SRC | 75 |
+| Claim | CLM | 140 |
+| Research contract | RC | 4 |
+| Red-team review | RT | 6 |
 | Gap | GAP | 2 |
-| Project decision | DEC | 7 |
+| Project decision | DEC | 9 |
 
 **Qualified form:** PRJ-0001:SRC-0001. Source, claim, contract, review, gap, and decision IDs are project-scoped; workspace concepts use the separate K- namespace.
 

@@ -1,8 +1,7 @@
-# Part IV — Scale, remote hiring and AI
+# Adapting the offer as the work changes
 
-As HackerRank served more of an employer's hiring process, changes outside the company affected what that process needed to accomplish. Remote work increased the need for online interviews; a later slowdown challenged the growth story; AI changed both programming work and the meaning of an assessment result.
+A business built around hiring depends on both the work employers need done and the conditions under which they hire. The preceding section explained how HackerRank could fit a recurring process. Here, we examine pressures that can change that process and the value of the supplier's role.
 
-[Book contents](../index.md)
+[Scale, remote demand and the retention priority](05-scale-and-remote-hiring.md) follows wider selling, implementation and changing demand. [Chakra and the shift from testing code to evaluating work](06-the-ai-transition.md) then asks how the offer changes when software conducts more of the evaluation and AI alters what a code answer can reveal.
 
-1. [Growth, remote hiring and a harder market](05-scale-and-remote-hiring.md)
-2. [When AI changes the skill being assessed](06-the-ai-transition.md)
+These are distinct challenges, not a proven chain in which one problem caused every later launch. Reading them together helps separate market opportunity, deliberate product choices and outcomes that remain unknown. The conclusion then brings those distinctions back to the book's central inquiry.

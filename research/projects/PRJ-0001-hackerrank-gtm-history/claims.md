@@ -3607,3 +3607,131 @@ RT-0002 adjudicates aggregate uses of CLM-0051, CLM-0071–0072, CLM-0076–0096
 ## Final aggregate review-state reconciliation — 11 November 2026
 
 This annotation supersedes generic pending aggregate markers for the exact conclusions reviewed: CLM-0097–0104/0106–0107 via RT-0003; CLM-0105/0108–0123 via RT-0004 with RT-0005 current-offer addendum; CLM-0124 and cross-book lessons via RT-0005. Workflow/offer/attributed-report syntheses are qualified. First payment, community-caused paid contribution and later causal/efficacy results remain unresolved. Descriptive source statements retain access/lineage limits; finalization does not authenticate transactions or promote reports into independently verified performance. Earlier RT-0001/0002 qualifications remain in force.
+
+## Claim record — PRJ-0001:CLM-0125
+
+**Assertion:** Chakra is offered through trial/demo routes as an autonomous interview product.  
+**Source / locator:** SRC-0064, source locator above; RC-0004.  
+**Evidence / confidence:** Supported as source statement; high attribution confidence, outcomes qualified.  
+**Limits:** No verified conversion, paid accounts, realized price or claim-validity measurement.  
+**Review:** Pending RT-0006; no causal commercial inference.
+
+## Claim record — PRJ-0001:CLM-0126
+
+**Assertion:** Homepage foregrounds AI-era hiring and Chakra/Interview while retaining Screen and AI add-on navigation.  
+**Source / locator:** SRC-0065, source locator above; RC-0004.  
+**Evidence / confidence:** Supported as source statement; high attribution confidence, outcomes qualified.  
+**Limits:** Prominence is not proof Screen retired or a measured revenue pivot.  
+**Review:** Pending RT-0006; no causal commercial inference.
+
+## Claim record — PRJ-0001:CLM-0127
+
+**Assertion:** Recruiters configure an interview, invite candidates and review reports; documentation covers technical and nontechnical roles.  
+**Source / locator:** SRC-0066, source locator above; RC-0004.  
+**Evidence / confidence:** Supported as source statement; high attribution confidence, outcomes qualified.  
+**Limits:** Operational scope is an offer, not segment traction or independently verified unbiased scoring.  
+**Review:** Pending RT-0006; no causal commercial inference.
+
+## Claim record — PRJ-0001:CLM-0128
+
+**Assertion:** The company describes separate interview planning, conducting and reporting functions with evidence-linked scores.  
+**Source / locator:** SRC-0067, source locator above; RC-0004.  
+**Evidence / confidence:** Supported as source statement; high attribution confidence, outcomes qualified.  
+**Limits:** Vendor assurance does not establish calibration, predictive validity or error-free evaluation.  
+**Review:** Pending RT-0006; no causal commercial inference.
+
+## Claim record — PRJ-0001:CLM-0129
+
+**Assertion:** GA reported October 5, 2026 after beta.  
+**Source / locator:** SRC-0068, source locator above; RC-0004.  
+**Evidence / confidence:** Supported as source statement; high attribution confidence, outcomes qualified.  
+**Limits:** Not a customer-performance audit.  
+**Review:** Pending RT-0006; no causal commercial inference.
+
+## Claim record — PRJ-0001:CLM-0130
+
+**Assertion:** Current evidence supports a change in hiring proposition and assessment workflow, but not proven replacement of the employer-software business or a measured new revenue engine.  
+**Kind / support:** Major strategic interpretation, SRC-0050/0056/0064–0068; compare earlier screening and subscription evidence.  
+**Confidence / review:** Medium, provisional; pending RT-0006.  
+**Alternatives / falsification:** Portfolio extension, account cross-sell and market repositioning may coexist; buyer-side adoption, migration, billing and efficacy evidence could alter the interpretation.
+
+## Claim record — PRJ-0001:CLM-0131
+
+**Assertion:** Chakra conducts evaluation, but the hiring team reviews the report and decides next steps.  
+**Source / locator:** SRC-0069, source locator above; RC-0004.  
+**Evidence / confidence:** Supported as source statement; high attribution confidence.  
+**Limits:** Documentation does not validate accuracy or prove fully autonomous hiring decisions.  
+**Review:** Qualified RT-0006 for strategic use; no causal outcome upgrade.
+
+## Claim record — PRJ-0001:CLM-0132
+
+**Assertion:** Recruiters generate and refine an interview plan from a role before inviting candidates; a try-interviewer option supports evaluation.  
+**Source / locator:** SRC-0070, source locator above; RC-0004.  
+**Evidence / confidence:** Supported as source statement; high attribution confidence.  
+**Limits:** Setup steps do not measure activation, conversion or time savings.  
+**Review:** Qualified RT-0006 for strategic use; no causal outcome upgrade.
+
+## Claim record — PRJ-0001:CLM-0133
+
+**Assertion:** The new human-led Interview experience includes changed workflows and describes Chakra Assist as coming soon.  
+**Source / locator:** SRC-0071, source locator above; RC-0004.  
+**Evidence / confidence:** Supported as source statement; high attribution confidence.  
+**Limits:** Do not present planned assistance as already shipped or generalize Interview-specific changes to all products.  
+**Review:** Qualified RT-0006 for strategic use; no causal outcome upgrade.
+
+## Claim record — PRJ-0001:CLM-0134
+
+**Assertion:** Engage candidate sourcing was deprecated effective April 22, 2026; imports and community event promotion remain described.  
+**Source / locator:** SRC-0072, source locator above; RC-0004.  
+**Evidence / confidence:** Supported as source statement; high attribution confidence.  
+**Limits:** Retiring a feature is not retiring Engage; old sourcing promises require date qualification.  
+**Review:** Qualified RT-0006 for strategic use; no causal outcome upgrade.
+
+## Claim record — PRJ-0001:CLM-0135
+
+**Assertion:** FAQ describes Starter/Pro/Enterprise, includes Screen/Interview, and places Engage/SkillUp in Enterprise.  
+**Source / locator:** SRC-0073, source locator above; RC-0004.  
+**Evidence / confidence:** Supported as source statement; high attribution confidence.  
+**Limits:** Offer packaging, not realized prices, customer mix or cross-sell proof.  
+**Review:** Qualified RT-0006 for strategic use; no causal outcome upgrade.
+
+## Claim record — PRJ-0001:CLM-0136
+
+**Assertion:** SkillUp offers employee skill assessment and learning paths with a demo entry point.  
+**Source / locator:** SRC-0074, source locator above; RC-0004.  
+**Evidence / confidence:** Supported as source statement; high attribution confidence.  
+**Limits:** No independent skills validity, product revenue or retention effect established.  
+**Review:** Qualified RT-0006 for strategic use; no causal outcome upgrade.
+
+## Claim record — PRJ-0001:CLM-0137
+
+**Assertion:** Engage markets employer coding events and branded candidate engagement through a demo-led offer.  
+**Source / locator:** SRC-0075, source locator above; RC-0004.  
+**Evidence / confidence:** Supported as source statement; high attribution confidence.  
+**Limits:** Not evidence of paid employer acquisition; deprecated sourcing is not assumed active.  
+**Review:** Qualified RT-0006 for strategic use; no causal outcome upgrade.
+
+## Claim record — PRJ-0001:CLM-0138
+
+**Assertion:** Current indexed pricing lists Chakra with Screen/Interview in subscription tiers and candidate-attempt allowances; negotiated Enterprise remains distinct.  
+**Source:** SRC-0051 v2 substantive indexed extract, 11 November 2026; corroborating plan definitions SRC-0073, whose shorter wording does not enumerate every new inclusion.  
+**Limits:** Indexed offer, not actual transaction/standalone Chakra price; direct page cookie-blocked.  
+**Evidence / review:** Supported as indexed statement, qualified RT-0006.
+
+## Claim record — PRJ-0001:CLM-0139
+
+**Assertion:** New evidence favors a repositioning and portfolio/workflow shift, with a possible expansion motion through existing accounts, rather than a demonstrated wholesale replacement or proven new standalone business model.  
+**Support:** CLM-0125–0138; pricing coexistence, human decision boundary, upcoming assistance and deprecated sourcing.  
+**Kind / confidence:** Strategic interpretation; medium, explicitly conditional.  
+**Review:** RT-0006 qualified. Outcomes need buyer/cohort/payment/efficacy evidence; no channel-weight or successful-pivot claim.
+
+## Claim record — PRJ-0001:CLM-0140
+
+**Assertion:** The whole-company GTM model connects several employer acquisition/evaluation routes with subscription/usage offers and implementation, while retention/expansion loops remain partly inferred rather than measured.  
+**Kind / support:** Major aggregate working model, SRC-0015/0036/0038–0043/0058 and current SRC-0064–0075; relevant commercial/source limitations retained.  
+**Review / confidence:** RT-0006 qualified; medium for connected mechanism description, low for causal weights. No universal funnel, automatic community-to-sales flow, typical activation rate or measured retention claim.  
+**Falsification:** Defined buyer/cohort/renewal evidence or current contrary operations could alter the model; current portfolio deprecations already narrow its sourcing component.
+
+## RC-0004 review-state reconciliation
+
+RT-0006's completed adversarial pass covers CLM-0125–0140. Descriptive source statements remain supported only as attributed observations/documentation; aggregate interpretation is qualified. CLM-0130's original pending formulation is narrowed by CLM-0139 and the RT verdict, not promoted to commercial certainty. CLM-0140 is a qualified whole-system model with unmeasured retention/expansion effects. This supersedes generic pending labels for these reviewed targets; underlying outcomes and earlier gaps remain unresolved.

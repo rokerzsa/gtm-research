@@ -1,7 +1,5 @@
-# Part II — First customers and early monetization
+# From an employer proposition to a purchase
 
-A useful product becomes a business when someone will pay for it. InterviewStreet's early history shows why that change is more complicated than collecting a list of customer logos: the team needed to find employers, demonstrate value inside their hiring process, and decide what to charge for.
+The move toward employer assessment left a practical question: how would an unfamiliar product reach a hiring team and become something it paid for? [First customers and commercial-model choices](02-first-customers-and-monetization.md) examines the early relationships and the different purchases around testing, talent access and recurring software.
 
-[Book contents](../index.md)
-
-1. [From a useful test to a business employers would pay for](02-first-customers-and-monetization.md)
+This chapter belongs with [the early product choices](../part-01-origins/01-first-products-and-hackerrank-launch.md) in the section on [finding a business around the hiring problem](../part-01-origins/index.md). Read them together before following the community and employer-workflow routes.

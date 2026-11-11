@@ -128,3 +128,15 @@ P2.1-v1 / RC-0002-v1 and open-GAP handoff approved by DEC-0005; start gate verif
 ## D. Final execution disposition
 
 11 November 2026: P1–P5 complete with qualifications under DEC-0006, with reviewed unknowns preserved. See [phase dossiers](phase-completion-dossiers.md) and [final audit](final-review-and-completion.md). No further phase approval or required investigation is pending for this approved scope.
+
+## E. Strategy-led revision delivery
+
+RC-0004 / DEC-0008 applies the updated skill to the existing scope. Edition 2.0 adds the canonical full-GTM model and revises deeper analyses; ready for user review with qualifications after the four checks and final build. Prior edition 1.0 acceptance remains historical; new edition acceptance pending. See edition-2.0-review-dossier.md.
+
+## F. Coherent-book editorial revision
+
+DEC-0009 authorizes the inspected coherence plan. Edition 2.1 develops the introduction, cumulative argument, chapter/section flow and navigation while retaining the full-GTM model, strategic depth and current pivots. Edition 2.0 archived; same-investigator checks and final build complete in [coherence review](reviews/edition-2.1-coherence-review.md). No new research or scope expansion. Ready for user review, acceptance pending.
+
+## G. Complete-GTM refinement after chapter review
+
+Direct user request authorizes skill guidance first, then overview refinement. Edition 2.2 completed and checked; [review](reviews/edition-2.2-gtm-overview-review.md). Introduction and deeper chapters retained. Review readiness does not imply chapter acceptance or new historical certainty.

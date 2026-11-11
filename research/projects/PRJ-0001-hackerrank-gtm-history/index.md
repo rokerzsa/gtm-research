@@ -1,24 +1,24 @@
-# HackerRank GTM History and Transferable Lessons
+# HackerRank GTM research
 
-**Project:** PRJ-0001 · **Status:** Complete with qualifications · **Cutoff:** 11 November 2026.
+**Current deliverable:** [Edition 2.4 — GTM strategy, evolution and current bets](book/index.md), ready for user review with qualifications. A developed introduction, one complete company GTM chapter and seven connected deeper chapters in three reading sections; cutoff 11 November 2026.
 
-## Read the book
+## Review the revision
 
-[HackerRank: A Historical GTM Case Study — edition 1.0](book/index.md): seven reviewed chapters in five parts, from early InterviewStreet experiments through the 2026 product direction and closing lessons. Research controls and evidence records are excluded from Docusaurus publication.
+- [Edition 2.4 whole-book reader review](reviews/edition-2.4-whole-book-reader-review.md)
 
-## Completion and review
+- [Edition 2.3 authoring and early-product review](reviews/edition-2.3-authoring-review.md)
 
-- [Final charter-level audit and completion dossier](final-review-and-completion.md)
-- [Phase completion dossiers](phase-completion-dossiers.md) and [reviewed P1/P2 handoff](p1-p2-reviewed-handoff.md)
-- [Chapter editorial/evidence reviews](reviews/chapter-review-log.md)
-- [RT-0001](reviews/RT-0001-community-to-employer-causality.md), [RT-0002](reviews/RT-0002-first-payers-and-commercial-model.md), [RT-0003](reviews/RT-0003-community-and-enterprise-growth.md), [RT-0004](reviews/RT-0004-later-growth-and-ai-transition.md), [RT-0005](reviews/RT-0005-whole-case-and-lessons.md)
-- [Deep closing learning checkpoint](checkpoints/P3-P5-learning-checkpoint.md)
+- [Edition 2.2 complete GTM refinement review](reviews/edition-2.2-gtm-overview-review.md)
+
+- [Edition 2.1 coherence review and validation](reviews/edition-2.1-coherence-review.md)
+
+- [Complete GTM system](book/part-00-gtm-system/00-full-gtm-system.md)
+- [Chakra and current strategic bets](book/part-04-later-shifts/06-the-ai-transition.md)
+- [Edition 2.0 dossier](edition-2.0-review-dossier.md) and [four internal reviews](reviews/edition-2.0-strategy-review.md)
+- [RT-0006](reviews/RT-0006-chakra-and-full-gtm-revision.md), [RC-0004](contracts/RC-0004-strategy-led-book-revision.md), [DEC-0008 and prior decisions](decisions.md)
 
 ## Authoritative records
 
-- [Charter and completion amendment](charter.md), [phase plan](plan.md), [approved end-to-end plan](plans/end-to-end-completion-v1.md), [RC-0003](contracts/RC-0003-end-to-end-completion.md), [decisions](decisions.md)
-- [Sources](sources.md), [claims](claims.md), [historical unknowns](gaps.md), [budget](budget-ledger.md), [journal](journal.md), [ID ledger](record-ids.md), [active checkpoint](active-state.md)
-- [Earlier P1 assessment](p1.1-completion-assessment.md) and [earlier P2 checkpoint assessment](p2.1-evidence-assessment.md), preserved as historical states
-- [K-000001](../../knowledge/K-000001-developer-community-as-talent-supply.md) and [K-000002](../../knowledge/K-000002-candidate-prep-to-employer-assessment-pivot.md), provisional causal aspects retained
+[Charter](charter.md) · [plan](plan.md) · [sources](sources.md) · [claims](claims.md) · [unknowns](gaps.md) · [budget](budget-ledger.md) · [journal](journal.md) · [IDs](record-ids.md) · [checkpoint](active-state.md).
 
-Reviewed unknowns include first actual payer, comparable account measures, channel/revenue attribution and current AI outcomes. Completion records the work performed under DEC-0006; it does not establish missing historical facts. Work is on work/next-updates; no merge or deployment is part of this research completion.
+Edition 1.0 and its approval remain preserved in the [prior completion dossier](final-review-and-completion.md) and [snapshot](book-archive/edition-1.0/index.md). Edition 2.0 is also preserved in its [snapshot](book-archive/edition-2.0/index.md). The new edition has not been accepted by the user. Current interpretation is qualified, not proof of first payer, causal revenue, replacement of legacy products or independent AI efficacy. Research controls and archives remain excluded from publication.

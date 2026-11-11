@@ -127,3 +127,9 @@ RC-0003 P4 draws SRC-0047–0055: nine new inspected lineages, including substan
 RC-0003 P4 review draws SRC-0056–0061: six inspected lineages, including research abstract charged once. RC-0003 total 23 (P3 7; P4 16); project total 61. Failed academy PDF not charged. P1 25/25 and P2 13/25 unchanged.
 
 Final challenge draws: SRC-0062 P4 current business offer, SRC-0063 P5 historical-interpretation challenge. RC-0003 total 25 distinct sources (P3 7, P4 17, P5 1), no numeric cap assigned. Project 63; P1 25/25, P2 13/25 unchanged.
+
+## 8. Strategy-led revision — RC-0004 / DEC-0008
+
+Five new lineages SRC-0064–0068 inspected; project total 68. No numeric cap assigned to this covered current-strategy work; no paid access/outreach. Reopening existing pricing SRC-0051 remained cookie-blocked; indexed material retains excerpt status and no duplicate draw. Existing P1 25/25, P2 13/25 and RC-0003 25 unchanged.
+
+RC-0004 second batch: SRC-0069–0075, seven new sources. RC-0004 measured 12 distinct lineages; project 75. SRC-0051/0062 reused, no duplicate draw. P1/P2 and prior RC-0003 unchanged. No paid access/outreach.

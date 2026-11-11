@@ -1,8 +1,7 @@
-# Part III — Community and employer growth
+# Building a repeatable employer relationship
 
-The same programming exercise could be practice for a developer, a competition entry, or part of an employer's hiring process. Those uses connected—but attracting participants and winning employer business were different tasks.
+Once the company has an employer proposition, it needs ways to make that proposition valuable and keep it useful. This section follows two connected routes. A developer community can help employers reach people; assessment software can improve a hiring process even when the employer already has applicants.
 
-[Book contents](../index.md)
+Read [Community value versus employer acquisition](03-community-and-employer-discovery.md) to understand what participation contributes. Then [Selling a workflow into an employer account](04-selling-the-hiring-workflow.md) examines how a specific screening need can lead to broader use, integration and possible expansion.
 
-1. [Why programmers came, and how employers could participate](03-community-and-employer-discovery.md)
-2. [Becoming part of the employer's hiring process](04-selling-the-hiring-workflow.md)
+The distinction prevents two shortcuts: assuming every developer becomes part of a commercial funnel, or assuming the community has no value unless it directly produces employer leads. It also prepares the next question: what happens to this employer relationship when hiring conditions and evaluation itself change?

@@ -66,3 +66,11 @@
 **Exact user statement:** “Approve all phases in the research”.  
 **Scope:** All phases P1–P5 of the current HackerRank study, their reviewed qualified dispositions, and the completed seven-chapter edition 1.0. Records the user's approval following the completion report; prior execution authority remains DEC-0001–0006.  
 **Evidence boundary:** GAP-0001/0002 and qualified/unresolved review verdicts remain as documented; approval does not establish missing historical facts. No new research scope, spending, outreach, merge or publication is inferred.
+
+## PRJ-0001:DEC-0008 — Apply updated skill to HackerRank
+
+11 November 2026. Exact request: “Now lets apply the updated skill to the HackerRank research and improve the book, with one full GTM chapter and deeper analysis of current pivots like Chakra.” This authorizes the requested in-scope revision and current-state verification under the updated skill, with prior DEC-0006 constraints and acceptable qualified unknowns retained. RC-0004 defines the covered work; no repeated phase approval or new source quota. No paid access/outreach, personal business comparison, commit or publication inferred. Existing P1/P2 ceilings unchanged. Goal creation not requested in this turn; use the durable research checkpoint.
+
+## PRJ-0001:DEC-0009 — Apply the book-coherence improvement plan
+
+11 November 2026. Exact user instruction: “lets begin”, following the inspection report and proposed plan to improve the generic skill, introduction, cumulative chapter/section argument and reading navigation. Authorizes this in-scope editorial revision. Existing scope, public/free access and evidence qualifications remain unchanged. No new research budget, goal, paid access, outreach, publication or acceptance is inferred. Edition 2.0 is preserved before edits; edition 2.1 is delivered for user review, not treated as accepted.
