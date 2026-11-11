@@ -3325,3 +3325,285 @@ Initial record created from PRJ-0001:SRC-0025; reviewed in PRJ-0001:RT-0001 v2.
 ## P2 aggregate review annotation — 11 November 2026
 
 RT-0002 adjudicates aggregate uses of CLM-0051, CLM-0071–0072, CLM-0076–0096. Source-report descriptions remain supported only within their own access and attribution limits. Review completed for the bounded propositions that first-payer verification is absent from inspected evidence, price units differ and customer denominators cannot be merged. First-payer identity and community-to-paid-acquisition causal verdicts remain unresolved. Annual-seat selling is supported as an executive's contemporary description, not verified commercial performance. This annotation supersedes generic pending aggregate-review labels for these reviewed propositions only; it does not independently authenticate transactions or close GAP-0001.
+
+## Claim record — PRJ-0001:CLM-0097
+
+**Version / status:** v1 / active.  
+**Assertion:** VMware case study reports peer recommendations leading to adoption in October 2013, with challenges on its own career site replacing much phone screening.  
+**Source / question:** SRC-0038; P2-Q4 / P3-Q2.  
+**Locator / limits:** pp.1–2; no first-payer proof or independent account-acquisition audit.  
+**Evidence / confidence:** Supported as source statement; historical outcomes qualified.  
+**Review:** Pending for aggregate causal use, description not an independent performance finding.  
+**Alternatives / falsification:** Direct/referral/employer-driven candidate acquisition may coexist with community distribution; buyer transaction and attributed lead records could adjudicate.
+
+## Claim record — PRJ-0001:CLM-0098
+
+**Version / status:** v1 / active.  
+**Assertion:** The VMware case study claims screening-time improvement and expanded candidate assessment.  
+**Source / question:** SRC-0038; P3-Q1/Q2.  
+**Locator / limits:** pp.2–3; vendor/customer claims, no controlled measurement; adoption goals on final page are prospective.  
+**Evidence / confidence:** Supported as source statement; historical outcomes qualified.  
+**Review:** Pending for aggregate causal use, description not an independent performance finding.  
+**Alternatives / falsification:** Direct/referral/employer-driven candidate acquisition may coexist with community distribution; buyer transaction and attributed lead records could adjudicate.
+
+## Claim record — PRJ-0001:CLM-0099
+
+**Version / status:** v1 / active.  
+**Assertion:** The February 2018 release earmarks investment for enterprise growth, developer community and data science.  
+**Source / question:** SRC-0039; P3-Q2/Q3.  
+**Locator / limits:** paragraphs 3–7; intentions do not measure realized growth or channel contribution.  
+**Evidence / confidence:** Supported as source statement; historical outcomes qualified.  
+**Review:** Pending for aggregate causal use, description not an independent performance finding.  
+**Alternatives / falsification:** Direct/referral/employer-driven candidate acquisition may coexist with community distribution; buyer transaction and attributed lead records could adjudicate.
+
+## Claim record — PRJ-0001:CLM-0100
+
+**Version / status:** v1 / active.  
+**Assertion:** The release reports a cross-industry customer base including banks and retailers.  
+**Source / question:** SRC-0039; P3-Q3.  
+**Locator / limits:** company description; customer categories not audited payment cohorts.  
+**Evidence / confidence:** Supported as source statement; historical outcomes qualified.  
+**Review:** Pending for aggregate causal use, description not an independent performance finding.  
+**Alternatives / falsification:** Direct/referral/employer-driven candidate acquisition may coexist with community distribution; buyer transaction and attributed lead records could adjudicate.
+
+## Claim record — PRJ-0001:CLM-0101
+
+**Version / status:** v1 / active.  
+**Assertion:** Morgan Stanley planned a free student codeathon on HackerRank, recruiting via campus ambassadors/college contacts and offering selected participants assessment for jobs or internships.  
+**Source / question:** SRC-0040; P3-Q1/Q2.  
+**Locator / limits:** p.1; scheduled event instructions, not proof of participation, hires or payments.  
+**Evidence / confidence:** Supported as source statement; historical outcomes qualified.  
+**Review:** Pending for aggregate causal use, description not an independent performance finding.  
+**Alternatives / falsification:** Direct/referral/employer-driven candidate acquisition may coexist with community distribution; buyer transaction and attributed lead records could adjudicate.
+
+## Claim record — PRJ-0001:CLM-0102
+
+**Version / status:** v1 / active.  
+**Assertion:** HackerRank announced integrations with five recruiting systems, letting recruiters invite candidates and view assessment reports from existing software.  
+**Source / scope:** SRC-0041; RC-0003-v1 / P3; source locator above.  
+**Limits:** Availability announcement, not measured sales or retention; partner corroboration SRC-0042 is undated.  
+**Evidence / confidence:** Supported as accessible statement/offer; high for attribution, qualified underlying results.  
+**Review:** RT-0003 for major P3 use; P4 aggregate review pending.  
+**Alternative / falsification:** Distribution and buyer demand may explain adoption without community-caused sales; attributed paid records or dated partner artifacts would sharpen the conclusion.
+
+## Claim record — PRJ-0001:CLM-0103
+
+**Version / status:** v1 / active.  
+**Assertion:** Jobvite describes launching HackerRank challenges and returning scores/reports within candidate profiles.  
+**Source / scope:** SRC-0042; RC-0003-v1 / P3; source locator above.  
+**Limits:** Confirms described workflow at inspection, not historical launch date or sales contribution.  
+**Evidence / confidence:** Supported as accessible statement/offer; high for attribution, qualified underlying results.  
+**Review:** RT-0003 for major P3 use; P4 aggregate review pending.  
+**Alternative / falsification:** Distribution and buyer demand may explain adoption without community-caused sales; attributed paid records or dated partner artifacts would sharpen the conclusion.
+
+## Claim record — PRJ-0001:CLM-0104
+
+**Version / status:** v1 / active.  
+**Assertion:** Hari describes recruiter licences with invite allowances and fees for employer contests; he says sourcing motivated approaching employers with assessed candidates.  
+**Source / scope:** SRC-0043; RC-0003-v1 / P3; source locator above.  
+**Limits:** Reported models and rationale, no named lead-to-paid-account proof or audited revenue breakdown.  
+**Evidence / confidence:** Supported as accessible statement/offer; high for attribution, qualified underlying results.  
+**Review:** RT-0003 for major P3 use; P4 aggregate review pending.  
+**Alternative / falsification:** Distribution and buyer demand may explain adoption without community-caused sales; attributed paid records or dated partner artifacts would sharpen the conclusion.
+
+## Claim record — PRJ-0001:CLM-0105
+
+**Version / status:** v1 / active.  
+**Assertion:** HackerRank appointed Juan Herrera as first CRO for sales/enterprise expansion and reported doubling enterprise customers in 2018.  
+**Source / scope:** SRC-0044; RC-0003-v1 / P4; source locator above.  
+**Limits:** Appointment supported as announcement; growth assertion not audited or definition-consistent historical series.  
+**Evidence / confidence:** Supported as accessible statement/offer; high for attribution, qualified underlying results.  
+**Review:** RT-0003 for major P3 use; P4 aggregate review pending.  
+**Alternative / falsification:** Distribution and buyer demand may explain adoption without community-caused sales; attributed paid records or dated partner artifacts would sharpen the conclusion.
+
+## Claim record — PRJ-0001:CLM-0106
+
+**Version / status:** v1 / active.  
+**Assertion:** The Booking.com event offered graded challenges and prizes, with consent to share information required for prize eligibility.  
+**Source / scope:** SRC-0045; RC-0003-v1 / P3; source locator above.  
+**Limits:** Scheduled offer/terms, not actual participants, hires, payments or employer lead source.  
+**Evidence / confidence:** Supported as accessible statement/offer; high for attribution, qualified underlying results.  
+**Review:** RT-0003 for major P3 use; P4 aggregate review pending.  
+**Alternative / falsification:** Distribution and buyer demand may explain adoption without community-caused sales; attributed paid records or dated partner artifacts would sharpen the conclusion.
+
+## Claim record — PRJ-0001:CLM-0107
+
+**Version / status:** v1 / active.  
+**Assertion:** CodeStorm promoted learning, competition, prizes and optional connections to sponsors.  
+**Source / scope:** SRC-0046; RC-0003-v1 / P3; source locator above.  
+**Limits:** Advertised participation reasons; no outcome proof or exact event-year verification from copyright alone.  
+**Evidence / confidence:** Supported as accessible statement/offer; high for attribution, qualified underlying results.  
+**Review:** RT-0003 for major P3 use; P4 aggregate review pending.  
+**Alternative / falsification:** Distribution and buyer demand may explain adoption without community-caused sales; attributed paid records or dated partner artifacts would sharpen the conclusion.
+
+## Claim record — PRJ-0001:CLM-0108
+
+**Version / status:** v1 / active.  
+**Assertion:** HackerRank announced acquiring Mimir, a computer-science teaching platform, stating an intention to reach developers earlier in education.  
+**Source / question:** SRC-0047; RC-0003 P4-Q1/Q2; source locator above.  
+**Evidence / confidence:** Supported as attributed announcement/report; outcomes qualified.  
+**Limits:** No measured employer acquisition benefit or later education-business outcome.  
+**Review:** Pending RT-0004 for aggregate use.  
+**Alternatives / falsification:** Market demand, changed budgets and product competition may explain results; dated buyer/usage/outcome data could adjudicate; no causal inference from announcement sequence.
+
+## Claim record — PRJ-0001:CLM-0109
+
+**Version / status:** v1 / active.  
+**Assertion:** The remote-hiring offer combined defining roles, screening, live interviews and scoring, framed as a response to remote hiring needs.  
+**Source / question:** SRC-0048; RC-0003 P4-Q1/Q2; source locator above.  
+**Evidence / confidence:** Supported as attributed announcement/report; outcomes qualified.  
+**Limits:** Announcement and stated rationale, not causal revenue attribution.  
+**Review:** Pending RT-0004 for aggregate use.  
+**Alternatives / falsification:** Market demand, changed budgets and product competition may explain results; dated buyer/usage/outcome data could adjudicate; no causal inference from announcement sequence.
+
+## Claim record — PRJ-0001:CLM-0110
+
+**Version / status:** v1 / active.  
+**Assertion:** HackerRank showcased proctoring, AI interviews, candidate engagement and learning features, with gradual rollout from April 2025.  
+**Source / question:** SRC-0049; RC-0003 P4-Q1/Q2; source locator above.  
+**Evidence / confidence:** Supported as attributed announcement/report; outcomes qualified.  
+**Limits:** Showcase/rollout intentions, not immediate general availability or independently measured efficacy.  
+**Review:** Pending RT-0004 for aggregate use.  
+**Alternatives / falsification:** Market demand, changed budgets and product competition may explain results; dated buyer/usage/outcome data could adjudicate; no causal inference from announcement sequence.
+
+## Claim record — PRJ-0001:CLM-0111
+
+**Version / status:** v1 / active.  
+**Assertion:** The Fall 2026 release describes Chakra and shared repository-based AI-assisted interview workspaces, evaluating how candidates guide and review AI.  
+**Source / question:** SRC-0050; RC-0003 P4-Q1/Q2; source locator above.  
+**Evidence / confidence:** Supported as attributed announcement/report; outcomes qualified.  
+**Limits:** Current advertised direction/features; no independent validation of judgement or hiring quality; some features rolling out.  
+**Review:** Pending RT-0004 for aggregate use.  
+**Alternatives / falsification:** Market demand, changed budgets and product competition may explain results; dated buyer/usage/outcome data could adjudicate; no causal inference from announcement sequence.
+
+## Claim record — PRJ-0001:CLM-0112
+
+**Version / status:** v1 / active.  
+**Assertion:** The indexed current pricing page distinguishes Starter, Pro and Enterprise with custom enterprise pricing and AI-related features.  
+**Source / question:** SRC-0051; RC-0003 P4-Q1/Q2; source locator above.  
+**Evidence / confidence:** Supported as attributed announcement/report; outcomes qualified.  
+**Limits:** No numerical prices relied on; direct page inaccessible; packaging at inspection not proven adoption or historical plan continuity.  
+**Review:** Pending RT-0004 for aggregate use.  
+**Alternatives / falsification:** Market demand, changed budgets and product competition may explain results; dated buyer/usage/outcome data could adjudicate; no causal inference from announcement sequence.
+
+## Claim record — PRJ-0001:CLM-0113
+
+**Version / status:** v1 / active.  
+**Assertion:** The 2022 funding announcement planned broader role/skill coverage and post-hire expansion; it reported customers across industries and a globally distributed team.  
+**Source / question:** SRC-0052; RC-0003 P4-Q1/Q2; source locator above.  
+**Evidence / confidence:** Supported as attributed announcement/report; outcomes qualified.  
+**Limits:** Funding/intentions and company-reported scope, not measured effects or comparable paid-account series.  
+**Review:** Pending RT-0004 for aggregate use.  
+**Alternatives / falsification:** Market demand, changed budgets and product competition may explain results; dated buyer/usage/outcome data could adjudicate; no causal inference from announcement sequence.
+
+## Claim record — PRJ-0001:CLM-0114
+
+**Version / status:** v1 / active.  
+**Assertion:** IANS reported 53 layoffs and a CEO email describing weak financial performance and prioritizing existing customers over new business spending.  
+**Source / question:** SRC-0053; RC-0003 P4-Q1/Q2; source locator above.  
+**Evidence / confidence:** Supported as attributed announcement/report; outcomes qualified.  
+**Limits:** Attributed reporting; original email unavailable; article also contains an inconsistent 2022-launch claim which is rejected, not used.  
+**Review:** Pending RT-0004 for aggregate use.  
+**Alternatives / falsification:** Market demand, changed budgets and product competition may explain results; dated buyer/usage/outcome data could adjudicate; no causal inference from announcement sequence.
+
+## Claim record — PRJ-0001:CLM-0115
+
+**Version / status:** v1 / active.  
+**Assertion:** SkillUp offered skills assessment and learning plans for existing developers; Engage offered employer hackathons to attract and nurture talent.  
+**Source / question:** SRC-0054; RC-0003 P4-Q1/Q2; source locator above.  
+**Evidence / confidence:** Supported as attributed announcement/report; outcomes qualified.  
+**Limits:** Launch/product descriptions and stated AI rationale; no audited incremental revenue or efficacy.  
+**Review:** Pending RT-0004 for aggregate use.  
+**Alternatives / falsification:** Market demand, changed budgets and product competition may explain results; dated buyer/usage/outcome data could adjudicate; no causal inference from announcement sequence.
+
+## Claim record — PRJ-0001:CLM-0116
+
+**Version / status:** v1 / active.  
+**Assertion:** HackerRank announced AI-powered detection of suspicious assessment behavior, including use of external tools.  
+**Source / question:** SRC-0055; RC-0003 P4-Q1/Q2; source locator above.  
+**Evidence / confidence:** Supported as attributed announcement/report; outcomes qualified.  
+**Limits:** Detection is a claimed signal; no independent accuracy, fairness or zero-error guarantee established.  
+**Review:** Pending RT-0004 for aggregate use.  
+**Alternatives / falsification:** Market demand, changed budgets and product competition may explain results; dated buyer/usage/outcome data could adjudicate; no causal inference from announcement sequence.
+
+## Claim record — PRJ-0001:CLM-0117
+
+**Version / status:** v1 / active.  
+**Assertion:** Chakra documents review of solution, explanation and AI-session behavior, including framing, steering and judging AI output.  
+**Source / scope:** SRC-0056, RC-0003 P4; source locator above.  
+**Evidence / confidence:** Supported as attributed report/documentation; outcome implications qualified.  
+**Limits:** Documents product workflow, not independently validated scoring or hiring outcomes.  
+**Review:** RT-0004 adjudication.  
+**Alternative / falsification:** Product availability, selected customer accounts and aggregate outcomes are distinct; buyer-side cohorts or external validation could change confidence.
+
+## Claim record — PRJ-0001:CLM-0118
+
+**Version / status:** v1 / active.  
+**Assertion:** Researchers report model success and signs of memorization on selected HackerRank Python problems.  
+**Source / scope:** SRC-0057, RC-0003 P4; source locator above.  
+**Evidence / confidence:** Supported as attributed report/documentation; outcome implications qualified.  
+**Limits:** Small selected task set and older model; does not test current proctoring or establish all assessments obsolete.  
+**Review:** RT-0004 adjudication.  
+**Alternative / falsification:** Product availability, selected customer accounts and aggregate outcomes are distinct; buyer-side cohorts or external validation could change confidence.
+
+## Claim record — PRJ-0001:CLM-0119
+
+**Version / status:** v1 / active.  
+**Assertion:** ServiceNow describes moving interviews online with training, documentation and HackerRank customer-success support.  
+**Source / scope:** SRC-0058, RC-0003 P4; source locator above.  
+**Evidence / confidence:** Supported as attributed report/documentation; outcome implications qualified.  
+**Limits:** Reported implementation experience, not independent causal effectiveness or representative customer result.  
+**Review:** RT-0004 adjudication.  
+**Alternative / falsification:** Product availability, selected customer accounts and aggregate outcomes are distinct; buyer-side cohorts or external validation could change confidence.
+
+## Claim record — PRJ-0001:CLM-0120
+
+**Version / status:** v1 / active.  
+**Assertion:** HackerRank reported rising new/expansion bookings and virtual-interview demand during the remote-hiring period.  
+**Source / scope:** SRC-0059, RC-0003 P4; source locator above.  
+**Evidence / confidence:** Supported as attributed report/documentation; outcome implications qualified.  
+**Limits:** Bookings and revenue labels differ; no absolute audited figures or isolated pandemic/product causal effect.  
+**Review:** RT-0004 adjudication.  
+**Alternative / falsification:** Product availability, selected customer accounts and aggregate outcomes are distinct; buyer-side cohorts or external validation could change confidence.
+
+## Claim record — PRJ-0001:CLM-0121
+
+**Version / status:** v1 / active.  
+**Assertion:** The company history describes opening a London office and appointing an EMEA lead in September 2015.  
+**Source / scope:** SRC-0060, RC-0003 P4; source locator above.  
+**Evidence / confidence:** Supported as attributed report/documentation; outcome implications qualified.  
+**Limits:** No regional revenue or independently verified exact date; other chronology/funding/count inconsistencies make the page unsuitable as sole authority for those facts.  
+**Review:** RT-0004 adjudication.  
+**Alternative / falsification:** Product availability, selected customer accounts and aggregate outcomes are distinct; buyer-side cohorts or external validation could change confidence.
+
+## Claim record — PRJ-0001:CLM-0122
+
+**Version / status:** v1 / active.  
+**Assertion:** The company argues for assessing real engineering work with AI rather than relying solely on stricter prohibitions.  
+**Source / scope:** SRC-0061, RC-0003 P4; source locator above.  
+**Evidence / confidence:** Supported as attributed report/documentation; outcome implications qualified.  
+**Limits:** Positioning/rationale, not proof that the proposed approach predicts job performance or solves misconduct.  
+**Review:** RT-0004 adjudication.  
+**Alternative / falsification:** Product availability, selected customer accounts and aggregate outcomes are distinct; buyer-side cohorts or external validation could change confidence.
+
+## Claim record — PRJ-0001:CLM-0123
+
+**Version / status:** v1 / active.  
+**Assertion:** HackerRank Bench advertises evaluation/data services for frontier AI labs and paid expert task creation.  
+**Source / locator:** SRC-0062, offer and expert sections; live at 2026 cutoff, exact launch unknown.  
+**Evidence / confidence:** Supported as commercial offer, high attribution confidence; results unverified.  
+**Limits / alternatives:** Potential new buyer type, not proven revenue diversification. Current offer does not establish historic customer-data use.  
+**Review:** Qualified RT-0004/0005 addendum; external buyer orders would strengthen commercial certainty.
+
+## Claim record — PRJ-0001:CLM-0124
+
+**Version / status:** v1 / active.  
+**Assertion:** In a January 2014 interview Vivek described failed early models and an emphasis on the programming community while also explaining employer recruiting tools.  
+**Source / locator:** SRC-0063, HackerRankX beginnings/hurdles sections.  
+**Evidence / confidence:** Supported as founder account; no causal performance proof.  
+**Limits:** “Emphasis” does not quantify acquisition mix or establish that employer selling ended.  
+**Review:** RT-0005 qualified; tests an over-separation of community and employer products.
+
+## Final aggregate review-state reconciliation — 11 November 2026
+
+This annotation supersedes generic pending aggregate markers for the exact conclusions reviewed: CLM-0097–0104/0106–0107 via RT-0003; CLM-0105/0108–0123 via RT-0004 with RT-0005 current-offer addendum; CLM-0124 and cross-book lessons via RT-0005. Workflow/offer/attributed-report syntheses are qualified. First payment, community-caused paid contribution and later causal/efficacy results remain unresolved. Descriptive source statements retain access/lineage limits; finalization does not authenticate transactions or promote reports into independently verified performance. Earlier RT-0001/0002 qualifications remain in force.

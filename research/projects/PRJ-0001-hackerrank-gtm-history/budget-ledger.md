@@ -104,3 +104,26 @@ P1.1 source-ceiling amendment: PRJ-0001:DEC-0004 approves up to five additional 
 | P2-SRC-0037 | November 2013 founder CodePair demonstration and feedback thread | 1 | 12 / 25 | 13 |
 
 **Allocation:** Up to 25 new distinct source investigations, public/free only, approved by DEC-0005. No extension. P1 usage remains 25/25. Searches and inaccessible results do not count as inspected material; re-reading existing source lineages does not create a duplicate draw.
+
+## 7. P3–P5 authorization — DEC-0006 / RC-0003-v1
+
+Public/free only, no numeric source/time cap assigned, no outreach or paid access. Measure distinct actually inspected source lineages; no quota. Baseline 0 new lineages. Existing P1 25/25 and P2 12/25 caps are not amended or pooled. Baseline source register SRC-0037. Record later-phase draws here separately; do not attribute early-payer work to P3 to bypass P2's cap.
+
+### P2 additional draw
+
+P2-SRC-0038: VMware early adoption case, actually inspected full PDF; one draw. P2 measured 13/25 used, 12 remaining. Early-account evidence charged to P2 even though also useful to P3.
+
+### RC-0003 later-phase draws
+
+- SRC-0039: JMI-hosted 2018 company release; one P3 draw.
+- SRC-0040: university-hosted Morgan Stanley event FAQ; one P3 draw.
+
+RC-0003 later-phase total 2 distinct new sources, no numeric cap assigned. Total project sources 40. Reuse of SRC-0038 under P3 adds no duplicate draw.
+
+Additional RC-0003 draws SRC-0041–0046: six distinct lineages, five P3 and one P4 (CRO release). RC-0003 total 8 sources (P3 7; P4 1); P2 remains 13/25, 12 remaining. Project total 46 inspected lineages.
+
+RC-0003 P4 draws SRC-0047–0055: nine new inspected lineages, including substantive indexed pricing excerpt charged once. RC-0003 total 17 (P3 7, P4 10); project 55. P1 25/25; P2 13/25 unchanged. The Ca Foscari procurement PDF returned cache miss and is not treated as inspected.
+
+RC-0003 P4 review draws SRC-0056–0061: six inspected lineages, including research abstract charged once. RC-0003 total 23 (P3 7; P4 16); project total 61. Failed academy PDF not charged. P1 25/25 and P2 13/25 unchanged.
+
+Final challenge draws: SRC-0062 P4 current business offer, SRC-0063 P5 historical-interpretation challenge. RC-0003 total 25 distinct sources (P3 7, P4 17, P5 1), no numeric cap assigned. Project 63; P1 25/25, P2 13/25 unchanged.

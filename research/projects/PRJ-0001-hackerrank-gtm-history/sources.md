@@ -1108,3 +1108,261 @@ The canonical Fortune India page was accessible and inspected. Its AMP variant r
 **Evidence / limits:** Public CodePair demonstration predates the February 2014 commercial announcement. Founder removed email/signup requirement after feedback and confirmed a live interview workflow. No conversion or receipts established. CLM-0096.  
 **Contract / review:** RC-0002-v1, P2-Q3/Q4; adversarial counterfinding in RT-0002.  
 **Confidence:** High for dated public demonstration and reply; no inference of commercial success.
+
+## Source record — PRJ-0001:SRC-0038
+
+**Version / status:** v1 / active.  
+**Title:** [VMware case study](https://hrcdn.net/customer-info/vmware-guide.pdf)  
+**Publication / access:** Vendor-produced customer case, filename July 2015; adoption dated October 2013; inspected 11 November 2026, full four-page PDF; pp.1–3.  
+**Contract:** RC-0002-v1 / P2-Q4; also RC-0003 P3.  
+**Lineage:** Vendor-hosted named customer testimony; interested, not independent audit.  
+**Evidence / limits:** Peer feedback reportedly led VMware to try screening software; community-originated acquisition not established.  
+**Confidence / review:** High for accessible statements/instructions; reported outcomes qualified; major synthesis pending separate review.
+
+## Source record — PRJ-0001:SRC-0039
+
+**Version / status:** v1 / active.  
+**Title:** [HackerRank Raises $30 Million to Transform the Developer Hiring Process](https://www.jmi.com/hackerrank-raises-30-million-transform-developer-hiring-process/)  
+**Publication / access:** 13 February 2018, company release hosted by investor JMI; inspected 11 November 2026, full text, investment intentions and company description.  
+**Contract:** RC-0003-v1 / P3-Q2/Q3.  
+**Lineage:** Shared company/investor release lineage, not independent performance verification.  
+**Evidence / limits:** Enterprise growth, community and data-science investment intentions; cross-industry customers reported, not causal proof.  
+**Confidence / review:** High for accessible statements/instructions; reported outcomes qualified; major synthesis pending separate review.
+
+## Source record — PRJ-0001:SRC-0040
+
+**Version / status:** v1 / active.  
+**Title:** [Morgan Stanley Codeathon FAQ](https://www.sastra.edu/downloads/events/2015/sep/FAQ%20-%20Morgan%20Stanley%20Codeathon.pdf)  
+**Publication / access:** September 2015; university-hosted employer event instructions; inspected 11 November 2026, full three-page PDF; p.1 registration, workflow and rewards.  
+**Contract:** RC-0003-v1 / P3-Q1/Q2.  
+**Lineage:** University-hosted contemporaneous employer instructions; independent of vendor marketing hosting.  
+**Evidence / limits:** Campus recruitment into a HackerRank-hosted event; opportunity to be assessed, not guaranteed jobs or employer acquisition evidence.  
+**Confidence / review:** High for accessible statements/instructions; reported outcomes qualified; major synthesis pending separate review.
+
+## Source record — PRJ-0001:SRC-0041
+
+**Version / status:** v1 / active.  
+**Title:** [ATS integrations announcement](https://www.prnewswire.com/news-releases/hackerrank-integrates-with-top-applicant-tracking-systems-to-make-recruiting-easier-300229273.html)  
+**Publication / access:** 2 March 2016; inspected 11 November 2026, full release, paragraphs 1–5.  
+**Contract / phase:** RC-0003-v1 / P3.  
+**Lineage:** Contemporary company press release; primary announcement, not independent adoption measurement.  
+**Limits:** Availability announcement, not measured sales or retention; partner corroboration SRC-0042 is undated.  
+**Confidence / review:** High statement/access confidence; outcome and causal interpretations qualified, RT-0003 where P3.
+
+## Source record — PRJ-0001:SRC-0042
+
+**Version / status:** v1 / active.  
+**Title:** [Jobvite provider page: HackerRank](https://www.jobvite.com/providers/hackerrank/)  
+**Publication / access:** Undated live page, inspected 2026; inspected 11 November 2026, full page, integration paragraphs.  
+**Contract / phase:** RC-0003-v1 / P3.  
+**Lineage:** Partner-side description, live not independently dated to 2016.  
+**Limits:** Confirms described workflow at inspection, not historical launch date or sales contribution.  
+**Confidence / review:** High statement/access confidence; outcome and causal interpretations qualified, RT-0003 where P3.
+
+## Source record — PRJ-0001:SRC-0043
+
+**Version / status:** v1 / active.  
+**Title:** [TechCircle: 1M registered programmers interview](https://www.techcircle.in/2015/04/15/we-have-1m-registered-programmers-on-our-technical-recruitment-platform-hackerrank-co-founder-harishankaran-k/)  
+**Publication / access:** 15 April 2015; inspected 11 November 2026, full interview, sourcing and revenue-model answers.  
+**Contract / phase:** RC-0003-v1 / P3.  
+**Lineage:** Contemporaneous cofounder testimony via reporting; interested account.  
+**Limits:** Reported models and rationale, no named lead-to-paid-account proof or audited revenue breakdown.  
+**Confidence / review:** High statement/access confidence; outcome and causal interpretations qualified, RT-0003 where P3.
+
+## Source record — PRJ-0001:SRC-0044
+
+**Version / status:** v1 / active.  
+**Title:** [First Chief Revenue Officer announcement](https://www.jmi.com/hackerrank-names-juan-herrera-as-first-chief-revenue-officer/)  
+**Publication / access:** 15 October 2019; inspected 11 November 2026, full company release on investor site.  
+**Contract / phase:** RC-0003-v1 / P4.  
+**Lineage:** Company/investor release lineage.  
+**Limits:** Appointment supported as announcement; growth assertion not audited or definition-consistent historical series.  
+**Confidence / review:** High statement/access confidence; outcome and causal interpretations qualified, RT-0003 where P3.
+
+## Source record — PRJ-0001:SRC-0045
+
+**Version / status:** v1 / active.  
+**Title:** [Booking.com all-women CodeSprint rules](https://www.hackerrank.com/booking-womenintech)  
+**Publication / access:** Event dated 20–22 July 2018; inspected 11 November 2026, full static rules/content; dynamic form errors.  
+**Contract / phase:** RC-0003-v1 / P3.  
+**Lineage:** Employer-branded event hosted on vendor site; primary proposed terms.  
+**Limits:** Scheduled offer/terms, not actual participants, hires, payments or employer lead source.  
+**Confidence / review:** High statement/access confidence; outcome and causal interpretations qualified, RT-0003 where P3.
+
+## Source record — PRJ-0001:SRC-0046
+
+**Version / status:** v1 / active.  
+**Title:** [CodeStorm CodeSprint event page](https://www.hackerrank.com/codestorm)  
+**Publication / access:** Page copyright 2015; event October 29, year not independently confirmed; inspected 11 November 2026, full static content; dynamic entry unavailable.  
+**Contract / phase:** RC-0003-v1 / P3.  
+**Lineage:** First-party contest offer.  
+**Limits:** Advertised participation reasons; no outcome proof or exact event-year verification from copyright alone.  
+**Confidence / review:** High statement/access confidence; outcome and causal interpretations qualified, RT-0003 where P3.
+
+## Source record — PRJ-0001:SRC-0047
+
+**Version / status:** v1 / active.  
+**Title:** [Mimir acquisition announcement](https://www.prnewswire.com/news-releases/hackerrank-acquires-mimir-to-help-student-developers-learn-improve-and-assess-their-skills-from-coursework-to-career-300975852.html)  
+**Publication / access:** 17 December 2019; inspected 11 November 2026; full release, acquisition and founder-rationale paragraphs.  
+**Contract / phase:** RC-0003-v1 / P4.  
+**Lineage:** Company announcement, interested source.  
+**Limits:** No measured employer acquisition benefit or later education-business outcome.  
+**Confidence / review:** High for accessible statement; SRC-0051 excerpt-only; outcome/causal implications pending RT-0004.
+
+## Source record — PRJ-0001:SRC-0048
+
+**Version / status:** v1 / active.  
+**Title:** [Remote hiring solution](https://www.hackerrank.com/blog/hackerrank-remote-hiring-solution/)  
+**Publication / access:** 27 May 2020; inspected 11 November 2026; full post, four-step workflow.  
+**Contract / phase:** RC-0003-v1 / P4.  
+**Lineage:** First-party contemporary product announcement.  
+**Limits:** Announcement and stated rationale, not causal revenue attribution.  
+**Confidence / review:** High for accessible statement; SRC-0051 excerpt-only; outcome/causal implications pending RT-0004.
+
+## Source record — PRJ-0001:SRC-0049
+
+**Version / status:** v1 / active.  
+**Title:** [AI Day 2025 recap](https://www.hackerrank.com/blog/hackerranks-ai-day-2025-product-launch-recap/)  
+**Publication / access:** 13 March 2025; inspected 11 November 2026; full post, product sections and rollout note.  
+**Contract / phase:** RC-0003-v1 / P4.  
+**Lineage:** First-party showcase and roadmap.  
+**Limits:** Showcase/rollout intentions, not immediate general availability or independently measured efficacy.  
+**Confidence / review:** High for accessible statement; SRC-0051 excerpt-only; outcome/causal implications pending RT-0004.
+
+## Source record — PRJ-0001:SRC-0050
+
+**Version / status:** v1 / active.  
+**Title:** [Fall 2026 release](https://www.hackerrank.com/release/fall-2026)  
+**Publication / access:** Fall 2026, inspected 11 November 2026; inspected 11 November 2026; full release page, Chakra and Interview sections.  
+**Contract / phase:** RC-0003-v1 / P4.  
+**Lineage:** Live first-party release announcement.  
+**Limits:** Current advertised direction/features; no independent validation of judgement or hiring quality; some features rolling out.  
+**Confidence / review:** High for accessible statement; SRC-0051 excerpt-only; outcome/causal implications pending RT-0004.
+
+## Source record — PRJ-0001:SRC-0051
+
+**Version / status:** v1 / active.  
+**Title:** [Current employer pricing](https://www.hackerrank.com/work/pricing)  
+**Publication / access:** Live, inspected 11 November 2026; inspected 11 November 2026; substantive search-index excerpt only; direct page cookie-blocked.  
+**Contract / phase:** RC-0003-v1 / P4.  
+**Lineage:** First-party indexed commercial page.  
+**Limits:** No numerical prices relied on; direct page inaccessible; packaging at inspection not proven adoption or historical plan continuity.  
+**Confidence / review:** High for accessible statement; SRC-0051 excerpt-only; outcome/causal implications pending RT-0004.
+
+## Source record — PRJ-0001:SRC-0052
+
+**Version / status:** v1 / active.  
+**Title:** [Series D announcement](https://www.prnewswire.com/news-releases/hackerrank-raises-60-million-series-d-to-accelerate-the-worlds-innovation-301512548.html)  
+**Publication / access:** 29 March 2022; inspected 11 November 2026; full release, use of funds and product/organization paragraphs.  
+**Contract / phase:** RC-0003-v1 / P4.  
+**Lineage:** Company release, investor quotes share announcement lineage.  
+**Limits:** Funding/intentions and company-reported scope, not measured effects or comparable paid-account series.  
+**Confidence / review:** High for accessible statement; SRC-0051 excerpt-only; outcome/causal implications pending RT-0004.
+
+## Source record — PRJ-0001:SRC-0053
+
+**Version / status:** v1 / active.  
+**Title:** [IANS report on restructuring](https://in.investing.com/news/hackerrank-lays-off-53-employees-amid-economic-uncertainty-3786316)  
+**Publication / access:** 27 August 2023; inspected 11 November 2026; full article, employee-email reporting paragraphs.  
+**Contract / phase:** RC-0003-v1 / P4.  
+**Lineage:** IANS original reporting republished on Investing.com; reported internal email, not directly inspected original.  
+**Limits:** Attributed reporting; original email unavailable; article also contains an inconsistent 2022-launch claim which is rejected, not used.  
+**Confidence / review:** High for accessible statement; SRC-0051 excerpt-only; outcome/causal implications pending RT-0004.
+
+## Source record — PRJ-0001:SRC-0054
+
+**Version / status:** v1 / active.  
+**Title:** [SkillUp and Engage launch](https://www.hackerrank.com/blog/hackerrank-launches-two-new-products/)  
+**Publication / access:** 13 March 2024; inspected 11 November 2026; full announcement, workflow and customer-quote sections.  
+**Contract / phase:** RC-0003-v1 / P4.  
+**Lineage:** First-party product announcement; selected customer testimonial not independent audit.  
+**Limits:** Launch/product descriptions and stated AI rationale; no audited incremental revenue or efficacy.  
+**Confidence / review:** High for accessible statement; SRC-0051 excerpt-only; outcome/causal implications pending RT-0004.
+
+## Source record — PRJ-0001:SRC-0055
+
+**Version / status:** v1 / active.  
+**Title:** [AI plagiarism detection announcement](https://www.hackerrank.com/blog/hackerrank-launches-ai-powered-plagiarism-detection/)  
+**Publication / access:** 7 June 2023; inspected 11 November 2026; full post, introduction and design sections.  
+**Contract / phase:** RC-0003-v1 / P4.  
+**Lineage:** First-party launch/efficacy marketing.  
+**Limits:** Detection is a claimed signal; no independent accuracy, fairness or zero-error guarantee established.  
+**Confidence / review:** High for accessible statement; SRC-0051 excerpt-only; outcome/causal implications pending RT-0004.
+
+## Source record — PRJ-0001:SRC-0056
+
+**Version / status:** v1 / active.  
+**Title:** [Chakra hands-on report documentation](https://support.hackerrank.com/articles/8145205695)  
+**Publication / access:** Live, says updated 13 days before inspection; inspected 11 November 2026; full support article, AI-fluency report section.  
+**Contract / phase:** RC-0003-v1 / P4 review.  
+**Lineage:** First-party technical documentation.  
+**Limits:** Documents product workflow, not independently validated scoring or hiring outcomes.  
+**Confidence / review:** High for accessible attribution, qualified underlying outcomes; RT-0004.
+
+## Source record — PRJ-0001:SRC-0057
+
+**Version / status:** v1 / active.  
+**Title:** [Codex Hacks HackerRank research](https://arxiv.org/abs/2212.02684)  
+**Publication / access:** 6 December 2022; inspected 11 November 2026; abstract only, not full paper.  
+**Contract / phase:** RC-0003-v1 / P4 review.  
+**Lineage:** Independent primary research abstract; restricted evaluation.  
+**Limits:** Small selected task set and older model; does not test current proctoring or establish all assessments obsolete.  
+**Confidence / review:** High for accessible attribution, qualified underlying outcomes; RT-0004.
+
+## Source record — PRJ-0001:SRC-0058
+
+**Version / status:** v1 / active.  
+**Title:** [ServiceNow remote hiring case](https://www.hackerrank.com/wp-content/uploads/2020/10/HackerRank-Innovators-ServiceNow.pdf)  
+**Publication / access:** 2020-context PDF, path October 2020; inspected 11 November 2026; full two-page case study.  
+**Contract / phase:** RC-0003-v1 / P4 review.  
+**Lineage:** Vendor-published named customer testimony, selected positive case.  
+**Limits:** Reported implementation experience, not independent causal effectiveness or representative customer result.  
+**Confidence / review:** High for accessible attribution, qualified underlying outcomes; RT-0004.
+
+## Source record — PRJ-0001:SRC-0059
+
+**Version / status:** v1 / active.  
+**Title:** [2021 bookings announcement](https://www.prnewswire.com/news-releases/hackerrank-announces-record-breaking-quarter-for-bookings-as-remote-tech-hiring-continues-to-surge-301410037.html)  
+**Publication / access:** 27 October 2021; inspected 11 November 2026; full release, commercial results paragraphs.  
+**Contract / phase:** RC-0003-v1 / P4 review.  
+**Lineage:** Company-reported results; unaudited release.  
+**Limits:** Bookings and revenue labels differ; no absolute audited figures or isolated pandemic/product causal effect.  
+**Confidence / review:** High for accessible attribution, qualified underlying outcomes; RT-0004.
+
+## Source record — PRJ-0001:SRC-0060
+
+**Version / status:** v1 / active.  
+**Title:** [Company history and about page](https://www.hackerrank.com/about-us)  
+**Publication / access:** Undated live retrospective; inspected 11 November 2026; full page; September 2015 EMEA milestone and dated history blocks.  
+**Contract / phase:** RC-0003-v1 / P4 review.  
+**Lineage:** First-party retrospective, visibly inconsistent/stale blocks.  
+**Limits:** No regional revenue or independently verified exact date; other chronology/funding/count inconsistencies make the page unsuitable as sole authority for those facts.  
+**Confidence / review:** High for accessible attribution, qualified underlying outcomes; RT-0004.
+
+## Source record — PRJ-0001:SRC-0061
+
+**Version / status:** v1 / active.  
+**Title:** [New cheating problem perspective](https://www.hackerrank.com/blog/the-new-cheating-problem-and-why-the-answer-isnt-a-stricter-test/)  
+**Publication / access:** 10 June 2026; inspected 11 November 2026; full article, framing and approach sections.  
+**Contract / phase:** RC-0003-v1 / P4 review.  
+**Lineage:** First-party strategic argument, not disinterested study.  
+**Limits:** Positioning/rationale, not proof that the proposed approach predicts job performance or solves misconduct.  
+**Confidence / review:** High for accessible attribution, qualified underlying outcomes; RT-0004.
+
+## Source record — PRJ-0001:SRC-0062
+
+**Version / status:** v1 / active.  
+**Title:** [HackerRank Bench](https://www.hackerrank.com/bench).  
+**Access / date:** Full live page inspected 11 November 2026, including offer and expert-community sections; page references September 2026 tests, no exact launch date established.  
+**Lineage / scope:** First-party current commercial offer, RC-0003 P4/P5.  
+**Limits:** Announces data/evaluation services for AI labs and paid expert tasks; no independently verified customers, receipts or model scores. Community-data/customer-data distinction is the vendor's stated boundary.  
+**Review:** Material new-business counterfinding for RT-0004/0005; qualified.
+
+## Source record — PRJ-0001:SRC-0063
+
+**Version / status:** v1 / active.  
+**Title:** [The Business of Quirky](https://youthincmag.com/the-business-of-quirky).  
+**Publication / access:** N Nitish Shah, Youth Inc, 1 January 2014; full page inspected 11 November 2026, Vivek/HackerRankX section.  
+**Lineage / scope:** Founder interview within multi-company feature, RC-0003 P5 historical interpretation challenge.  
+**Limits:** Founder states community emphasis while describing employer tools; not evidence of channel revenue shares, payer identity or synchronized pivot dates.  
+**Review:** RT-0005; qualified founder account, no independent performance verification.
