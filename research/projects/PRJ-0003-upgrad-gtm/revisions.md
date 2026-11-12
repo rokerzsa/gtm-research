@@ -28,3 +28,9 @@ The initial coverage/readiness verdict was too generous; current reviews/dossier
 | Financial/AI account mainly company disclosures | SRC-0040–0042/0069–0072, RT-0004 | Matched periods/definitions, rival cost explanations and issuer attribution; chapter 6 |
 
 Central synthesis depends on CLM-0005/0006/0009/0011–0017/0021–0026 and qualified RT-0001–0004. Changed outcome evidence affects chapters 1–3/7; integration evidence chapters 1/4/5/7; audited financial bridges chapters 6/7 and group-success characterizations. After delivery, reopening requires a user review/revision request; flag encountered evidence without autonomous new research beyond that boundary.
+
+## 12 November — usefulness edition 3
+
+Authority DEC-0002 / explicit three-book goal. Preserved full prior Markdown snapshot in review-history/usefulness-before-2026-11-12.json. Previous acquisition chapter was a capability inventory with incomplete deal history; new version reconstructs milestones/commitments, distinguishes three buying rationales, traces legal/enterprise coordination, failed negotiations and execution revision. Recovered SRC-0090–0101; corrected omitted facts in SRC-0081/0082/0008/0003 without inventing new independent corroboration. Added CLM-0031–0034 and RT-0005.
+
+Dependent overview, introduction, premium-learning/channel explanations, institutional economics, financial interpretation, case lessons and source notes revised. No route/registry/sequence changed. Previous readiness claims remain history and are superseded by the new usefulness review. Current unknowns, metric definitions and no-personalization scope preserved.

@@ -95,3 +95,7 @@
 ### REV-0012 — Reader-comprehension pass across remaining chapters
 
 11 November 2026, direct user request. Archived edition 2.3. Edition 2.4 clarifies six later chapters using existing evidence: customer relationships, event participation/consent, integrations, selling terms, market milestones and Chakra workflow. Introduction, canonical GTM overview and origins retained. Notes/qualifications unchanged; no new research or certainty. Review in reviews/edition-2.4-whole-book-reader-review.md. Build and links pass; acceptance pending.
+
+## Edition 2.5 — 12 November 2026
+
+DEC-0010 user-requested usefulness goal. Preserved prior full Markdown snapshot. Added dated commercial units/amounts, Mimir acquisition/action/withdrawal history, funded post-hire sequence, current indexed employer packaging and paid developer preparation. Revised all eight substantive chapters/overview and introduction/lessons; routes and curated order preserved. Six SRC identities and four CLM added; RT-0007 completed qualified. See ../reviews/edition-2.5-usefulness-review.md for demonstrated answers and limits.

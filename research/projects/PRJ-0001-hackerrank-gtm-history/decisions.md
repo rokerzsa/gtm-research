@@ -74,3 +74,7 @@
 ## PRJ-0001:DEC-0009 — Apply the book-coherence improvement plan
 
 11 November 2026. Exact user instruction: “lets begin”, following the inspection report and proposed plan to improve the generic skill, introduction, cumulative chapter/section argument and reading navigation. Authorizes this in-scope editorial revision. Existing scope, public/free access and evidence qualifications remain unchanged. No new research budget, goal, paid access, outreach, publication or acceptance is inferred. Edition 2.0 is preserved before edits; edition 2.1 is delivered for user review, not treated as accepted.
+
+## DEC-0010 — three-book usefulness goal
+
+12 November 2026. User explicitly requested improving UpGrad, HackerRank and RedyHire one by one using the new skill, completing all as a goal. Authorizes in-scope research/revision/review of this book after UpGrad. Existing cutoff/public-free/no-personalization constraints persist. No numeric cap assigned for this fresh revision; historical phase caps not reset. No paid access/outreach/publication/commit/push authorized. Revised skill candidate used without installing it to the protected path.

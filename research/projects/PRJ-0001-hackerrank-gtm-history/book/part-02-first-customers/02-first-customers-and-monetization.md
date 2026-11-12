@@ -29,6 +29,24 @@ The early archived offer, 2013 reporting and later sales descriptions document t
 
 A fee tied to a hire and a fee for software access allocate value and risk differently. The former depends on an outcome; the latter depends on customers finding recurring use. That is an economic interpretation of the units, not a verified account of the company's margins or management's preference.
 
+## Dated prices reveal different businesses
+
+The numerical record makes the change in what was sold easier to see. These are advertised/reported offers, not invoices or a comparable realized-price series.
+
+| Evidence date | Price and unit | What the company was monetizing |
+|---|---|---|
+| Archived 16 December 2010 Recruit buying page | **USD4 per invite** in the lowest volume band, falling to **USD0.99 above 500**; an invite was a candidate test attempt; separate INR prices/tax also displayed | Evaluation activity for applicants supplied by the employer |
+| August 2011 contemporary report | **USD99/month starting plan**, 30-day trial; higher test volume/features affected tiers | Subscription access with a low-entry evaluation route |
+| April 2013 Forbes excerpt preserved by YC | **USD3,000–5,000/month** for coder-database access; **USD10,000 per hire**; separate sponsored contests | Access to talent and a hiring outcome, alongside event sponsorship |
+| September 2013 founder interview | Also quotes **USD3,000–5,000/month**, but describes recruiter-based access | A recruiting-team software account, not necessarily the same database-access product |
+| September 2014 sales-director interview | Annual subscription based on recruiter/engineer seats; no amount in the inspected account | Recurring account access and an explicit objective of increasing existing-customer spend |
+
+[Archived buying page](https://web.archive.org/web/20101216014010id_/http://interviewstreet.com/recruit/buy), [2013 preserved excerpt](https://www.ycombinator.com/blog/interviewstreet-yc-s11-in-forbes-magazine-the-prince-of-programming-contests-helps-top-coders-worldwide-get-the-best-jobs), [2013 recruiter-pricing interview](https://www.techcircle.in/2013/09/13/technical-recruiting-platform-interviewstreet-looking-to-triple-client-base-in-fy14-to-raise-20m-next-year/), [2014 sales account](https://www.ere.net/articles/startup-spotlight-hackerrank-helps-employers-engineer-their-technical-recruiting-process); the 2011 report and access limitations are retained in the source records/notes below.
+
+The strategic choice was not simply raising the price of a test. Selling a hire depends on matching and hiring outcomes; selling seats or recurring access depends on adoption across a team. A larger recurring commitment gives the supplier a reason to support implementation and expansion, but also makes renewal depend on continuing value. The record documents these coexisting units, not the revenue share or profitability of each.
+
+The [August 2011 contemporary report](https://techcrunch.com/2011/08/06/yc-funded-interview-street-streamlines-the-search-for-great-programmers/) supplies the separate entry-plan milestone; it is not assumed to describe the December 2010 offer unchanged.
+
 ## Moving from founder conversations to account development
 
 Founders initially had to demonstrate value and learn what employers would buy. By September 2014, a sales-director interview described selling annual access by seat—access for a user—and an objective of expanding employer accounts. The purchase was therefore being presented as access for recurring work, with a selling effort that continued beyond winning the first user. This documents the commercial approach, not its realized renewal or expansion performance. [6](#note-6)

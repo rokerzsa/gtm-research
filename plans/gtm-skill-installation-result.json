@@ -1,0 +1,87 @@
+{
+  "status": "installed",
+  "date": "2026-11-12",
+  "files": [
+    {
+      "path": "book/appendices/audit-reconciliations.md",
+      "sha256": "17b4cf78713daf4b0cdcb345f4b848c3bdce9475306ca4bc61d6e9ddf2e15841"
+    },
+    {
+      "path": "book/part-02-investigation/03-research-contracts-and-investigation.md",
+      "sha256": "762e16c01005dad2755c572b742adbbe27abce79f805b31030b8e1bb4258ed3d"
+    },
+    {
+      "path": "book/part-02-investigation/04-evidence-and-source-integrity.md",
+      "sha256": "2eb2036bf1b78c7eafcaed2ae25f6e04a1d917d36de61dc3ed89ada45ed62f5f"
+    },
+    {
+      "path": "book/part-04-outputs-lifecycle/10-research-synthesis-and-lessons.md",
+      "sha256": "c8cef87b15cdca28affb1557ee12d44667d95f4b277454714a79d2b2cc1f01bb"
+    },
+    {
+      "path": "book/part-04-outputs-lifecycle/13-completion-and-acceptance.md",
+      "sha256": "65827e6a6224fd7174c52732ed14a7ce504cef6a648a3f14a0c35f09c53ff570"
+    },
+    {
+      "path": "book/part-05-implementation/14-skill-implementation-and-review.md",
+      "sha256": "263c1fdbb2626f0123674b3bb4bde7bd520138fed406d451b4aeb29b49226db2"
+    },
+    {
+      "path": "references/book-authoring-and-reader-review.md",
+      "sha256": "d96b0f84be6dc2cc161e48f199f6fae3016f582833be5086499ac19d9e25f680"
+    },
+    {
+      "path": "references/completion-and-acceptance.md",
+      "sha256": "44675286f921735b9175b0ea00d2249a6af9787ec713b00425c5ff0e6a576e30"
+    },
+    {
+      "path": "references/final-static-audit.md",
+      "sha256": "3eaefa7e3e04ea195e96c9485651e21795c46e902a75faa6079d13bd66846a04"
+    },
+    {
+      "path": "references/goal-discovery-and-charter.md",
+      "sha256": "d59e1ce5611d0cfeee7059057e5c28a26547c8d68b1dd069079e9cb99c4eb17d"
+    },
+    {
+      "path": "references/investigation-execution.md",
+      "sha256": "5538c6dc473a638dd23a3b84708f889c5eae86e97e7eeceedafc503e59092250"
+    },
+    {
+      "path": "references/research-synthesis-and-lessons.md",
+      "sha256": "65cd8e7247153aa44d50880e47e538e7786425d13557e5b323a991c047141b7b"
+    },
+    {
+      "path": "references/source-and-claim-evidence.md",
+      "sha256": "77760260dd7fa7a79851410b5002b9ab2ecbf7e20d4ef6b2434c67b5c0df0b37"
+    },
+    {
+      "path": "references/strategy-and-current-state.md",
+      "sha256": "4a10d0b4e8176016ebc3740b10f07892934847d8b606b9e5845aa4d7e290c693"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "405509c7547711533600317cf18268d1a2a923be086d88721a2ef2600bca62e2"
+    },
+    {
+      "path": "templates/company-gtm-overview.md",
+      "sha256": "b840cb83982d844711c8fa96468383a21341360889c290f1511a090aa664c47d"
+    },
+    {
+      "path": "templates/project-completion-dossier.md",
+      "sha256": "4d646074376d7c27bea971e1f7924c2bb5172e5b2c33a78ea41a27570b7d13f4"
+    },
+    {
+      "path": "templates/research-book-chapter.md",
+      "sha256": "244c40ac431ed58f60fcb9958ad4d062414b1809f600de9123b6fd03966eebc7"
+    },
+    {
+      "path": "templates/research-charter.md",
+      "sha256": "a9ccb8b10394f43aa66813d28a5e245d08b4733d3518722d314788ccd200a007"
+    },
+    {
+      "path": "templates/research-plan.md",
+      "sha256": "e435f8606c1be6d38451b49ce4eb0d378116a75cbb3e655004f880844464f011"
+    }
+  ],
+  "permissions_changed": false
+}

@@ -67,3 +67,12 @@ The v1 requirement audit overstated adequate material portfolio coverage. SRC-00
 | Functional/local validation | npm run build exit 0 after manuscript revisions; validator --build exit 0 | All nine compiled h1/page paths and UpGrad reading/sidebar routes/homepage entry pass; local targets/anchors and 85 unique citation URLs trace to registry |
 
 Current book: nine pages, approximately 9,251 words including notes. New evidence increases specificity and negative execution evidence; it does not establish causal learner gains, channel economics, current legal consolidation, actual loan remedies, audited cash-flow bridges or realized group synergies. Those limits remain in the relevant discussion and gap records. No unresolved demonstrated manuscript omission remains from this review. No browser layout, accessibility, blanket external-link uptime or live deployment test claimed. No paid access, outreach or publication performed.
+
+## Edition 3 completion addendum — 12 November 2026
+
+DEC-0002 reopened this book under the sequential three-book goal. [Usefulness review](usefulness-review.md) records concrete answers to nine central reader questions and all four reviews. Current issued records: 101 SRC (including one reopened mirror lineage), 34 CLM, five qualified RT, four investigated gaps. Recovered actual transaction terms and official sanction; unknown legal schedules/value bridges/outcomes remain qualified. check:library passed: 16 regression tests, production build, 31-page compiled/HTML library verification. No TS/config/publication changes or browser visual pass claimed. UpGrad ready-for-user-review-qualified, acceptance pending; goal continues to HackerRank.
+
+
+## 12 November 2026 — uncommitted-review fixes
+
+User requested closure of the review findings. Installed all 20 hash-guarded reviewed skill files into the active skill; no permission/ownership changes. Consolidated this project checkpoint to one current state after preserving its former text/hash in review-history/checkpoint-before-review-fixes-2026-11-12.json. The three-book goal is complete and delivered; new-edition acceptance remains pending. No source/claim confidence, reader content, route, research scope or Git publication changed. [Fix/validation report](../../../plans/uncommitted-review-fixes.md).

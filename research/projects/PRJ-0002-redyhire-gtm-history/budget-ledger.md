@@ -19,3 +19,9 @@ Exact aggregate web request count, unique independent lineages, elapsed labor, m
 ## Historical governance
 
 DEC-0001 approved charter; DEC-0002 approved a high-level outline; RC-0001/P1 remained proposed. DEC-0003 directly instructed a fresh run after presentation of v2 under the updated skill, eliminating routine phase gates. No separate goal-tool authorization was inferred. Historical proposal files preserve their original pending labels without blocking the active run.
+
+## 12 November — usefulness goal revision
+
+Explicit user request covers third book after UpGrad/HackerRank. Three new SRC identities issued; existing primary sources re-opened. No numerical ceiling assigned, paid access, outreach, private login or live product test. Research-only cumulative token/time/call usage unavailable; goal orchestration includes local editing/review. New record count does not establish independent corroboration.
+
+Goal-close accounting observation: tool reported 574,424 cumulative tokens and 2,637 seconds before final delivery bookkeeping. These are orchestration totals, not a verified research-only usage/cost estimate. No numerical budget assigned; no monetary spend. All three studies review-ready-qualified; new-edition user acceptance pending.

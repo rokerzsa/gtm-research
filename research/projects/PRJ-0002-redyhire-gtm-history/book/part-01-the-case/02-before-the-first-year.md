@@ -29,6 +29,8 @@ The distinction between use and payment remains essential. A Trustt vacancy host
 
 ## The first commercial mechanism we can describe
 
+The **17 October 2024** named assessment link and **7 November 2024** personal trial pitch anchor different stages: an externally visible hiring use and an offer to let another prospect evaluate the product. March 2025's account adds the founder's explanation of introductions and co-development. That ordering supports an assisted, learning-intensive entry motion. It does not reveal whether the named employer paid, whether the prompt-engineer project was a software contract or service-heavy engagement, or when a repeatable sales process began. Those distinctions matter before describing the early work as product-market fit.
+
 The early evidence points toward demonstrating a specific evaluation benefit to an accessible employer, rather than a demonstrated self-serve funnel. A buyer with an urgent screening problem can try a tool on a defined role. The founder can observe the work, answer objections and adapt the product. This is an interpretation of the personal trial pitch and customer-feedback account, not a reconstructed sales transcript.
 
 What the evidence does not provide is equally consequential: the first contract, who approved the budget, the original price, how long evaluation took, or whether the early user renewed. The first substantiated named usage trace in this study is therefore an evidentiary anchor, not a first-customer trophy. The next chapter follows the stronger public explanation of how those relationships were built—and why that explanation became insufficient for the founder's next growth task.

@@ -29,3 +29,7 @@ Read in intended order: introduction -> complete system -> origins -> trust -> p
 Comprehension checks: reader can distinguish recruiter/user from unknown budget owner; see what candidate and recruiter do; explain why interviews may save calendar work; calculate a hypothetical list-price bill without mistaking it for realized revenue; distinguish introduced customer from first payer; explain why a broader offer increases proof requirements; identify evidence that could overturn the case. No operational IDs clutter the narrative. Source detail is moved to final notes and working records. Causal alternatives and limits appear where they affect interpretation.
 
 Outcome: editorial pass with explicit uncertainty. Technical link/build results are recorded separately in the completion dossier; no human readability test or live application test is claimed.
+
+## Edition 2 usefulness review — 12 November 2026
+
+[usefulness-review.md](usefulness-review.md) records demonstrated answers and all four renewed checks. Three SRC and three claims added, RT-0005 completed qualified. Current interpretation explains attention/infrastructure choices, candidate participation and purchase units without certifying a successful pivot. Earlier provisional acceptance/readiness is historical.

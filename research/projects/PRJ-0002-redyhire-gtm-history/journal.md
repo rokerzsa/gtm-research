@@ -47,3 +47,16 @@ Production Docusaurus build passed. First project Markdown local-link check pass
 ## J-0007 — Provisional approval and Git handoff
 
 11 November 2026. User said “lets commit the changes, approve for now and push”. Allocated DEC-0004 before recording provisional approval of the delivered book and explicit Git authorization. Current branch work/next-updates tracks origin/work/next-updates at github.com/rokerzsa/gtm-research. Reviewed changed file set: RedyHire research/intake/concept and workspace navigation only. Preserve evidence unknowns and the original readiness audit. Commit and push under this instruction; verify actual Git result before reporting success. No further investigation, merge or deployment is included.
+
+## 12 November usefulness reopening
+
+Explicit sequential goal reached RedyHire after UpGrad/HackerRank review-ready revisions. Prior Markdown snapshot preserved. All seven reader pages inspected; existing pricing/metadata/archive work retained. Allocated DEC-0005/SRC-0036–0038/CLM-0039–0041/RT-0005 before records. Focus: actual choices and resource allocation rather than a fabricated TARA launch or acquisition history.
+
+## Edition 2 final review and validation
+
+Completed concrete resource-allocation/feedback/workflow/economics explanation; preserved earlier history and explicit unknowns. Source/claim extraction and RT-0005 counter-search persisted. All seven pages reviewed and library checks passed; browser navigation checks succeeded for all three books. Local record/link scan initially failed to decode percent-escaped paths, then was corrected: no actual missing local targets or new source/claim records. Existing Markdown hard breaks preserved; line endings reconciled against baseline during final diff review. Index/dossier/dependencies/usage updated before checkpoint.
+
+
+## 12 November 2026 — uncommitted-review fixes
+
+User requested closure of the review findings. Installed all 20 hash-guarded reviewed skill files into the active skill; no permission/ownership changes. Consolidated this project checkpoint to one current state after preserving its former text/hash in review-history/checkpoint-before-review-fixes-2026-11-12.json. The three-book goal is complete and delivered; new-edition acceptance remains pending. No source/claim confidence, reader content, route, research scope or Git publication changed. [Fix/validation report](../../../plans/uncommitted-review-fixes.md).

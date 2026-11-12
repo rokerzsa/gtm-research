@@ -14,6 +14,8 @@ The central argument is conditional. Relationship-based introductions appear imp
 
 ## Reading the case
 
+The case turns on specific choices rather than a verified revenue-growth curve: personal demo/trial selling, product delegation before the founder's reported growth difficulty, component reuse to reduce engineering overhead, and a platform-plus-usage rate card around the broader offer. The chapters connect those choices while testing alternative explanations. No acquisition history is implied by the software/provider relationships; using a component or appearing on a staffing site does not establish common ownership.
+
 Begin with [the complete commercial system](part-01-the-case/01-the-commercial-system.md). It connects customers, product use, acquisition, purchasing, delivery and revenue in one place, including what remains unknown. The next chapter, [before the first year](part-01-the-case/02-before-the-first-year.md), reconstructs the earlier assessment proposition and the first substantiated commercial signals without inventing a first payer.
 
 [Transferring trust](part-01-the-case/03-transferring-trust.md) examines referrals, customer participation and the founder's transition toward growth. [From evaluation to orchestration](part-01-the-case/04-from-evaluation-to-orchestration.md) follows the product choices, infrastructure constraints and broader commercial promise. [Lessons and limits](part-01-the-case/05-lessons-and-limits.md) considers which explanations survive the evidence and what would change them. [Evidence notes](part-01-the-case/06-evidence-notes.md) explain the dating and source limitations behind the narrative.

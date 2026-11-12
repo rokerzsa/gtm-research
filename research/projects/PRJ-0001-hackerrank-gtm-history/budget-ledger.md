@@ -133,3 +133,9 @@ Final challenge draws: SRC-0062 P4 current business offer, SRC-0063 P5 historica
 Five new lineages SRC-0064–0068 inspected; project total 68. No numeric cap assigned to this covered current-strategy work; no paid access/outreach. Reopening existing pricing SRC-0051 remained cookie-blocked; indexed material retains excerpt status and no duplicate draw. Existing P1 25/25, P2 13/25 and RC-0003 25 unchanged.
 
 RC-0004 second batch: SRC-0069–0075, seven new sources. RC-0004 measured 12 distinct lineages; project 75. SRC-0051/0062 reused, no duplicate draw. P1/P2 and prior RC-0003 unchanged. No paid access/outreach.
+
+## 12 November — edition 2.5 usefulness goal
+
+Explicit new user goal covers in-scope revision; prior numerical phase caps/consumption remain historical and are not reset. Six new SRC identities issued for newly inspected public materials; repeated Mimir post URLs and current pricing reinspection are not independent corroboration/new source quotas. No numerical ceiling assigned to this revision, no monetary spend/outreach/account purchase. Research-only usage unavailable; orchestration goal totals include local work.
+
+Goal-close accounting observation: tool reported 574,424 cumulative tokens and 2,637 seconds before final delivery bookkeeping. These are orchestration totals, not a verified research-only usage/cost estimate. No numerical budget assigned; no monetary spend. All three studies review-ready-qualified; new-edition user acceptance pending.

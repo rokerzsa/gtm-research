@@ -193,3 +193,21 @@ SRC-0046/0047/0065/0066 establish branded university undergraduate screening/cur
 Canonical ID: PRJ-0003:CLM-0026. Type: observation/conditional strategic interpretation. Evidence: supported for inspected contract terms; performance unverified. Confidence: high for artifact reading, medium for mechanism. Review: qualified under RT-0003.
 
 SRC-0067's 14 July 2021 amendment and Annexure C specify university payment of ₹100,000 per enrolled student excluding taxes, minimum 30-student batches unless otherwise agreed, predominantly online teaching with classroom assistants, and work-order invoicing. SRC-0061 supports the counterparty's public delivery description. This is one dated institutional purchase arrangement, not universal/current pricing, actual collections, a margin estimate or a full master-agreement audit.
+
+## CLM-0031 — acquisition sequence combined access, consolidation and employer capability
+
+Canonical ID: PRJ-0003:CLM-0031. Type: historical proposition / strategic interpretation. Supported for attributed actions/terms; medium confidence for connected explanation; review qualified under RT-0005. SRC-0008/0081/0082 and SRC-0090–0096/0100/0101 distinguish route-to-customer purchases, adjacent consolidation and fuller employer provision. Commitments, media estimates and growth allocations remain distinct. Different target rationales and failed negotiations contradict a single inevitable master plan. No causal acquisition-return claim.
+
+## CLM-0032 — legal and commercial coordination had observable milestones
+
+Canonical ID: PRJ-0003:CLM-0032. Type: observation / bounded interpretation. Supported; high confidence in official sanction text, medium in company-reported organization date; review qualified RT-0005. SRC-0098 sanctions five specified mergers on 13 February 2024, with appointed dates and later filing obligations distinct. SRC-0099 attributes common Enterprise banner to April 2024. These demonstrate legal/organizational steps beyond intention, not measured shared selling/customer results or inspected ROC filing completion.
+
+## CLM-0033 — INSOFE execution difficulty led to a documented transaction revision
+
+Canonical ID: PRJ-0003:CLM-0033. Type: reported assertion within official record. Supported with attribution; medium confidence for underlying business account; review qualified RT-0005. SRC-0098 paragraphs 4–5 recite parties' placement difficulty and consequent revaluation/share-ratio revision; SRC-0087/0088 supply contested program-disruption reporting/response. Court sanction is not an independent placement audit or misconduct determination. This changes the prior merely hypothetical integration-risk discussion.
+
+## CLM-0034 — Internshala intended to expand candidate and employer monetization
+
+Canonical ID: PRJ-0003:CLM-0034. Type: reported actor rationale. Supported with attribution; medium confidence; review qualified RT-0005. SRC-0097 identifies 90% acquired stake, stock transaction, candidate Pro and employer-paid hiring focus, enterprise expansion and retained founder/brand. Approximate valuation is unnamed-source reporting; official price undisclosed. SRC-0045/0073 support announced ecosystem and workflow, not achieved conversion/revenue targets. Stake is not inferred from payment percentage.
+
+Usefulness corrections: CLM-0002 retains SRC-0003's USD205m consideration in reader text; CLM-0008 adds M&A allocation versus estimate; CLM-0027 gains SRC-0082 announcement/consideration and SRC-0093 chronology; CLM-0021 now includes actual sanction under CLM-0032. Original claim history remains above.

@@ -1,8 +1,10 @@
 # HackerRank GTM research
 
-**Current deliverable:** [Edition 2.4 — GTM strategy, evolution and current bets](book/index.md), ready for user review with qualifications. A developed introduction, one complete company GTM chapter and seven connected deeper chapters in three reading sections; cutoff 11 November 2026.
+**Current deliverable:** [Edition 2.5 — GTM strategy, evolution and current bets](book/index.md), ready for user review with qualifications. A developed introduction, one complete company GTM chapter and seven connected deeper chapters in three reading sections; cutoff 11 November 2026.
 
 ## Review the revision
+
+- [Edition 2.5 usefulness review](reviews/edition-2.5-usefulness-review.md) and [RT-0007](reviews/RT-0007-usefulness-revision.md)
 
 - [Edition 2.4 whole-book reader review](reviews/edition-2.4-whole-book-reader-review.md)
 

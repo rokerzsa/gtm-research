@@ -12,4 +12,6 @@ Workspace: W-GTM-RESEARCH-001 / convention 1.0. This study uses the consolidated
 
 [Investigated unknowns](gaps.md) · [Adversarial adjudications](red-team.md) · [Four manuscript reviews](reviews.md) · [Material revisions/dependencies](revisions.md) · [Completion dossier](completion-dossier.md) · [Record/link validation](validation-results.json) · [Compiled-route validation](validation-build.json).
 
-89 source records, 30 claims and four completed qualified RT cases with review addenda underpin the revised synthesis. The [user-requested overall review](overall-review.md) corrected the initial coverage verdict and material omissions. Sources include unavailable/secondhand/shared-lineage records; counts do not imply independent audit coverage. Final build and validation scope is recorded in the dossier.
+101 issued source records, 34 claims and five qualified RT cases underpin edition 3. Reinspection records and shared lineages are not independent corroboration. The [user-requested overall review](overall-review.md) corrected the initial coverage verdict and material omissions. Sources include unavailable/secondhand/shared-lineage records; counts do not imply independent audit coverage. Final build and validation scope is recorded in the dossier.
+
+[Edition 3 usefulness review](usefulness-review.md) supersedes earlier depth/readiness assessments for this revision. Transaction milestones, commitments, strategy sequence and concrete follow-through are now explicit; remaining legal/value/outcome limits retained.

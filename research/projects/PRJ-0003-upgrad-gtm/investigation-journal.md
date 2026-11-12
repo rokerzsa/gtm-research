@@ -67,3 +67,16 @@ Inspected professional admission/payment, historical program support/financing, 
 Allocated RT-0001–0004 and froze original propositions before the separate adversarial searches; verdicts remain pending. Allocated four actual open questions as GAP-0001–0004. Updated complete-system coverage map with specific remaining work. No book or completion audit yet. Next seek disconfirming sources, reconcile financial/portfolio boundaries, adjudicate, then develop the book argument.
 
 Stage consistency check: canonical record scan found 34 SRC, 18 CLM, 4 RT, 4 GAP, 1 DEC and 1 RC, matching allocator; zero duplicate canonical IDs and zero missing local file targets. This is record consistency only, not evidence truth or research completion. Checkpoint advanced after records/map/journal/usage and this validation.
+
+## 12 November — usefulness goal reopening
+
+User explicitly requested sequential improvement of all three books as a goal. Preserved pre-revision Markdown snapshot, inspected current records/full reading pages and revised skill candidate. Allocated DEC-0002, SRC-0090–0100, CLM-0031–0034, RT-0005 before records. Recovered omitted transaction terms and official merger sanction, while retaining reported-value inconsistencies and text-only PDF limits. Review remains in progress, not a new ready verdict.
+
+## Edition 3 closure before HackerRank
+
+Completed transaction/strategy revision and whole-book review; corrected overlooked dates/amounts and added official sanction/transaction-revision evidence. RT-0005 counter-search completed qualified, new claims persisted and gaps narrowed. check:library exited 0 after book changes; all 31 reader pages registered/contained with terminal boundaries. Review/dossier/index/usage records persisted before checkpoint. User acceptance pending; next book HackerRank.
+
+
+## 12 November 2026 — uncommitted-review fixes
+
+User requested closure of the review findings. Installed all 20 hash-guarded reviewed skill files into the active skill; no permission/ownership changes. Consolidated this project checkpoint to one current state after preserving its former text/hash in review-history/checkpoint-before-review-fixes-2026-11-12.json. The three-book goal is complete and delivered; new-edition acceptance remains pending. No source/claim confidence, reader content, route, research scope or Git publication changed. [Fix/validation report](../../../plans/uncommitted-review-fixes.md).

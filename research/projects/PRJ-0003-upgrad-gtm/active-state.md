@@ -1,37 +1,39 @@
-# Authoritative checkpoint — PRJ-0003
+# Authoritative project checkpoint — PRJ-0003
 
-| Field | Current value |
+| Field | Current state |
 |---|---|
 | Workspace / convention | W-GTM-RESEARCH-001 / 1.0 |
-| Date / cutoff | Checkpoint 12 November 2026; company-event cutoff 11 November 2026 |
-| Execution | content ready-for-user-review-qualified; subsequent user-reported site hierarchy/pagination defect repaired and structurally verified |
-| Authority | charter v1; DEC-0001 user “Then lets proceed”; RC-0001 full-run contract |
-| Plan | v2 with user-requested review refinement executed; original charter/cutoff preserved |
-| Goal | original goal completed at initial delivery; user-requested review performed without creating a new goal or budget |
-| Records | 89 SRC; 30 CLM; 4 RT completed/qualified with review addenda; 4 GAP investigated/qualified; 1 DEC; 1 RC; no K issued |
-| Review status | fresh overall review corrected overly generous v1 coverage verdict; four renewed dimensions plus targeted source-seeking/RT reassessment; same investigator disclosed |
-| Book | nine Markdown pages; 9,266 approximate words; canonical complete GTM chapter plus adaptive deep dives/introduction/evidence notes |
-| Access / limits | public/free; no paid access or outreach; numerical ceilings unassigned; research-only token/time totals unavailable; point-in-time goal accounting in usage ledger |
-| Runtime | repaired: .git owner restored to main Windows user with DACL preserved; two ordinary sandbox launches/read-write/Node child process passed; setup errors=[]; use normal sandbox execution |
-| Recovery | none; site registry, company ancestry, sidebar ownership and exact pagination verified across 31 included pages; build/typecheck passed; prior preview limits retained |
-| Next permissible action | deliver deep site-review findings, fixes and validation limits, then stop; further user-requested review/revision only |
-| Pending user decision | none |
-| Delivery boundary | requirements audited in completion dossier; user acceptance pending; no publication/deployment performed |
+| Date / revision | 12 November 2026; edition 3 — usefulness revision |
+| Execution | Delivered; ready-for-user-review-qualified; research stopped |
+| User acceptance | Edition 3 pending |
+| Subject / cutoff | UpGrad historical/current/emerging GTM through 11 November 2026 |
+| Authority | DEC-0002 explicit three-book usefulness goal; charter v1/RC-0001 scope and limits retained |
+| Plan | Original charter/cutoff plus executed review refinements and usefulness amendment |
+| Goal / recovery | Explicit three-book goal complete; no unresolved recovery |
+| Records | 101 issued SRC, 34 CLM, five completed qualified RT cases, four GAP, two DEC, one RC; no K issued |
+| Latest investigation/review | SRC-0090–0101, CLM-0031–0034 and corrected earlier extraction; RT-0005 completed qualified |
+| Four reviews | Edition 3 usefulness review supersedes earlier depth verdict where applicable; coverage, depth, evidence and reader/editorial checks completed by same investigator |
+| Book | Nine reader pages; canonical whole-company GTM chapter and adaptive deep dives |
+| Limits / usage | Public/free only; no paid access/outreach; numerical ceilings unassigned; aggregate goal accounting in usage ledger, not research-only consumption |
+| Runtime | Ordinary sandbox working; do not repeat ownership/ACL repair without fresh diagnosis; see root AGENTS.md |
+| Next action | User review of revised books; no outstanding autonomous research task |
 
-[Project navigation](index.md) · [Charter](charter.md) · [Plan](plan.md) · [Contract](contracts/RC-0001.md) · [Decision](decisions.md) · [Sources](sources.md) · [Claims](claims.md) · [IDs](record-ids.md) · [Journal](investigation-journal.md) · [Usage](budget-ledger.md).
+## Current qualified interpretation
 
-[Book](book/index.md) · [Canonical GTM chapter](book/part-01-the-case/01-complete-gtm-system.md) · [Completion dossier](completion-dossier.md) · [Manuscript reviews](reviews.md) · [Qualified gaps](gaps.md) · [Adversarial adjudications](red-team.md) · [Revisions/dependencies](revisions.md) · [Local validation](validation-results.json) · [Compiled-route validation](validation-build.json).
+Premium learning combined credibility with assistance. Acquisition history distinguishes access, adjacent consolidation and fuller employer capability, followed by legal/commercial coordination and renewed expansion. The official merger sanction and INSOFE transaction revision add concrete follow-through, not independent placement audits or proof of group-wide synergy. Unacademy negotiations stopped before a later agreement and supported September completion; earlier GATE/failed Exampur history qualifies first-entry framing. Institutional contracts, recruitment and subscription/software businesses have different payment units. Reported financial improvement coexists with annual net loss; causal AI savings, customer integration and authenticated later financial bridges remain unresolved.
 
-[Overall review v2](overall-review.md) governs current review status. Corrected omitted Talentedge/INSOFE history, Harappa consumer segmentation, earlier UGDX ambition, named institutional discovery and concrete INSOFE program disruption/company response. Strengthened the canonical chapter's commercial evolution, workflows and bottlenecks. Prior reader text/hashes preserved in review-history/book-before-overall-review.json; original v1 review/dossier verdicts explicitly superseded where too generous. 85 public book citation URLs registered; final revised build and compiled/local audits pass.
+## Canonical references
 
-Fix-finalization request fulfilled: all findings verified against chapter text; first-use terminology/currency, Harappa transition and evidence-note prose completed. Per-finding closure in overall-review.md. Final production build and validator --build passed after manuscript edits; source/claim counts unchanged, factual unknowns preserved. Checkpoint advanced after closure records and checks.
+[Book](book/index.md) · [Full GTM chapter](book/part-01-the-case/01-complete-gtm-system.md) · [Current usefulness review](usefulness-review.md) · [Completion dossier](completion-dossier.md) · [Adversarial reviews including RT-0005](red-team.md) · [Previous overall review](overall-review.md) · [Sources](sources.md) · [Claims](claims.md) · [IDs](record-ids.md) · [Decisions](decisions.md) · [Journal](investigation-journal.md) · [Usage](budget-ledger.md) · [Plan](plan.md) · [Charter](charter.md) · [Contract](contracts/RC-0001.md).
 
-Final inspection: introduction's ownership implication and financial rounding assumption corrected. Content/skill review found no further blocking manuscript issue. Latest build/local/compiled checks passed after those edits. Browser connection timed out and temporary HTTP preview attempts did not complete; validation-http.json records failure, not success. No visual/responsive/accessibility/HTTP pass claimed. Same-investigator review and investigated factual limits remain explicit. Checkpoint advanced after final review/dossier/journal/usage and validation; user acceptance pending.
+The company navigation repair and subsequent implementation review remain documented in [navigation repair](../../../plans/docusaurus-navigation-repair.md) and [deep site review](../../../plans/docusaurus-deep-review.md). Their earlier failed browser attempts are historical; the later shared inspection succeeded within its limited scope.
 
-Subsequent site correction: user identified a real navigation failure missed by earlier existence-only checks. Autogenerated UpGrad children had no company wrapper; shared researchLibrary pagination crossed book boundaries. Replaced with research-library.json-driven home/sidebar integration, separate per-company sidebars and contained roots. Preserved routes and curated reading sequences; supporting HackerRank guides retain their URLs/sidebar association without entering sequential pagination. Root AGENTS.md documents project-specific index/page/registration rules and required verification. Pages workflow now validates before upload; no push/deployment triggered. `check:library`, typecheck and enhanced generated-metadata/rendered-HTML verification passed for all 31 pages, including both original-defect negative controls. [Repair report](../../../plans/docusaurus-navigation-repair.md) and [machine result](../../../plans/library-navigation-validation.json) govern current site validation. Existing research evidence/acceptance unchanged; checkpoint advanced after records and checks.
+## Completion and resume boundary
 
-Deep implementation review: corrected path-prefix normalization, manual navigation checking, deployment-prefix assumptions and home-link accessible names. New checks exposed two actual HackerRank inline links that skipped section introductions; fixed without altering the registered sequence. Sixteen regression tests, build, generated/compiled checks for all 31 pages and typecheck passed; no .docusaurus generated inputs needed by tsc. [Deep review report](../../../plans/docusaurus-deep-review.md) records severity, evidence, fixes and remaining visual/remote-CI limits. No UpGrad company text/evidence or deployment changed. Checkpoint advanced last after reports, affected-project notes and successful checks.
+The explicit sequential goal was completed and all three books delivered on 12 November 2026. Research is stopped; the current request only corrects skill installation and checkpoint consistency. User acceptance of the revised edition remains pending. No commit, push, publication or deployment was performed in these revisions. Further company investigation requires a user review/revision request or explicit continuing authorization.
 
-Material findings: premium learning combined credibility and assistance; expansion assembled different commercial models, including universities as buyers, recruitment and acquired subscriptions/software. Prior TGA/failed Exampur history qualifies 2026 entry framing. Unacademy completion by September is supported; realized integration is not. Financial reporting shows improvement with continuing annual loss; original audited bridges, causal AI savings and career outcomes remain unknown. Public/free only, no paid access/outreach. Original PDFs were rendered/visually checked where documented; source partial-access and lineage limits retained.
+[Three-book completion review](../../../plans/three-book-usefulness-completion.md) governs the shared outcome and remaining evidence limits. [Review-fix report](../../../plans/uncommitted-review-fixes.md) records this correction. The earlier mixed-stage checkpoint is preserved with its hash in [checkpoint history](review-history/checkpoint-before-review-fixes-2026-11-12.json). It is historical evidence, not current execution instructions.
 
-Checkpoint advanced last after evidence, synthesis, gap/revision/review records, navigation, dossier and final validation. Ordinary sandbox is working; later network restrictions are distinct. Source/record count is not independent corroboration. No other project's scope or acceptance changed. Static/compiled checks do not prove source truth, browser layout or successful company strategy. User acceptance remains pending.
+Validation: final three-book `check:library` passed (16 tests, production build, 31-page generated metadata/rendered HTML); the review-fix run also passed. Prior local browser inspection covered home cards, company roots, a normal chapter and final pagination boundaries; UpGrad's desktop root screenshot was inspected. This is limited navigation/desktop validation, not full responsive/accessibility or independent comprehension testing. No TS/config edits in these prose/skill fixes, so typecheck was not rerun. Earlier typecheck/browser failures remain in historical records and do not describe this validation result.
+
+Active skill: the 20 reviewed usefulness changes are now installed and hash-verified. Earlier candidate-only status is historical; no permission/ownership changes were made. Checkpoint advanced after journals/dossiers, preserved history, installation and site checks; final consistency audit recorded in the fix report.

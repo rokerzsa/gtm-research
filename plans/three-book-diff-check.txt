@@ -1,0 +1,2 @@
+Existing per-file baseline line endings preserved.
+CRLF-aware git diff --check -- research exit: 0

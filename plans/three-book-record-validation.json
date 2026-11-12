@@ -1,0 +1,55 @@
+[
+  {
+    "project": "PRJ-0003-upgrad-gtm",
+    "missing_new_sources": [],
+    "missing_new_claims": [],
+    "local_link_errors": [],
+    "changed_book_files": [
+      "book\\index.md",
+      "book\\part-01-the-case\\01-complete-gtm-system.md",
+      "book\\part-01-the-case\\02-premium-learning.md",
+      "book\\part-01-the-case\\03-acquisition-and-commitment.md",
+      "book\\part-01-the-case\\04-portfolio-and-integration.md",
+      "book\\part-01-the-case\\05-institutions-and-geography.md",
+      "book\\part-01-the-case\\06-economics-and-ai.md",
+      "book\\part-01-the-case\\07-lessons-and-limits.md",
+      "book\\part-01-the-case\\08-evidence-notes.md"
+    ],
+    "link_check_note": "Relative Markdown paths checked with percent-decoding; existing archive exclusions and source truth outside this static check."
+  },
+  {
+    "project": "PRJ-0001-hackerrank-gtm-history",
+    "missing_new_sources": [],
+    "missing_new_claims": [],
+    "local_link_errors": [],
+    "changed_book_files": [
+      "book\\index.md",
+      "book\\revisions.md",
+      "book\\part-00-gtm-system\\00-full-gtm-system.md",
+      "book\\part-01-origins\\01-first-products-and-hackerrank-launch.md",
+      "book\\part-02-first-customers\\02-first-customers-and-monetization.md",
+      "book\\part-03-community-and-sales\\03-community-and-employer-discovery.md",
+      "book\\part-03-community-and-sales\\04-selling-the-hiring-workflow.md",
+      "book\\part-04-later-shifts\\05-scale-and-remote-hiring.md",
+      "book\\part-04-later-shifts\\06-the-ai-transition.md",
+      "book\\part-05-lessons\\07-lessons-and-limits.md"
+    ],
+    "link_check_note": "Relative Markdown paths checked with percent-decoding; existing archive exclusions and source truth outside this static check."
+  },
+  {
+    "project": "PRJ-0002-redyhire-gtm-history",
+    "missing_new_sources": [],
+    "missing_new_claims": [],
+    "local_link_errors": [],
+    "changed_book_files": [
+      "book\\index.md",
+      "book\\part-01-the-case\\01-the-commercial-system.md",
+      "book\\part-01-the-case\\02-before-the-first-year.md",
+      "book\\part-01-the-case\\03-transferring-trust.md",
+      "book\\part-01-the-case\\04-from-evaluation-to-orchestration.md",
+      "book\\part-01-the-case\\05-lessons-and-limits.md",
+      "book\\part-01-the-case\\06-evidence-notes.md"
+    ],
+    "link_check_note": "Relative Markdown paths checked with percent-decoding; existing archive exclusions and source truth outside this static check."
+  }
+]

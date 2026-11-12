@@ -39,3 +39,7 @@ The earlier pending map is planning history. SRC-0035–0079 and completed RT ad
 Remaining work: inspect the full manuscript through coverage, depth, evidence and comprehension reviews; repair failures; validate records, routes and production build; complete the dossier; update checkpoint last. The agreement is unchanged, no numerical ceiling is assigned and external publication remains outside scope.
 
 Final disposition, 12 November: those v2 execution steps are complete. Employer coverage repair returned to public primary evidence (SRC-0080); four manuscript reviews, qualified gaps/revisions, criterion-based dossier, production build and compiled/local consistency validation passed within their documented scope. Deliver ready-for-user-review-qualified, then stop autonomous research; acceptance pending. No new scope or approval inferred.
+
+## Usefulness revision — 12 November 2026, DEC-0002
+
+Reopened under the explicit three-book goal. Reconstruct material acquisitions and strategy sequence, reconcile known facts, challenge interpretations, then inspect all nine pages for demonstrated reader answers. Revised skill candidate is the applicable requested guidance; active-path installation remains separate. Preserve cutoff and source-access limits. [Work sequence and acceptance criteria](../../../plans/three-book-usefulness-goal.md). Prior book/record snapshot preserved in review-history/usefulness-before-2026-11-12.json.

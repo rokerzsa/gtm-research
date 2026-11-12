@@ -14,6 +14,8 @@ The strategic advantage of participation beyond job searches is potential contin
 
 ## Who brought the audience—and who brought the buyer?
 
+A **2013 Forbes profile preserved by YC** gives a concrete employer connection: a programmer stood out to Quora's hiring engineers after being the only perfect scorer among more than 700 respondents to its sponsored CodeSprint. The activity made a particular skill signal visible to an employer. It illustrates why an employer might value a contest without establishing who sold Quora the event, what it paid or the incremental effect of HackerRank's existing community. [Contemporary case excerpt](https://www.ycombinator.com/blog/interviewstreet-yc-s11-in-forbes-magazine-the-prince-of-programming-contests-helps-top-coders-worldwide-get-the-best-jobs).
+
 Morgan Stanley's campus instructions describe participants arriving through college relationships and ambassadors to a HackerRank-hosted event. In that case, the platform's role cannot simply be equated with supplying the entire audience. [3](#note-3)
 
 This yields three distinct questions:
@@ -25,6 +27,8 @@ This yields three distinct questions:
 Evidence for the first does not automatically answer the next two. A salesperson could win an employer by offering community access; an employer already familiar with the community could initiate contact. Both routes are plausible, with different acquisition economics.
 
 ## Turning participation into an employer offer
+
+The public commercial record dates this more concretely than the idea of a community flywheel. In **2013**, reporting described paid database access, per-hire fees and sponsored CodeSprints; in **2015**, Hari described companies paying to conduct contests. In **2026**, the company explicitly withdrew Engage's older sourcing feature while continuing to describe events. These are successive choices about which connection between developers and employers to sell, not evidence that registered developers automatically became sales leads. [Dated commercial units](../part-02-first-customers/02-first-customers-and-monetization.md#dated-prices-reveal-different-businesses), [current narrowing](../part-04-later-shifts/06-the-ai-transition.md#where-the-broader-portfolio-is-heading).
 
 Co-founder Harishankaran Karunanidhi, also known as Hari, described fees for companies conducting community contests in a 2015 interview. The commercial offer joined an employer's interest in reaching programmers with an activity programmers could choose to enter. That supplies a reason an employer might pay, while leaving the actual contribution to revenue and the origin of employer leads unmeasured. [4](#note-4)
 

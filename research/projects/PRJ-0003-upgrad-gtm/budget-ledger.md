@@ -19,3 +19,9 @@ No numerical source/time/token ceiling assigned. No paid-source or outreach auth
 First evidence batch: three retrieved page excerpts registered as SRC-0001–0003; two corporate pages share company lineage, and the third is the transaction advisor. Two claims, no completed adversarial reviews. No paid source access or outreach undertaken. Cumulative query/token/time quantities remain unavailable.
 
 Origins/current-system pass: 34 total registered sources, 18 claims, four frozen RT targets (no completed verdicts), four open gaps. Several sources share corporate or interview lineage; source count is not independent corroboration count. SRC-0014 original public PDF downloaded (38,226,814 bytes) and one relevant page visually inspected after OCR. No paid access, outreach, login or live product test. Model/token/time totals for this research-only pass remain unavailable; goal-tool accounting includes operational troubleshooting and is not substituted for evidence quantities. No numerical cap or extension invented.
+
+## 12 November — sequential usefulness goal
+
+New goal explicitly requested; no token/time/source ceiling assigned for this revision. Public/free browsing only; no paid access/outreach/product trial. Twelve SRC identities added, one reinspection shares the old unavailable mirror's lineage; issued count is not independent-source count. Research-only token/time/cost remains unavailable; goal totals include orchestration. Prior ledgers/caps are historical and not reset.
+
+Goal-close accounting observation: tool reported 574,424 cumulative tokens and 2,637 seconds before final delivery bookkeeping. These are orchestration totals, not a verified research-only usage/cost estimate. No numerical budget assigned; no monetary spend. All three studies review-ready-qualified; new-edition user acceptance pending.

@@ -54,3 +54,7 @@ Part indexes and chapter names may be refined within these boundaries; consequen
 **High-level plan v1:** approved by the user's “lets do it” response to the explicit request for plan v1 approval; recorded in [DEC-0002](decisions.md#dec-0002). Phase content is unchanged from the presented proposal.
 
 The [P1 detailed plan v1](plans/P1-v1.md) and its attached [RC-0001 v1](contracts/RC-0001-p1-origins-v1.md) are proposed for a combined approval. This high-level plan approval alone does not authorize their source investigation.
+
+## Usefulness edition 2 — DEC-0005
+
+Reconstruct dated operating/commercial decisions and distinguish actual choices from ambiguous product chronology. Preserve existing concrete prices and early archive correction. Investigate current feedback/evaluation workflow, map founder-attention and infrastructure decisions, connect them to distribution and revenue units without claiming success. Challenge, review all seven pages and run check:library; checkpoint last. [Goal plan](../../../plans/three-book-usefulness-goal.md).

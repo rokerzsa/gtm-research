@@ -63,3 +63,7 @@ Verdict: **pass** for this same-author review, with the disclosed evidence quali
 Reviewed all nine final reading pages and their analytical dependencies. No paid/outreach/private-data escalation required. No further in-scope research is required by a demonstrated manuscript omission after the employer repair. Investigated unknowns remain unresolved; user acceptance remains pending. Delivery readiness additionally depends on the final dossier and completed validation, not merely these verdicts.
 
 Final closure: [dossier](completion-dossier.md) completed; final production build exited 0 and [compiled-route checks](validation-build.json) passed all nine pages after readiness wording was added to introduction/notes. [Record/link checks](validation-results.json) passed. These satisfy the remaining delivery checks without changing substantive review verdicts or upgrading source confidence.
+
+## Edition 3 — usefulness review
+
+The earlier strategic-depth pass was too generous for acquisition-history questions. [usefulness-review.md](usefulness-review.md) now supplies demonstrated answers/passages, material-fact reconciliation and qualified RT-0005. All nine pages reviewed; check:library passed after prose changes. Prior favorable verdicts are historical.

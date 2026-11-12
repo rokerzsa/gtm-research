@@ -4,12 +4,12 @@ Single writer; IDs are consumed on issuance and never reused. Project allocated 
 
 | Kind | Prefix | Last issued number |
 |---|---|---:|
-| Source | SRC | 35 |
-| Claim | CLM | 38 |
+| Source | SRC | 38 |
+| Claim | CLM | 41 |
 | Research contract | RC | 2 |
-| Red-team review | RT | 4 |
+| Red-team review | RT | 5 |
 | Gap | GAP | 3 |
-| Project decision | DEC | 4 |
+| Project decision | DEC | 5 |
 
 ## Issuance history
 
@@ -33,3 +33,5 @@ The initial zero counts were superseded by the fresh investigation batches below
 
 
 - DEC-0004 allocated before recording provisional user approval and authorization to commit/push the delivered research.
+
+12 November 2026: DEC-0005, SRC-0036–0038, CLM-0039–0041, RT-0005 reserved before sequential goal usefulness revision records. Prior scoped IDs/caps preserved.

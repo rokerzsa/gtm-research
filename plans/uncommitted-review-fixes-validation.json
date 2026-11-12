@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "installed_reviewed_files": 20,
+  "skill_validator": "passed",
+  "checkpoint_archives_hash_verified": 3,
+  "checkpoints_current_and_goal_complete": 3,
+  "markdown_files_checked": 94,
+  "template_parameter_links_excluded": 14,
+  "missing_local_file_targets": [],
+  "research_diff_check": "passed (CRLF recognized)",
+  "library": "16 tests, production build, 31 pages passed",
+  "typecheck": "not rerun; no TS/config changes",
+  "browser": "prior limited inspection; not repeated for checkpoint/skill fixes"
+}

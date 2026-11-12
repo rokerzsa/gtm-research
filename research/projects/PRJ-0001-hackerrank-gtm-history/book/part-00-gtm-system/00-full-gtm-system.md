@@ -18,6 +18,8 @@ The person interacting with the product is not always the person deciding to buy
 
 ## How an employer discovers, evaluates and purchases the offer
 
+There is also a distinct developer purchase. Alongside free/default community access, current support describes Plus/Infinity subscriptions for more practice, mock interviews and AI tutoring. The payer is the individual preparing, not an employer buying a hiring decision. University-facing Mimir historically added another buyer relationship, whose later withdrawal is discussed in the [market-pressure chapter](../part-04-later-shifts/05-scale-and-remote-hiring.md#mimir-buying-an-earlier-relationship-then-changing-the-classroom-offer). The complete commercial model cannot be reduced to employers paying and every developer using only free services. [Developer plans](https://help.hackerrank.com/articles/9054300007).
+
 Two initial customer needs help explain the routes into the business. The first is **evaluation of applicants the employer already has**. VMware's vendor-published case describes a screening need, peer recommendations and challenges used in its own applicant process. In that account, the recommendation explains initial interest; improving screening explains the reason to consider the product. The developer community need not have supplied either the applicants or the employer lead. [3](#note-3)
 
 The second is **reaching and engaging programmers**. Contests and employer events can give developers a reason to participate and employers a way to meet relevant people. That makes participation part of the value offered. It does not, on its own, tell us how the employer discovered HackerRank or who persuaded it to pay. The [community chapter](../part-03-community-and-sales/03-community-and-employer-discovery.md) follows those decisions separately.
@@ -63,6 +65,8 @@ Today's portfolio extends that pattern in several directions. Chakra offers to c
 The current picture includes narrowing as well as expansion: Engage's earlier candidate-sourcing feature was deprecated in April 2026, while event promotion remains described. Chakra also coexists with Screen and live Interview. The [current-pivots chapter](../part-04-later-shifts/06-the-ai-transition.md) examines these choices, including the distinction between available capabilities and planned assistance. Product breadth alone does not establish successful diversification or replacement of the earlier business. [6](#note-6)
 
 ## The cycle together—and the limits on its performance
+
+The dated sequence clarifies the strategy without imposing a single success story. Employer test attempts were advertised in **2010**; community/database/outcome offers coexisted by **2013**; **2014** selling emphasized recurring seats and account growth; **2019** Mimir bought earlier classroom access; **2020** connected remote hiring made implementation salient; **2022** funding explicitly included post-hire ambitions; **2024** SkillUp/Engage broadened the work; and **2025–26** AI evaluation and paid preparation changed the allocation of effort again. These actions repeatedly sought more useful work around skills, but Mimir withdrawal and Engage's sourcing deprecation show that breadth was also revised. Detailed chapters supply the sources and qualifications for each milestone.
 
 The connected model can now be summarized without treating every customer as following an identical funnel:
 

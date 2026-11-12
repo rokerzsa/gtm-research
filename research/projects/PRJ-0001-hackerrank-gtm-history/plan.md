@@ -140,3 +140,7 @@ DEC-0009 authorizes the inspected coherence plan. Edition 2.1 develops the intro
 ## G. Complete-GTM refinement after chapter review
 
 Direct user request authorizes skill guidance first, then overview refinement. Edition 2.2 completed and checked; [review](reviews/edition-2.2-gtm-overview-review.md). Introduction and deeper chapters retained. Review readiness does not imply chapter acceptance or new historical certainty.
+
+## Usefulness edition 2.5 — DEC-0010
+
+After UpGrad, inspect the full HackerRank reading path and raw evidence. Strengthen dated commercial/pricing decisions, Mimir acquisition/follow-through, wider customer relationship and AI transition. Preserve early customer uncertainty and strong episodes. Challenge new major interpretations, review whole book, check library, then checkpoint last. [Goal sequence](../../../plans/three-book-usefulness-goal.md).

@@ -39,6 +39,8 @@ The two needs could coexist. An employer might want to test its own applicants, 
 
 ## What changed—and what still had to be proved
 
+The timing constrains the explanation. A contemporary October **2009** account documents human-delivered candidate practice; December **2010** archives document employer test invitations; the public HackerRank developer platform appears in **2012** launch coverage; the company consolidated the InterviewStreet/HackerRank brand in **2014**. The customer and work changed before the names converged. A retrospective claim that the company simply “pivoted to community” would erase the employer testing business that was already being sold. These milestones establish sequence without settling the exact date of every earlier experiment. [1](#note-1) [2](#note-2) [5](#note-5) [7](#note-7)
+
 The early choices changed more than a product name. Candidate preparation, employer assessment and candidate discovery involved different customer tasks and different delivery requirements. Moving toward employers connected the offer to hiring work; extending toward discovery introduced the need to attract developers beyond an immediate test invitation.
 
 These changes established possible reasons to use and pay for the products. They did not establish how much the community contributed to employer sales, or settle the exact timing and overlap of every experiment. [8](#note-8)

@@ -5,7 +5,7 @@ sidebar_position: 8
 
 # Evidence notes and reading limits
 
-This book draws on 89 registered source records, not 89 independent confirmations. Records include overlapping company communications, interested counterparties, journalism, terms, original institutional artifacts and an unavailable financial-statement lead. Retrieval used public/free material without outreach, paid access, registration or live product testing. The event cutoff is 11 November 2026; some retrieval and review occurred on 12 November.
+This book draws on 101 issued source records, not 101 independent confirmations. Records include overlapping company communications, interested counterparties, journalism, terms and institutional/legal artifacts. A previously unavailable FY22 statement mirror was recovered during the usefulness revision; its two access records are the same lineage. Retrieval used public/free material without outreach, paid access, registration or live product testing. The event cutoff is 11 November 2026; retrieval and revision continued on 12 November.
 
 ## Origins and outcomes
 
@@ -17,13 +17,17 @@ The IIIT Bangalore annual report was downloaded from the institution, rendered a
 
 The Sushant University compilation was inspected at PDF pp.145–149, including the poor/blank page. Scanned contract pages were rendered and visually read; failed OCR was not used to guess clauses. The amendment establishes dated contractual terms, not performance or today's price. Uninspected master agreements and work orders remain outside the conclusion.
 
-School of Technology policies explicitly allocate degree and tuition responsibility to universities. ATLAS institutional reports establish activity and relationships; the unavailable financial mirror does not establish current accounting control. The Singapore institute's registration description comes from its brochure, not a directly inspected regulator entry. Vanuatu sources document a 2023 launch/enrollment initiative, with later operating scale unverified. None establishes universal recognition or professional licensing eligibility.
+School of Technology policies explicitly allocate degree and tuition responsibility to universities. ATLAS institutional reports establish activity and relationships; a recovered FY22 financial mirror does not establish current accounting control. The Singapore institute's registration description comes from its brochure, not a directly inspected regulator entry. Vanuatu sources document a 2023 launch/enrollment initiative, with later operating scale unverified. None establishes universal recognition or professional licensing eligibility.
 
 The GATE Academy announcement contradicts an unqualified first-ever 2026 test-prep entry. Exampur's later failure supersedes an earlier portfolio account. Current party submissions and older transaction announcements cannot be reconciled into a continuous legal ownership history without further records. The book preserves this boundary.
 
 For Unacademy, party submissions describe the proposed combination; CCI's notice establishes approval; closing reporting and the buyer's legal advisor support completion. The detailed regulator order and individual brand schedules were not recovered. Pre-close brand reporting plus whole-group closing reporting informs the commercial map, with exact legal schedules qualified. The book makes no claim about realized integration results.
 
 ## Friction and financial interpretation
+
+Transaction reconstruction now separates disclosed consideration, media estimates, accounting entries and later growth commitments. Talentedge's reports are inconsistent; KnowledgeHut's global press estimate and entity-level accounting amount are not reconciled. Harappa reporting that called the deal closed in July differs from later seller-counsel treatment of signing and expected first closing. The chronology preserves those distinctions instead of choosing false precision. Internshala's acquired stake is supported by a separate report rather than inferred from ambiguous payment wording.
+
+An official February 2024 merger order supports a specific legal coordination step and records an INSOFE transaction revision following reported placement difficulty. Its recited participant business account is not an independent outcome study. Earlier appointed dates, sanction and required filings remain different milestones. PDF text was inspected; web screenshots failed, so no visual check of that order or FY22 mirror is claimed. These recoveries do not supply the detailed Unacademy competition order or later audited cash/segment bridges.
 
 INSOFE protest reporting and the company response must be read together: a discontinued program is acknowledged, city-wide closure is denied, and loan remedies are promised rather than verified complete. The reports share the initial protest lineage. Neither establishes a final judgment, group-wide incidence or complete closure. A 2022 UGDX campus target likewise remains a plan, separate from current institutional branding and later support centres. Harappa's consumer-course brochure has 2022 admissions dates; its survival online does not establish a currently available cohort.
 

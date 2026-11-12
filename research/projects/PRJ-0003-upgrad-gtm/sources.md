@@ -1,6 +1,6 @@
 # PRJ-0003 — sources
 
-[SRC-0081–0089](evidence/overall-review-sources.md) document evidence recovered during the user-requested overall review, including previously omitted businesses and material counterevidence. Current registry total: 89; earlier batch descriptions below remain access history.
+[SRC-0081–0089](evidence/overall-review-sources.md) document evidence recovered during the user-requested overall review, including previously omitted businesses and material counterevidence. Earlier registry total: 89; current issued total 101; earlier batch descriptions below remain access history.
 
 Registry lookup: SRC-0001–0003 are below; [SRC-0004–0014](evidence/history-and-transaction-sources.md) cover origins, historical marketing and the transaction. These are partitions of one source registry, not separate evidence stores.
 
@@ -21,3 +21,5 @@ Canonical ID: PRJ-0003:SRC-0002. [Official page](https://www.upgrad-enterprise.c
 ## SRC-0003 — transaction counsel on Unacademy acquisition
 
 Canonical ID: PRJ-0003:SRC-0003. [Khaitan & Co transaction note](https://www.khaitanco.com/firm-matter/upgrad-education-private-limited-%20100-acquisition-of-unacademy). Producer/publisher: Khaitan & Co, buyer's legal advisor. Published 10 September 2026; exact close event date not given in inspected passage. Status: inspected retrieved substantive note, lines 48–63. Reports advising UpGrad Education Private Limited on a 100% acquisition of Sorting Hat Technologies Private Limited (Unacademy), USD205m consideration, due diligence on subsidiaries, competition clearance and transaction documents. Direct deal participant, with promotional interest; neither the agreements nor regulator order were inspected. CLM-0002. Independent of syndicated company financial releases but not disinterested proof of deal performance/integration.
+
+[Usefulness revision SRC-0090–0101](evidence/usefulness-revision-sources.md) supplements the existing registry; SRC-0092 reopens the same artifact as SRC-0051, not a separate lineage. Prior count 89 remains history; current issued SRC count 101.

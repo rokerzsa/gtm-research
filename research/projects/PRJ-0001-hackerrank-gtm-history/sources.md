@@ -1471,3 +1471,35 @@ The canonical Fortune India page was accessible and inspected. Its AMP variant r
 ### SRC-0051 v2 access addendum — 11 November 2026
 
 Direct pricing remains cookie-blocked. A substantive current indexed extract now exposes annual plans, usage allowances and inclusion of Chakra alongside Screen/Interview. Treat this as indexed-only at inspection, not a recovered full page. No duplicate source draw; CLM-0138. No numeric prices required for the revised argument.
+
+## Source record — PRJ-0001:SRC-0076
+
+**Canonical ID:** PRJ-0001:SRC-0076. [Developer subscription plans](https://help.hackerrank.com/articles/9054300007), first-party help page; search displays 18 September 2025, live page relative “1 year ago”; accessed 12 November 2026, full plan/upgrade descriptions inspected (lines 8–57). Basic default access versus Plus/Infinity premium practice, AI mock interviews/tutor and monthly/quarterly subscriptions. Exact launch, prices and paid adoption unknown. Supports CLM-0141; candidate payment is distinct from employer hiring plans. No purchase or account created.
+
+## Source record — PRJ-0001:SRC-0077
+
+**Canonical ID:** PRJ-0001:SRC-0077. [Mimir free-access decision](https://pages.hackerrank.com/blog/mimir-classroom-free-for-schools), HackerRank/Prahasith Veluvolu. Retrieved page labels March 2025 but body discusses COVID onset and free service through 2020–21; historical context, original publication date unverified. Accessed 12 November 2026, lines 13–24 inspected: lower pricing plan, free school access, planned content/platform support. Source for actual announced post-acquisition action, not an achieved integration/revenue series. CLM-0142.
+
+## Source record — PRJ-0001:SRC-0078
+
+**Canonical ID:** PRJ-0001:SRC-0078. [Michigan State University scholarship profile](https://entrepreneurship.msu.edu/news/rajmeet-chandok-and-aman-thamminana-awarded-kelly-a-ford-technology-scholarship), 2023 scholarship context, exact publication date not established. Accessed 12 November 2026; body line 86 describes students' classroom Mimir platform shutting down and replacement by Coding Rooms. University-origin account from affected students; not official shutdown notice, precise global closure date or acquired-business valuation. CLM-0142; independent counterpoint to acquirer's prospective integration story.
+
+## Source record — PRJ-0001:SRC-0079
+
+**Canonical ID:** PRJ-0001:SRC-0079. [YC Mimir profile](https://www.ycombinator.com/companies/mimir), undated current profile accessed 12 November 2026. Inspected founding/team descriptions and founder career account, lines 40–79. Founded 2014, acquired 2019; cofounder describes joining HackerRank engineering. Stale commercial counters not adopted as current active university footprint. Interested accelerator/actor lineage; not acquisition price or present product availability. CLM-0142.
+
+## Source record — PRJ-0001:SRC-0080
+
+**Canonical ID:** PRJ-0001:SRC-0080. [Mimir surviving homepage](https://www.mimirhq.com/), copyright 2020; accessed 12 November 2026, full extracted text lines 0–31. Shows classroom/IDE/grading features and demo/login links; does not expose shutdown banner in retrieved text. Non-www failed. Contradicts inferring current operation from surviving marketing pages, but alone establishes neither closure nor activity. MakersClaw/Reddit shutdown/date claims were leads; MSU source inspected for bounded follow-through. CLM-0142, RT-0007.
+
+### Usefulness reinspection of existing sources — 12 November 2026
+
+SRC-0051 remains direct-cookie-blocked; new substantive first-party indexed extraction shows Starter $79/month equivalent ($948 annually), 60 candidate attempts/year; Pro $419 ($5,028 annually), 360; unlimited users on both, Chakra/Screen/Interview included, $20 additional attempts. Access form remains indexed-only, not direct page, purchase or exact effective-change date. Conflicting older vendor marketing/third-party prices were found; current offer is not projected backward. CLM-0143.
+
+SRC-0011 YC-preserved Forbes excerpt re-opened: $3,000–5,000 monthly database access, $10,000/hire and sponsorship; SRC-0026/TechCircle reinspection distinguishes recruiter-priced $3,000–5,000 monthly account and claimed retention from database-access unit. SRC-0036/ERE explicitly describes annual seat subscriptions and growing customer spend. SRC-0047 re-opened: 17 December 2019 acquisition, classroom capabilities, early developer relationships; release does not disclose price/terms. SRC-0052 re-opened: $60m Series D, post-hire/alliances/services/customer-success/integration plans, not achieved outcomes. SRC-0054 launch re-opened: 13 March 2024 SkillUp/Engage, shared AI-lifecycle rationale. Exact old IDs below are reconciled against canonical lookup before dependent references.
+
+## Source record — PRJ-0001:SRC-0081
+
+**Canonical ID:** PRJ-0001:SRC-0081. [Developer billing FAQ](https://help.hackerrank.com/articles/9157064719-payments-and-billing-faqs), live first-party help page “updated 12 months ago”; accessed 12 November 2026, lines 7–64 inspected. Describes purchased mock-interview credits, emailed invoices, monthly/quarterly subscriptions and paid upgrades. Commercial terms/workflow, not an observed payment or paid-user series. CLM-0141; source supports distinction from employer assessment invitations.
+
+SRC-0077 recovery addendum: distinct adversarial pass recovered [canonical post](https://www.hackerrank.com/blog/mimir-classroom-free-for-schools/) with explicit **27 April 2020** date and same historical body, lines 59–79. The migrated 2025 label is superseded as publication date for this account; no new independent lineage. Book repaired accordingly. Earlier access wording retained as history.
