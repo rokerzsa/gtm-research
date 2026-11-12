@@ -1,0 +1,39 @@
+{
+  "status": "passed",
+  "books": [
+    {
+      "company": "HackerRank",
+      "sidebar": "hackerRankBook",
+      "pages": 15,
+      "firstPrevious": null,
+      "lastNext": null
+    },
+    {
+      "company": "RedyHire",
+      "sidebar": "redyHireBook",
+      "pages": 7,
+      "firstPrevious": null,
+      "lastNext": null
+    },
+    {
+      "company": "UpGrad",
+      "sidebar": "upGradBook",
+      "pages": 9,
+      "firstPrevious": null,
+      "lastNext": null
+    }
+  ],
+  "pages": 31,
+  "checks": [
+    "company sidebar ancestry and association",
+    "exact registered reading sequence and manual Next/Previous links",
+    "Previous/Next and isolated terminal boundaries",
+    "supplemental guide isolation",
+    "complete included-page registration",
+    "stable company-root routes and compiled pages",
+    "accessible home entries and operational-page exclusion",
+    "rendered HTML sidebar containment and configured baseUrl",
+    "cross-book pagination and flat-root negative controls"
+  ],
+  "limitations": "Compiled metadata/HTML inspection; not a browser visual or accessibility test."
+}

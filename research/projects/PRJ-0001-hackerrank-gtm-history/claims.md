@@ -3735,3 +3735,19 @@ This annotation supersedes generic pending aggregate markers for the exact concl
 ## RC-0004 review-state reconciliation
 
 RT-0006's completed adversarial pass covers CLM-0125–0140. Descriptive source statements remain supported only as attributed observations/documentation; aggregate interpretation is qualified. CLM-0130's original pending formulation is narrowed by CLM-0139 and the RT verdict, not promoted to commercial certainty. CLM-0140 is a qualified whole-system model with unmeasured retention/expansion effects. This supersedes generic pending labels for these reviewed targets; underlying outcomes and earlier gaps remain unresolved.
+
+## Claim record — PRJ-0001:CLM-0141
+
+Canonical ID: PRJ-0001:CLM-0141. Reported commercial offer; supported, medium confidence in dated availability boundaries; qualified RT-0007. SRC-0076/0081 describe optional paid developer preparation subscriptions/credits alongside default access. Payer differs from employer hiring plans; no verified adoption, launch date, prices or revenue share. This corrects an employer-only monetization model, not the historical employer pivot.
+
+## Claim record — PRJ-0001:CLM-0142
+
+Canonical ID: PRJ-0001:CLM-0142. Acquisition/action history and bounded outcome; supported with attribution; medium confidence; qualified RT-0007. SRC-0047 announces Mimir 17 December 2019; terms undisclosed in release. SRC-0079 supplies target/founder context; SRC-0077 canonical post dates free-access decision to 27 April 2020. SRC-0078 reports university-experienced withdrawal/replacement; SRC-0080 surviving marketing does not prove current operation. Global shutdown date/cause, integration destination and acquisition returns remain unverified. Announced rationale cannot stand in for subsequent lifecycle.
+
+## Claim record — PRJ-0001:CLM-0143
+
+Canonical ID: PRJ-0001:CLM-0143. Indexed commercial terms / interpretation; supported for inspected indexed text, medium confidence; qualified RT-0007. SRC-0051 revision extraction lists Starter USD948/year/60 attempts, Pro USD5028/year/360, unlimited users and bundled Chakra/Screen/Interview, with extra attempts. Direct retrieval remains cookie-blocked; current terms are not checkout/contract or exact migration-date proof. Packaging could drive plan/usage expansion, not necessarily a separate Chakra revenue stream; realized effects unknown.
+
+## Claim record — PRJ-0001:CLM-0144
+
+Canonical ID: PRJ-0001:CLM-0144. Historical synthesis / conditional strategy interpretation; supported for sequence, medium confidence, qualified RT-0007. SRC-0007/0002/0011/0026/0036 show differing test, database, hire and recurring-seat units. SRC-0052's 2022 post-hire use-of-funds intention precedes 2023 pressure report SRC-0053 and 2024 launch SRC-0054. New preparation/AI offers extend work around skills but do not establish one causal pivot or successful diversification. Mimir/Engage withdrawal evidence tests a monotonic breadth story. Existing claims and confidence retained.

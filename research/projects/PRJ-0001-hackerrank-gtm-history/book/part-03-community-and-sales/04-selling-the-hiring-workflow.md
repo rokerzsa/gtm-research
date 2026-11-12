@@ -31,11 +31,13 @@ Historical selling descriptions make these plausible expansion paths. Public evi
 
 ## Broader segments require a broader commercial proposition
 
+The organizational commitment was visible by **September 2014**. The sales director described annual seat subscriptions, growing existing-customer spend and a US team predominantly focused on sales and marketing, alongside development in India. This matters because employer acquisition was being staffed as commercial work; it was not delegated entirely to developer popularity. Integration and account development could then increase the work covered within a relationship. The source is an interested contemporary interview, so its customer counts and ambitions are not a measured expansion cohort. [Sales organization and model](https://www.ere.net/articles/startup-spotlight-hackerrank-helps-employers-engineer-their-technical-recruiting-process).
+
 Banks, retailers and other employers also hire programmers. The company's 2018 enterprise-investment plans and reported cross-industry customers show an ambition beyond software-product companies. Such buyers may need the product to fit a larger operating environment; a coding contest alone would not describe that purchase fully. [3](#note-3)
 
 The relevant strategic choice was whether to remain a narrow tool for a single hiring task or become useful across a larger process. Broader coverage can create more reasons to use the supplier and more complexity to implement. Actual acquisition, renewal and expansion effects remain unisolated.
 
-A broader workflow therefore changes both sides of the relationship: it creates more potential value for the employer and more responsibility for the supplier. The question becomes whether the company can deliver that value repeatedly as buyers and hiring conditions change. Wider enterprise selling, remote hiring and later pressure to protect existing customers put that question into focus in the [next chapter](../part-04-later-shifts/05-scale-and-remote-hiring.md).
+A broader workflow therefore changes both sides of the relationship: it creates more potential value for the employer and more responsibility for the supplier. The question becomes whether the company can deliver that value repeatedly as buyers and hiring conditions change. Wider enterprise selling, remote hiring and later pressure to protect existing customers put that question into focus in the [next section](../part-04-later-shifts/index.md).
 
 ## Notes and sources
 

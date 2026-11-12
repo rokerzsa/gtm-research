@@ -7,6 +7,8 @@ sidebar_position: 6
 
 This study was freshly investigated against public/free sources and accessed through 11 November 2026. The earlier local draft supplied leads only. The book distinguishes source testimony from verified historical events and the author's strategic interpretation. Describing a plausible mechanism does not mean its causal effect has been measured.
 
+The user-requested usefulness revision on 12 November retained that event cutoff and re-opened current pricing, workflow and founder/engineering sources. Three additional source records cover the company-feed feedback account, candidate interview guide and Judge0's deployment options. The feedback post's exact date remains unknown; current pages are not used to manufacture an earlier release. Prior full book/record text is preserved separately from the public reading path.
+
 ## Dates and archives
 
 Original public LinkedIn publication metadata was inspected for six key posts. Converted to India Standard Time, these dates are:

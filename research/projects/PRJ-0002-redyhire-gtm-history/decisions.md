@@ -46,3 +46,7 @@
 **Actual statement:** “lets commit the changes, approve for now and push”. This follows delivery of the seven-page book with explicit evidence qualifications and validation limitations.
 
 **Consequence:** record the current deliverable as provisionally approved, retaining its unresolved historical/commercial questions. Commit the research book, evidence/control records, preserved intake and workspace navigation changes, and push the current branch to its configured origin. Approval does not resolve factual unknowns, authorize further autonomous investigation or add publication/deployment scope. Earlier ready-for-review audit remains preserved as the pre-approval state.
+
+## DEC-0005 — sequential usefulness goal
+
+12 November 2026. User explicitly requested improving current UpGrad, HackerRank and RedyHire docs one by one using the new skill and completing all as a goal. This book follows the first two completed revisions. In-scope public research, evidence/analysis revisions and reviews authorized; prior cutoff/general audience/no-personalization limits persist. No numerical ceiling assigned; no paid access/outreach/publication/commit/push authorized for this new revision. Earlier provisional approval remains history, not acceptance of new edition.

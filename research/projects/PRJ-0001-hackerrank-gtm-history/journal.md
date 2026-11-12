@@ -1,5 +1,9 @@
 # Investigation journal — PRJ-0001
 
+## Site-only maintenance note — 12 November 2026
+
+Under the user's shared-library deep review, a new navigation checker detected two inline “next chapter” links that skipped the next section introduction. Corrected full-GTM → origins index and employer-workflow → later-shifts index, including link wording. No company evidence, research conclusion, numbered investigation entry, source/claim allocation or acceptance changed. Curated sequence and URLs preserved. Review/validation: [site navigation review](reviews/site-navigation-review.md); 16 regression tests, build, 31-page shared verification and typecheck passed locally. No deployment or browser visual pass claimed.
+
 [Project index](index.md)
 
 ## Entry 1 — First P1 source inspection
@@ -636,3 +640,16 @@ Final production build passed without broken-link/anchor warnings. Exactly 13 ge
 - Preserve consequential corrections or retractions instead of overwriting history without explanation.
 - Never confuse a proposed source to inspect with a source actually inspected.
 - Record substantive sources/claims/concepts first, then update indexes and journal references, validate, and advance the checkpoint last.
+
+## Usefulness reopening — 12 November 2026
+
+DEC-0010 under explicit sequential goal. Prior book/records snapshot preserved. Inspected eight substantive chapters/intro plus section navigation, source/claim records and revised skill candidate. Detected omitted numerical commercial history, Mimir follow-through and developer subscription motion. Allocated identities before new records; internal revision/reviews active, no acceptance inferred.
+
+## Edition 2.5 review/validation complete
+
+Six new source records and four claims persisted; current/previous commercial facts reconciled. Counter-search recovered Mimir canonical date and tested product withdrawal, pricing and payer boundaries. Full reading path and four review dimensions recorded; final check:library exited 0 after final book changes. Source counts are issued records, not independent lineages. Completion/index/usage/revision records updated before checkpoint. Next goal work RedyHire.
+
+
+## 12 November 2026 — uncommitted-review fixes
+
+User requested closure of the review findings. Installed all 20 hash-guarded reviewed skill files into the active skill; no permission/ownership changes. Consolidated this project checkpoint to one current state after preserving its former text/hash in review-history/checkpoint-before-review-fixes-2026-11-12.json. The three-book goal is complete and delivered; new-edition acceptance remains pending. No source/claim confidence, reader content, route, research scope or Git publication changed. [Fix/validation report](../../../plans/uncommitted-review-fixes.md).

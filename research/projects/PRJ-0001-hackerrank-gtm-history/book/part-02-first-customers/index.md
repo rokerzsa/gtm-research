@@ -1,3 +1,7 @@
+---
+displayed_sidebar: hackerRankBook
+---
+
 # From an employer proposition to a purchase
 
 The move toward employer assessment left a practical question: how would an unfamiliar product reach a hiring team and become something it paid for? [First customers and commercial-model choices](02-first-customers-and-monetization.md) examines the early relationships and the different purchases around testing, talent access and recurring software.

@@ -44,3 +44,12 @@ Deliver [the book](book/index.md) with key findings, unknowns and actual validat
 ## Subsequent user decision
 
 DEC-0004 records the user's “approve for now” and authorization to commit/push. Current acceptance is provisional; the readiness verdict above records the actual pre-approval audit. Evidence qualifications and technical limitations remain unchanged. No additional research or deployment is authorized by this decision.
+
+## Edition 2 completion — DEC-0005
+
+User-requested sequential goal fulfilled for this third book. [Usefulness review](usefulness-review.md) supplies actual passages answering eight central questions. Current records: 38 SRC, 41 CLM, five qualified RT and three investigated gaps; K-000003 retained with dependency qualification. Seven reader pages revised/reviewed. Final check:library after all three books passed (16 tests/build/31-page compiled+HTML checks). Browser home cards, company roots and intro/middle/final pagination inspected for all books; limited desktop visual spot-check, not full responsive/accessibility testing. No TS/config changes or independent reader test. Ready-for-user-review-qualified; edition 2 acceptance pending. No publication/commit/push performed.
+
+
+## 12 November 2026 — uncommitted-review fixes
+
+User requested closure of the review findings. Installed all 20 hash-guarded reviewed skill files into the active skill; no permission/ownership changes. Consolidated this project checkpoint to one current state after preserving its former text/hash in review-history/checkpoint-before-review-fixes-2026-11-12.json. The three-book goal is complete and delivered; new-edition acceptance remains pending. No source/claim confidence, reader content, route, research scope or Git publication changed. [Fix/validation report](../../../plans/uncommitted-review-fixes.md).

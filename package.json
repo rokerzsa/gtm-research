@@ -8,7 +8,10 @@
     "build": "docusaurus build",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "verify:library": "node scripts/verify-research-library.mjs",
+    "test:library": "node --test scripts/library-validation.test.mjs",
+    "check:library": "npm run test:library && npm run build && npm run verify:library"
   },
   "dependencies": {
     "@docusaurus/core": "3.10.2",

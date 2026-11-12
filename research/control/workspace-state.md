@@ -4,9 +4,9 @@
 |---|---|
 | Workspace ID | W-GTM-RESEARCH-001 |
 | Convention version | 1.0 |
-| Last issued project number | 2 |
+| Last issued project number | 3 |
 | Last issued concept number | 3 |
-| Unresolved recovery | none; PRJ-0002 allocations, records and local links reconciled 11 November 2026; ready-for-user-review-qualified |
+| Unresolved recovery | none; 12 November sequential usefulness revisions reconciled for PRJ-0003 edition 3, PRJ-0001 edition 2.5 and PRJ-0002 edition 2; all ready-for-user-review-qualified, new acceptance pending |
 
 ## Allocation invariants
 

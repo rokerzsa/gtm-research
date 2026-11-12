@@ -16,6 +16,8 @@ An interested founder or general reader should be able to follow the case withou
 
 ## How the argument develops
 
+The account follows the commercial commitments as well as the ideas: dated test/database/hiring prices, annual account selling, Mimir's acquisition and subsequent classroom lifecycle, the post-hire investment sequence, and current employer/developer packaging. Those details let us ask what each decision changed in the business. A launch, acquired audience or advertised plan is not treated as an achieved commercial result.
+
 We begin with [HackerRank's complete GTM system](part-00-gtm-system/00-full-gtm-system.md). This gives a map of the business: who receives value, who pays, how an employer can become a customer, and what makes continued use possible. The chapters that follow examine how that system took shape and where it is changing.
 
 **Finding a business around the hiring problem.** The [early product choices](part-01-origins/01-first-products-and-hackerrank-launch.md) explain the move from helping candidates prepare to helping employers evaluate. The [first-customer and monetization chapter](part-02-first-customers/02-first-customers-and-monetization.md) then asks how that proposition reached buyers and what they were being asked to purchase. Together, they establish the difference between solving a problem and building a commercial relationship around it.

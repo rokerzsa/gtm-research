@@ -153,3 +153,19 @@ The job-creation guide at `https://www.redyhire.com/help/how-to-create-a-job` re
 ## SRC-0035
 
 **ID:** PRJ-0002:SRC-0035. [SourcrLab RedyHire profile](https://sourcrlab.com/tools/redyhire), self-displayed last review August 2026; indexed body inspected on access 11 November 2026. Explicitly discloses no live recruitment use and vendor-derived information. Contains conflicting statements about whether public prices exist. CLM-0038; RT-0004. Useful to reject apparent independent corroboration; not used as a source of performance, legal advice or absence-of-market claims.
+
+## SRC-0036
+
+**ID:** PRJ-0002:SRC-0036. [Official company LinkedIn feed](https://in.linkedin.com/company/redyhire), accessed 12 November 2026, inspected founder post/repost body at lines 129–132. Describes candidate syntax-recall feedback, built-in references, additional languages and compile/run problems in agentic interview. Original post date unverified; relative labels not decoded. Actor/vendor lineage, not independent improvement benchmark or proof these features launched after Judge0. CLM-0039. Feed also shows own recruiting workflow; not external buyer proof. Unrelated RediHire/RedHire entities excluded.
+
+## SRC-0037
+
+**ID:** PRJ-0002:SRC-0037. [Candidate interview walkthrough](https://www.redyhire.com/help/how-to-attend-an-ai-interview), undated first-party guide; accessed 12 November 2026, text steps 1–10, especially lines 69–137 and 165–215. Registration, camera/microphone, entire-screen sharing, setup checks, conversation and optional coding/follow-ups. Text inspected, not screenshots visually verified or a live interview. Supports candidate adoption work and CLM-0041; no completion rate, privacy/legal judgment or independent reliability assertion.
+
+## SRC-0038
+
+**ID:** PRJ-0002:SRC-0038. [Judge0 official site](https://judge0.com/), undated live provider docs accessed 12 November 2026; platform/features and deployment options inspected, lines 2–27 and FAQ. Open-source execution component supports self-hosted or cloud arrangements. External primary source about its own product, not proof of RedyHire deployment or cost. CLM-0040; prevents equating component adoption with buying the company or eliminating all infrastructure responsibility. No source commands executed or software installed.
+
+## Usefulness reinspection — 12 November 2026
+
+SRC-0003 rate card re-opened and unchanged in inspected INR terms; peak daily user count, monthly no upfront commitment and metered services retained. SRC-0006 original founder body explicitly questions product-sells-itself belief after taking growth; prior recovered publication metadata remains authority for 10 April 2026. SRC-0018 engineering account additionally explains always-on multi-zone AWS versus reported on-demand overhead, not a measured savings amount. SRC-0010/0008 human controls and provider SRC-0020/0021 re-opened; service fees/related brands do not prove ownership, a software pricing pivot or partner-sourced revenue. Job-creation guide still failed retrieval; no content inferred.

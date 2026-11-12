@@ -18,6 +18,12 @@ These connections explain why the whole GTM cycle matters. A product choice chan
 
 ## How to use the case's lessons
 
+Three concrete episodes sharpen the lessons. The **2010 per-test invite schedule**, **2013 database/per-hire offers** and **2014 annual seat model** show why a price comparison without the unit purchased misreads the strategy. The company was testing different ways to charge for evaluation, access and recurring work; the records do not establish a monotonic increase in price or margin.
+
+**Mimir tests the difference between acquiring capability and maintaining a customer proposition.** The 2019 purchase sought earlier developer/classroom relationships; the later free-access decision changed terms during disruption; a university account reports subsequent service withdrawal. A surviving website and retained technical expertise cannot prove that the original institutional offer remained active. The lesson applies to acquisitions justified by access: track the acquired customer's actual service and follow-through, not only ownership or a founder's next role.
+
+**Broader relationships can reduce dependence on one task while increasing the proof burden.** The 2022 post-hire investment intention preceded SkillUp's 2024 launch; current paid developer preparation adds a different payer, and Chakra's bundling offers another workflow to employer accounts. Those choices can diversify the work served around skills, but require distinct reasons to buy. Candidate practice, employee development and an employer's automated evaluation should not be rolled into one conversion funnel or assumed to solve the 2023 demand pressure.
+
 Follow a choice through to the customer's work and the reason to pay. Then ask how the buyer discovers, evaluates, adopts and continues using the offer. That prevents an attractive product idea from substituting for a commercial explanation.
 
 Compare alternatives at the moment of change. A reusable test, a human-led work exercise, an automated interviewer and assistance for an interviewer solve related problems with different costs and trust requirements. The relevant lesson is to understand that allocation of work, not assume the newest form is superior.

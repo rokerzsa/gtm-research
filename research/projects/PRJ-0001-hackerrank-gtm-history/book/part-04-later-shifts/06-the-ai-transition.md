@@ -44,6 +44,10 @@ The buyer evaluation may nevertheless be more demanding. Hiring teams can compar
 
 ## The new offer also changes what the buyer must trust
 
+The available commercial terms make this an account-expansion proposition rather than merely a new product name. In the first-party **search-indexed offer retrieved during the 12 November review**, Starter lists **USD948/year** (USD79 monthly equivalent) for **60 annual candidate attempts**, and Pro **USD5,028/year** (USD419 equivalent) for **360**. Both list unlimited users and Chakra, Screen and Interview; additional attempts are USD20. Direct retrieval remains cookie-blocked, so these are indexed advertised terms, not a verified checkout, customer contract or precise historical change date. Older vendor/third-party pages show different prices and allowances. [Current pricing locator](https://www.hackerrank.com/work/pricing).
+
+The unit matters: removing a user-seat limit need not make usage unlimited. Bundling an AI interviewer could encourage an existing customer to try another workflow, while candidate-attempt allowances still constrain consumption. A new workflow may therefore affect plan selection and usage rather than create a separately invoiced Chakra business. Actual realized prices, product-specific revenue and migration remain unknown. This is a more specific commercial hypothesis than assuming automation simply makes hiring cheaper.
+
 **Throughput versus trust.** Automated interaction could reduce scheduling and interviewer effort. But if employers repeatedly re-check reports, some work moves into review rather than disappearing. Evidence of actual total time saved would matter more than a count of interviews conducted.
 
 **Standardization versus useful adaptation.** A common plan can support comparisons, while follow-up questions can explore individual responses. The buyer still needs confidence that this variation produces a useful comparison. Standardized instructions do not by themselves establish fair or valid outcomes.
@@ -71,6 +75,10 @@ One retraction is important: Engage's candidate-sourcing feature was deprecated 
 These directions share some assessment expertise and developer relationships, but not necessarily a buyer or budget. Their presence does not establish a single successful diversification strategy. The [complete GTM chapter](../part-00-gtm-system/00-full-gtm-system.md) connects them without assuming all customers buy every offer.
 
 ## A conditional view of where this could lead
+
+Developer-side monetization supplies another direction that the earlier book omitted. First-party support distinguishes default **Basic** access from **Plus/Infinity** subscriptions for additional mock interviews, tests and AI tutoring, with monthly or quarterly subscription options. Developers are consequently not just a free audience that might attract employers; some advertised services ask them to pay directly for preparation. This is a return to the candidate's problem with a different delivery model from the original human-arranged practice service. It does not establish paid adoption, revenue share or a dated launch of every tier. [Developer subscription documentation](https://help.hackerrank.com/articles/9054300007).
+
+The employer and developer purchases must stay separate. A candidate paying for practice is not buying a job or an employer's assessment decision. AI can make preparation easier to deliver while also changing what employers consider valid evidence. The resulting strategic tension—serve learning and assess ability in an AI-assisted environment—helps explain the relevance of realistic work and inspectable evaluation. It does not prove that practice users convert into either hires or enterprise accounts.
 
 If employers trust the output and incorporate it into decisions, Chakra could move HackerRank further from supplying tests toward delivering a repeatable evaluation service. If that trust remains limited, assistance for human interviewers could be a more acceptable path. Both could coexist by role or customer.
 

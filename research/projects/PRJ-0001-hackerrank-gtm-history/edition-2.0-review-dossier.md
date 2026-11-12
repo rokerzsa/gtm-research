@@ -23,3 +23,12 @@ One canonical complete-GTM chapter now integrates the employer/customer model fr
 [Four-review record](reviews/edition-2.0-strategy-review.md) · [RT-0006](reviews/RT-0006-chakra-and-full-gtm-revision.md) · [Book](book/index.md)
 
 **Disposition:** Ready for user review with qualifications; final checks recorded in Journal Entry 54. User acceptance is pending. Stop autonomous research at delivery; subsequent user-led chapter review can reuse the evidence. No commit, merge, publication or new external commitment is implied.
+
+## Current edition 2.5 completion addendum
+
+12 November 2026, DEC-0010. [Usefulness review](reviews/edition-2.5-usefulness-review.md) supersedes earlier blanket depth/readiness claims for this revision. 81 issued SRC, 144 CLM, seven RT (new RT-0007 qualified), prior GAP dispositions retained with addendum. Full 15-page reading path reviewed; Mimir follow-through and paid developer motion repaired. Final check:library after all reader edits exited 0: 16 tests, production build, 31-page metadata/rendered-HTML verification. No TS/config changes, no visual or independent reader pass claimed. Ready-for-user-review-qualified; acceptance pending for new edition. Continue goal with RedyHire.
+
+
+## 12 November 2026 — uncommitted-review fixes
+
+User requested closure of the review findings. Installed all 20 hash-guarded reviewed skill files into the active skill; no permission/ownership changes. Consolidated this project checkpoint to one current state after preserving its former text/hash in review-history/checkpoint-before-review-fixes-2026-11-12.json. The three-book goal is complete and delivered; new-edition acceptance remains pending. No source/claim confidence, reader content, route, research scope or Git publication changed. [Fix/validation report](../../../plans/uncommitted-review-fixes.md).

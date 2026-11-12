@@ -80,3 +80,17 @@ The origin interpretation has changed. CLM-0007 alone was insufficient: public a
 Review disposition does not increase underlying confidence: reported outcomes remain unverified even after review. CLM-0002, 0011, 0014–0015, 0017, 0019, 0024, 0027, 0029, 0033 are bounded descriptive propositions, not standalone major causal conclusions. Their use in aggregate conclusions is still covered above.
 
 Book dependency: origins chapter derives from CLM-0004–0007, 0014–0017, 0027, 0032–0034; trust chapter from CLM-0006, 0008–0009, 0018–0019, 0021, 0025, 0028, 0037; product chapter from CLM-0010–0013, 0020, 0022–0023, 0026, 0029–0031, 0035–0036. Canonical overview and lessons aggregate these; material evidence changes propagate to them selectively.
+
+## Usefulness revision claims
+
+### CLM-0039 — candidate feedback informed a specific assessment choice
+
+Canonical ID PRJ-0002:CLM-0039. Reported actor decision; supported with attribution, medium confidence, qualified RT-0005. SRC-0036 describes references/language/coding changes in response to candidate feedback. The mechanism shifts emphasis from syntax recall to problem solving with tools. Exact chronology and independent hiring-quality effects unverified; no implied replacement of integrity controls.
+
+### CLM-0040 — founder attention and execution infrastructure were distinct resource decisions
+
+Canonical ID PRJ-0002:CLM-0040. Historical/conditional synthesis; supported for stated choices, medium confidence, qualified RT-0005. SRC-0014/0006 place delegation and reported growth difficulty in March/April 2026. SRC-0018's June account describes earlier Java rigidity, always-on overhead and component reuse; SRC-0038 clarifies deployment options. These could release scarce capacity without proving new-buyer trust, margin or acquisition success. No formal alternative comparison or actual purchase of Judge0 inferred.
+
+### CLM-0041 — workflow scope and metered commercial units must be judged together
+
+Canonical ID PRJ-0002:CLM-0041. Observation/conditional interpretation; supported for published terms/workflow, medium confidence for implications; qualified RT-0005. SRC-0003 prices users/activity, not disclosed separate TARA revenue. SRC-0010/0008 document orchestration/human controls; SRC-0037 documents candidate participation work. Two-user/20-interview ₹13,000 versus ₹18,000 examples are arithmetic illustrations from listed conversational/coding rates, excluding other charges/adjustments, not typical realized bills or savings. No successful pivot inferred.
