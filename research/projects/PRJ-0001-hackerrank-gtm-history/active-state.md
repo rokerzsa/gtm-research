@@ -18,6 +18,7 @@
 | Goal / recovery | No new goal requested or created; no recovery marker pending |
 | Branch / delivery | work/next-updates, local changes; no commit/push/publication in this revision |
 | Next action | Stop autonomous revision; user may read the revised book continuously or review chapters; introduction remains provisionally approved |
+| Subsequent site-only review | 12 November: two inline Next links corrected to their actual section introductions; curated order/URLs/evidence/acceptance unchanged. Sixteen navigation regression tests, build, shared 31-page verification and typecheck pass locally; see reviews/site-navigation-review.md. No visual or remote-CI pass claimed. |
 
 ## Current qualified interpretation
 

@@ -12,7 +12,7 @@ const config: Config = {
   onBrokenLinks: 'throw',
   markdown: {
     hooks: {
-      onBrokenMarkdownLinks: 'warn',
+      onBrokenMarkdownLinks: 'throw',
     },
   },
   favicon: 'img/favicon.svg',
@@ -54,8 +54,7 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'researchLibrary',
+          to: '/',
           position: 'left',
           label: 'Research',
         },

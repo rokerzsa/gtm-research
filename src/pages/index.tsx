@@ -1,62 +1,28 @@
+import type {ReactElement} from 'react';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
 import Link from '@docusaurus/Link';
+import {researchBooks, bookRoute} from '../data/researchLibrary';
 import styles from './index.module.css';
 
-export default function Home(): JSX.Element {
+export default function Home(): ReactElement {
   return (
-    <Layout
-      title="GTM Research Library"
-      description="Research on how companies build, change and take their businesses to market."
-    >
+    <Layout title="GTM Research Library" description="Research on how companies build, change and take their businesses to market.">
       <main className={styles.main}>
         <section className="container">
           <p className={styles.eyebrow}>Company strategy case studies</p>
-          <Heading as="h1" className={styles.title}>
-            Go-to-market, examined over time.
-          </Heading>
-          <p className={styles.subtitle}>
-            Research on how companies found customers, built
-            distribution, and changed their go-to-market.
-          </p>
-          <div className={styles.library}>
-            <div>
-              <p className={styles.kicker}>Featured research</p>
-              <Heading as="h2" className={styles.bookTitle}>
-                HackerRank: GTM strategy, evolution and current bets
-              </Heading>
-              <p className={styles.bookDescription}>
-                How candidate practice became an employer business, how
-                community and hiring workflows connect, and what Chakra
-                changes in the AI era.
-              </p>
+          <Heading as="h1" className={styles.title}>Go-to-market, examined over time.</Heading>
+          <p className={styles.subtitle}>Research on how companies found customers, built distribution, and changed their go-to-market.</p>
+          {researchBooks.map((book) => (
+            <div key={book.project} className={styles.library}>
+              <div>
+                <p className={styles.kicker}>{book.featured ? 'Featured research' : 'Company research'}</p>
+                <Heading as="h2" className={styles.bookTitle}>{book.title}</Heading>
+                <p className={styles.bookDescription}>{book.description}</p>
+              </div>
+              <Link className="button button--primary button--lg" to={bookRoute(book)} aria-label={`Read ${book.label} case study`}>Read the case study</Link>
             </div>
-            <Link
-              className="button button--primary button--lg"
-              to="/docs/projects/PRJ-0001-hackerrank-gtm-history/book/"
-            >
-              Read the case study
-            </Link>
-          </div>
-          <div className={styles.library}>
-            <div>
-              <p className={styles.kicker}>Company research</p>
-              <Heading as="h2" className={styles.bookTitle}>
-                RedyHire: earning trust in automated hiring
-              </Heading>
-              <p className={styles.bookDescription}>
-                How assessment software reached early customers through
-                relationships, confronted the challenge of unfamiliar buyers,
-                and expanded its promise toward coordinating hiring.
-              </p>
-            </div>
-            <Link
-              className="button button--primary button--lg"
-              to="/docs/projects/PRJ-0002-redyhire-gtm-history/book/"
-            >
-              Read the case study
-            </Link>
-          </div>
+          ))}
         </section>
       </main>
     </Layout>

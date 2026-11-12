@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "source": "index.md",
+      "html": "build\\docs\\projects\\PRJ-0003-upgrad-gtm\\book\\index.html",
+      "h1": "UpGrad: making learning a career purchase"
+    },
+    {
+      "source": "part-01-the-case\\01-complete-gtm-system.md",
+      "html": "build\\docs\\projects\\PRJ-0003-upgrad-gtm\\book\\part-01-the-case\\complete-gtm-system\\index.html",
+      "h1": "The complete GTM system"
+    },
+    {
+      "source": "part-01-the-case\\02-premium-learning.md",
+      "html": "build\\docs\\projects\\PRJ-0003-upgrad-gtm\\book\\part-01-the-case\\premium-learning\\index.html",
+      "h1": "Making a premium course credible"
+    },
+    {
+      "source": "part-01-the-case\\03-acquisition-and-commitment.md",
+      "html": "build\\docs\\projects\\PRJ-0003-upgrad-gtm\\book\\part-01-the-case\\acquisition-and-commitment\\index.html",
+      "h1": "Reaching the buyer and closing the commitment"
+    },
+    {
+      "source": "part-01-the-case\\04-portfolio-and-integration.md",
+      "html": "build\\docs\\projects\\PRJ-0003-upgrad-gtm\\book\\part-01-the-case\\portfolio-and-integration\\index.html",
+      "h1": "Buying capabilities and customer access"
+    },
+    {
+      "source": "part-01-the-case\\05-institutions-and-geography.md",
+      "html": "build\\docs\\projects\\PRJ-0003-upgrad-gtm\\book\\part-01-the-case\\institutions-and-geography\\index.html",
+      "h1": "When the institution becomes the customer"
+    },
+    {
+      "source": "part-01-the-case\\06-economics-and-ai.md",
+      "html": "build\\docs\\projects\\PRJ-0003-upgrad-gtm\\book\\part-01-the-case\\economics-and-ai\\index.html",
+      "h1": "Financial discipline and the AI direction"
+    },
+    {
+      "source": "part-01-the-case\\07-lessons-and-limits.md",
+      "html": "build\\docs\\projects\\PRJ-0003-upgrad-gtm\\book\\part-01-the-case\\lessons-and-limits\\index.html",
+      "h1": "What this case establishes"
+    },
+    {
+      "source": "part-01-the-case\\08-evidence-notes.md",
+      "html": "build\\docs\\projects\\PRJ-0003-upgrad-gtm\\book\\part-01-the-case\\evidence-notes\\index.html",
+      "h1": "Evidence notes and reading limits"
+    }
+  ],
+  "errors": [],
+  "scope": "Compiled HTML files, h1 text, UpGrad reading/sidebar route targets and homepage entry. No browser layout, accessibility audit, external uptime or live deployment verification."
+}

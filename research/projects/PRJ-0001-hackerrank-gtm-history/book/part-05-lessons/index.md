@@ -1,3 +1,7 @@
+---
+displayed_sidebar: hackerRankBook
+---
+
 # Bringing the case together
 
 The preceding chapters followed changes in the customer, offer, commercial relationship and work of evaluation. [Strategic conclusions and limits](07-lessons-and-limits.md) returns to the introduction's central question and explains what those changes establish together.

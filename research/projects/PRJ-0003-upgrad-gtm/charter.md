@@ -1,0 +1,11 @@
+# UpGrad GTM research — charter v1
+
+Project PRJ-0003. Authority: [DEC-0001](decisions.md#dec-0001--consolidated-execution-approval). Canonical root: `D:\Project\GTM Research\research`. Convention 1.0.
+
+Explain how UpGrad's commercial system evolved from its 2015 origins through 11 November 2026, including material brands, acquisitions, buyer types and international markets. Address the reported Unacademy acquisition as a provisional lead to verify, not an established premise supplied by approval. The audience is a general strategy reader examining choices, execution, trade-offs and results.
+
+Investigate customer/user/payer distinctions; problems and alternatives; positioning; awareness and acquisition; evaluation, conversion and sales/procurement; pricing and monetization; onboarding/delivery; learner and employer outcomes; retention, expansion, referrals and feedback. Compare periods rather than projecting present pages backward. Explain university/industry partnerships, consumer versus enterprise motions, study abroad/offline activities, acquisition integration, financial discipline and emerging AI-related direction where material.
+
+Use accessible public sources, primary records and independent reporting with explicit access and lineage limits. No paid access or outreach. Numerical resource ceilings are unassigned. Private transaction prices, channel attribution, cohort economics, earliest paying customers and causal outcome estimates may remain investigated unknowns, with attempts and implications recorded. Missing coverage is required work, not an acceptable unknown.
+
+Deliver one canonical complete-company GTM chapter and adaptive strategic deep dives within a substantive, connected Markdown book. Maintain source/claim/gap records, adversarial adjudication, source notes, navigation, journal, budget record, reviews and a completion dossier. Review coverage, depth, evidence and reader comprehension; return to in-scope investigation autonomously when needed. A distinct same-investigator adversarial pass is permitted and must be disclosed. Delivery means ready for user review, not user acceptance. Stop autonomous research after delivery. External publication is a separate action.

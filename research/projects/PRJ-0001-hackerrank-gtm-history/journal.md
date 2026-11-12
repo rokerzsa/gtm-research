@@ -1,5 +1,9 @@
 # Investigation journal — PRJ-0001
 
+## Site-only maintenance note — 12 November 2026
+
+Under the user's shared-library deep review, a new navigation checker detected two inline “next chapter” links that skipped the next section introduction. Corrected full-GTM → origins index and employer-workflow → later-shifts index, including link wording. No company evidence, research conclusion, numbered investigation entry, source/claim allocation or acceptance changed. Curated sequence and URLs preserved. Review/validation: [site navigation review](reviews/site-navigation-review.md); 16 regression tests, build, 31-page shared verification and typecheck passed locally. No deployment or browser visual pass claimed.
+
 [Project index](index.md)
 
 ## Entry 1 — First P1 source inspection

@@ -1,0 +1,52 @@
+[
+  {
+    "project": "PRJ-0001-hackerrank-gtm-history",
+    "sidebarId": "hackerRankBook",
+    "label": "HackerRank",
+    "title": "HackerRank: GTM strategy, evolution and current bets",
+    "description": "How candidate practice became an employer business, how community and hiring workflows connect, and what Chakra changes in the AI era.",
+    "featured": true,
+    "chapters": [
+      "part-00-gtm-system/00-full-gtm-system",
+      {"label": "Finding a business around the hiring problem", "index": "part-01-origins/index", "chapters": ["part-01-origins/01-first-products-and-hackerrank-launch", "part-02-first-customers/02-first-customers-and-monetization"]},
+      {"label": "Building a repeatable employer relationship", "index": "part-03-community-and-sales/index", "chapters": ["part-03-community-and-sales/03-community-and-employer-discovery", "part-03-community-and-sales/04-selling-the-hiring-workflow"]},
+      {"label": "Adapting the offer as the work changes", "index": "part-04-later-shifts/index", "chapters": ["part-04-later-shifts/05-scale-and-remote-hiring", "part-04-later-shifts/06-the-ai-transition"]},
+      "part-05-lessons/07-lessons-and-limits"
+    ],
+    "supplemental": ["part-00-gtm-system/index", "part-02-first-customers/index", "part-05-lessons/index"]
+  },
+  {
+    "project": "PRJ-0002-redyhire-gtm-history",
+    "sidebarId": "redyHireBook",
+    "label": "RedyHire",
+    "title": "RedyHire: earning trust in automated hiring",
+    "description": "How assessment software reached early customers through relationships, confronted unfamiliar buyers, and expanded toward coordinating hiring.",
+    "chapters": [
+      "part-01-the-case/01-the-commercial-system",
+      "part-01-the-case/02-before-the-first-year",
+      "part-01-the-case/03-transferring-trust",
+      "part-01-the-case/04-from-evaluation-to-orchestration",
+      "part-01-the-case/05-lessons-and-limits",
+      "part-01-the-case/06-evidence-notes"
+    ]
+  },
+  {
+    "project": "PRJ-0003-upgrad-gtm",
+    "sidebarId": "upGradBook",
+    "label": "UpGrad",
+    "title": "UpGrad: making learning a career purchase",
+    "description": "How supported learning expanded into university services, employer capabilities, recruitment and acquired platforms, and what remains unproven about integration and economics.",
+    "chapters": [
+      {"label": "The commercial strategy", "chapters": [
+        "part-01-the-case/01-complete-gtm-system",
+        "part-01-the-case/02-premium-learning",
+        "part-01-the-case/03-acquisition-and-commitment",
+        "part-01-the-case/04-portfolio-and-integration",
+        "part-01-the-case/05-institutions-and-geography",
+        "part-01-the-case/06-economics-and-ai",
+        "part-01-the-case/07-lessons-and-limits",
+        "part-01-the-case/08-evidence-notes"
+      ]}
+    ]
+  }
+]

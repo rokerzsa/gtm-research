@@ -35,7 +35,7 @@ Banks, retailers and other employers also hire programmers. The company's 2018 e
 
 The relevant strategic choice was whether to remain a narrow tool for a single hiring task or become useful across a larger process. Broader coverage can create more reasons to use the supplier and more complexity to implement. Actual acquisition, renewal and expansion effects remain unisolated.
 
-A broader workflow therefore changes both sides of the relationship: it creates more potential value for the employer and more responsibility for the supplier. The question becomes whether the company can deliver that value repeatedly as buyers and hiring conditions change. Wider enterprise selling, remote hiring and later pressure to protect existing customers put that question into focus in the [next chapter](../part-04-later-shifts/05-scale-and-remote-hiring.md).
+A broader workflow therefore changes both sides of the relationship: it creates more potential value for the employer and more responsibility for the supplier. The question becomes whether the company can deliver that value repeatedly as buyers and hiring conditions change. Wider enterprise selling, remote hiring and later pressure to protect existing customers put that question into focus in the [next section](../part-04-later-shifts/index.md).
 
 ## Notes and sources
 

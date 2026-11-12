@@ -77,7 +77,7 @@ The connected model can now be summarized without treating every customer as fol
 
 Public sources reveal offers, operating steps and selected customer experiences much more clearly than commercial performance. Channel shares, trial conversion, sales cycles, realized prices, representative implementation costs, renewal rates and product-level expansion are largely unavailable. Independent outcomes are also needed to evaluate the AI proposition. These gaps limit claims about how well the system performs; they do not erase the documented changes in what is offered and delivered.
 
-This model explains how the pieces can connect. Understanding why the company first chose them requires returning to interview practice for candidates. The [next chapter](../part-01-origins/01-first-products-and-hackerrank-launch.md) examines the early move toward employer evaluation and the new commercial problem it created.
+This model explains how the pieces can connect. Understanding why the company first chose them requires returning to interview practice for candidates. The [next section](../part-01-origins/index.md) introduces those early choices and their commercial consequences.
 
 ## Notes and sources
 

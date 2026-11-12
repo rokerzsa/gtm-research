@@ -1,0 +1,27 @@
+{
+  "canonical_counts": {
+    "CLM": 30,
+    "DEC": 1,
+    "GAP": 4,
+    "RT": 4,
+    "SRC": 89,
+    "RC": 1
+  },
+  "markdown_files": 30,
+  "book_pages": 9,
+  "book_words_approx": 9266,
+  "page_words_approx": {
+    "book\\index.md": 648,
+    "book\\part-01-the-case\\01-complete-gtm-system.md": 1822,
+    "book\\part-01-the-case\\02-premium-learning.md": 814,
+    "book\\part-01-the-case\\03-acquisition-and-commitment.md": 881,
+    "book\\part-01-the-case\\04-portfolio-and-integration.md": 1732,
+    "book\\part-01-the-case\\05-institutions-and-geography.md": 1034,
+    "book\\part-01-the-case\\06-economics-and-ai.md": 970,
+    "book\\part-01-the-case\\07-lessons-and-limits.md": 585,
+    "book\\part-01-the-case\\08-evidence-notes.md": 780
+  },
+  "unique_book_public_urls": 85,
+  "errors": [],
+  "scope": "Local targets/anchors, canonical IDs/allocations, frontmatter and book-source URL traceability. No external uptime, independent truth, rendered layout or editorial-quality proof."
+}
